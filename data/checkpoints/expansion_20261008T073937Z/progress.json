@@ -1,0 +1,328 @@
+{
+  "version": 1,
+  "created_utc": "20261008T073937Z",
+  "status": "complete",
+  "cutoff": "2026-10-08",
+  "backup_directory": "data\\backups\\20261008T073937Z",
+  "preservation_hashes": "data\\backups\\20261008T073937Z\\hashes.json",
+  "sec_user_agent_configuration": "Existing identity in src_code/1_download.py; retained unchanged",
+  "blocker": null,
+  "companies": [
+    {
+      "ticker": "MSFT",
+      "sector": "Technology / Software",
+      "issuer_verified": true,
+      "source_acquisition": "verified",
+      "extraction": "verified",
+      "metrics": "verified",
+      "annotation": "completed",
+      "annotation_qa": "verified"
+    },
+    {
+      "ticker": "ADBE",
+      "sector": "Technology / Software",
+      "issuer_verified": true,
+      "source_acquisition": "verified",
+      "extraction": "verified",
+      "metrics": "verified",
+      "annotation": "completed",
+      "annotation_qa": "verified"
+    },
+    {
+      "ticker": "CRM",
+      "sector": "Technology / Software",
+      "issuer_verified": true,
+      "source_acquisition": "verified",
+      "extraction": "verified",
+      "metrics": "verified",
+      "annotation": "completed",
+      "annotation_qa": "verified"
+    },
+    {
+      "ticker": "WMT",
+      "sector": "Retail / Consumer Commerce",
+      "issuer_verified": true,
+      "source_acquisition": "verified",
+      "extraction": "verified",
+      "metrics": "verified",
+      "annotation": "completed",
+      "annotation_qa": "verified"
+    },
+    {
+      "ticker": "TGT",
+      "sector": "Retail / Consumer Commerce",
+      "issuer_verified": true,
+      "source_acquisition": "verified",
+      "extraction": "verified",
+      "metrics": "verified",
+      "annotation": "completed",
+      "annotation_qa": "verified"
+    },
+    {
+      "ticker": "COST",
+      "sector": "Retail / Consumer Commerce",
+      "issuer_verified": true,
+      "source_acquisition": "verified",
+      "extraction": "verified",
+      "metrics": "verified",
+      "annotation": "completed",
+      "annotation_qa": "verified"
+    },
+    {
+      "ticker": "JPM",
+      "sector": "Financial Services / Banking",
+      "issuer_verified": true,
+      "source_acquisition": "verified",
+      "extraction": "verified",
+      "metrics": "verified",
+      "annotation": "completed",
+      "annotation_qa": "verified"
+    },
+    {
+      "ticker": "BAC",
+      "sector": "Financial Services / Banking",
+      "issuer_verified": true,
+      "source_acquisition": "verified",
+      "extraction": "verified",
+      "metrics": "verified",
+      "annotation": "completed",
+      "annotation_qa": "verified"
+    },
+    {
+      "ticker": "C",
+      "sector": "Financial Services / Banking",
+      "issuer_verified": true,
+      "source_acquisition": "verified",
+      "extraction": "verified",
+      "metrics": "verified",
+      "annotation": "completed",
+      "annotation_qa": "verified"
+    },
+    {
+      "ticker": "JNJ",
+      "sector": "Healthcare / Pharmaceuticals",
+      "issuer_verified": true,
+      "source_acquisition": "verified",
+      "extraction": "verified",
+      "metrics": "verified",
+      "annotation": "completed",
+      "annotation_qa": "verified"
+    },
+    {
+      "ticker": "PFE",
+      "sector": "Healthcare / Pharmaceuticals",
+      "issuer_verified": true,
+      "source_acquisition": "verified",
+      "extraction": "verified",
+      "metrics": "verified",
+      "annotation": "completed",
+      "annotation_qa": "verified"
+    },
+    {
+      "ticker": "MRK",
+      "sector": "Healthcare / Pharmaceuticals",
+      "issuer_verified": true,
+      "source_acquisition": "verified",
+      "extraction": "verified",
+      "metrics": "verified",
+      "annotation": "completed",
+      "annotation_qa": "verified"
+    },
+    {
+      "ticker": "CAT",
+      "sector": "Industrials / Manufacturing",
+      "issuer_verified": true,
+      "source_acquisition": "verified",
+      "extraction": "verified",
+      "metrics": "verified",
+      "annotation": "completed",
+      "annotation_qa": "verified"
+    },
+    {
+      "ticker": "DE",
+      "sector": "Industrials / Manufacturing",
+      "issuer_verified": true,
+      "source_acquisition": "verified",
+      "extraction": "verified",
+      "metrics": "verified",
+      "annotation": "completed",
+      "annotation_qa": "verified"
+    },
+    {
+      "ticker": "HON",
+      "sector": "Industrials / Manufacturing",
+      "issuer_verified": true,
+      "source_acquisition": "verified",
+      "extraction": "verified",
+      "metrics": "verified",
+      "annotation": "completed",
+      "annotation_qa": "verified"
+    },
+    {
+      "ticker": "XOM",
+      "sector": "Energy / Oil & Gas",
+      "issuer_verified": true,
+      "source_acquisition": "verified",
+      "extraction": "verified",
+      "metrics": "verified",
+      "annotation": "completed",
+      "annotation_qa": "verified"
+    },
+    {
+      "ticker": "CVX",
+      "sector": "Energy / Oil & Gas",
+      "issuer_verified": true,
+      "source_acquisition": "verified",
+      "extraction": "verified",
+      "metrics": "verified",
+      "annotation": "completed",
+      "annotation_qa": "verified"
+    },
+    {
+      "ticker": "COP",
+      "sector": "Energy / Oil & Gas",
+      "issuer_verified": true,
+      "source_acquisition": "verified",
+      "extraction": "verified",
+      "metrics": "verified",
+      "annotation": "completed",
+      "annotation_qa": "verified"
+    }
+  ],
+  "completed": [
+    "Project/protocol/schema inspection",
+    "Exact timestamped backups with SHA-256 verification",
+    "SEC configuration inspection and connectivity diagnostic"
+  ],
+  "canonical_outputs_replaced": true,
+  "new_filings_downloaded": 15,
+  "new_passages_annotated": 0,
+  "checkpoint_policy": {
+    "source_companies_per_save": 3,
+    "annotation_parents_per_batch": 50,
+    "maximum_minutes_without_save": 30,
+    "company_qa_gate": true
+  },
+  "source_records_verified": 18,
+  "annotation_batches": [
+    {
+      "file": "data\\checkpoints\\expansion_20261008T073937Z\\annotation_batches\\batch01.csv",
+      "parent_start": 0,
+      "parent_end": 49,
+      "parent_count": 50,
+      "claim_count": 60,
+      "source_quote_qa": "passed",
+      "sha256": "67133bc9281201ddbdf41b42f69d364ada5bf0bdc796592ab4d03f3ecf194b76"
+    },
+    {
+      "file": "data\\checkpoints\\expansion_20261008T073937Z\\annotation_batches\\batch02.csv",
+      "parent_start": 50,
+      "parent_end": 100,
+      "parent_count": 51,
+      "claim_count": 60,
+      "source_quote_qa": "passed",
+      "sha256": "068614d8ba1ac5e80bfdea2d97d68231bf8471b2027083acd3b2307a26b52745"
+    },
+    {
+      "file": "data\\checkpoints\\expansion_20261008T073937Z\\annotation_batches\\batch03.csv",
+      "parent_start": 101,
+      "parent_end": 150,
+      "parent_count": 50,
+      "claim_count": 58,
+      "source_quote_qa": "passed",
+      "sha256": "5a7f5f9da4a57fcb013d4a4a48265d88c88899740cd1ce444b88023694f9ed98"
+    },
+    {
+      "file": "data\\checkpoints\\expansion_20261008T073937Z\\annotation_batches\\batch04.csv",
+      "parent_start": 151,
+      "parent_end": 200,
+      "parent_count": 50,
+      "claim_count": 59,
+      "source_quote_qa": "passed",
+      "sha256": "4f0e51184471e4d1e7864b6d9eb772e1b65b345bf563642823faebf4f55c6226"
+    },
+    {
+      "file": "data\\checkpoints\\expansion_20261008T073937Z\\annotation_batches\\batch05.csv",
+      "parent_start": 201,
+      "parent_end": 250,
+      "parent_count": 50,
+      "claim_count": 54,
+      "source_quote_qa": "passed",
+      "sha256": "22cb80fa96e6ee32a7d8340e90db7a6abe61301dd698a5a29c8dae355a9104a4"
+    },
+    {
+      "file": "data\\checkpoints\\expansion_20261008T073937Z\\annotation_batches\\batch06.csv",
+      "parent_start": 251,
+      "parent_end": 300,
+      "parent_count": 50,
+      "claim_count": 54,
+      "source_quote_qa": "passed",
+      "sha256": "1ee7cc0dce4fda790b274378f350e3f65a1293f6483835c18edfd8645b68b06b"
+    },
+    {
+      "file": "data\\checkpoints\\expansion_20261008T073937Z\\annotation_batches\\batch07.csv",
+      "parent_start": 301,
+      "parent_end": 350,
+      "parent_count": 50,
+      "claim_count": 55,
+      "source_quote_qa": "passed",
+      "sha256": "7a758555031e2c8091990319eb0b1ed8756013da65426c7782bfd4baea00704e"
+    },
+    {
+      "file": "data\\checkpoints\\expansion_20261008T073937Z\\annotation_batches\\batch08.csv",
+      "parent_start": 351,
+      "parent_end": 392,
+      "parent_count": 42,
+      "claim_count": 47,
+      "source_quote_qa": "passed",
+      "sha256": "679ce38cabfcc20f1317db2bde0231ca1ae47cac3b9ed1f97426a0def3ceda31"
+    }
+  ],
+  "annotated_parent_count": 393,
+  "new_annotation_rows": 447,
+  "qa_summary": {
+    "companies": 18,
+    "filings": 18,
+    "parents": 393,
+    "annotation_rows": 447,
+    "relevance": {
+      "substantive": 417,
+      "context_only": 22,
+      "uncertain": 7,
+      "irrelevant": 1
+    },
+    "stages": {
+      "1": 46,
+      "NA": 308,
+      "4": 80,
+      "2": 13
+    },
+    "resolved_applications": 50,
+    "resolved_deployed_applications": 40,
+    "deployment_claims": 80,
+    "review_flags": 85,
+    "uncertain_relevance": 7,
+    "uncertain_eligibility": 14,
+    "checks": [
+      "18 issuer/source identities, latest original 10-K selections and cutoff verified, including explicitly documented XOM predecessor exception",
+      "18 primary HTML checksums, closing document tags, inline XBRL CIK/form/report-date context and metadata verified",
+      "393 extraction records reproduced exactly from source; unique stable IDs and exact-text deduplication verified",
+      "All word-count, candidate-count, word-share and nonoverlapping mention formulas reconciled",
+      "Original 140 parent texts/locations/IDs, 15 calibration IDs, and all three lexical metric rows preserved; one Microsoft keyword-tag recomputation difference documented",
+      "447 unique claim IDs cover every one of 393 parents; no blank/unprocessed fields or orphan records",
+      "All exact quotations/offsets/source lines/report periods, categories and numeric ranges verified",
+      "Stage-ineligible/screening/risk-only safeguards, current-versus-historical timing, plan eligibility and Stage 5 mapping checked",
+      "Named application identities reconcile across repetitions; claims and parent passages not used as application counts",
+      "All rows unvalidated; no individual Stage 0, pilot, or Stage 5 claims",
+      "Original CSV/report/script backups hash-verified; protocol, notebook, original raw files and calibration sample unchanged"
+    ],
+    "publication_backup": "data\\backups\\publication_20261008T094409Z"
+  },
+  "canonical_sha256": {
+    "sources_downloaded.csv": "f8efd80c5439fb8463f08d7f86a4f4d5c81dd1022f41ac90c6f09da5f38708f6",
+    "ai_passages.csv": "9d15741f8e238651116f94b5df11c2a0883c704fa6459d440ff8cad197301591",
+    "document_metrics.csv": "62d3eb9d903cf46f5d456f7331f2e77850554c3a95e8a2ab1f116e1f997e3615",
+    "ai_annotations.csv": "26bc0fac1970ec3d4588ac271e6bc9b0c9b6cfe923f2654d6ab7945c10415fd5"
+  },
+  "completion_utc": "2026-10-08T09:44:10.089905+00:00"
+}

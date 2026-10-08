@@ -1,0 +1,117 @@
+[
+  {
+    "original": "data/sources_downloaded.csv",
+    "backup": "data\\backups\\20261008T073937Z\\data\\sources_downloaded.csv",
+    "sha256": "a6c0c7ca89617d67fff6aae78e2dc7978e79347e6a6313cad8a841c9044237ef"
+  },
+  {
+    "original": "data/ai_passages.csv",
+    "backup": "data\\backups\\20261008T073937Z\\data\\ai_passages.csv",
+    "sha256": "5877c4d85a59ea52649ebdb05bc7c6facd94ab53e4ebe27f3f0efb4642ba7116"
+  },
+  {
+    "original": "data/document_metrics.csv",
+    "backup": "data\\backups\\20261008T073937Z\\data\\document_metrics.csv",
+    "sha256": "090472d575aa4b409dd9b5a30f3b1874e2641cb448d8964f32e7c707b3cc0564"
+  },
+  {
+    "original": "data/ai_annotations.csv",
+    "backup": "data\\backups\\20261008T073937Z\\data\\ai_annotations.csv",
+    "sha256": "2b1a015fb92579ad79589caa873506360b21e68f03edc8f7a2bd8322d13640c8"
+  },
+  {
+    "original": "AI_Annotation_First_Pass_Report.md",
+    "backup": "data\\backups\\20261008T073937Z\\AI_Annotation_First_Pass_Report.md",
+    "sha256": "389ebdbc82a4b1a4ce7a27e4b32e0308552b57a52f1f48edf25e1dd3e515331d"
+  },
+  {
+    "original": "src_code/1_download.py",
+    "backup": "data\\backups\\20261008T073937Z\\src_code\\1_download.py",
+    "sha256": "a7f3ab9c6f29763d7c21df3b7e2f27a193bfbbef6838ac079f75ae718cebfb0a"
+  },
+  {
+    "original": "src_code/2_extract_ai.py",
+    "backup": "data\\backups\\20261008T073937Z\\src_code\\2_extract_ai.py",
+    "sha256": "447d0cae5a1bf707e00f274d1a04f96949501c27e5bc9e412e1fe59c131587d5"
+  },
+  {
+    "original": "src_code/3_document_metrics.py",
+    "backup": "data\\backups\\20261008T073937Z\\src_code\\3_document_metrics.py",
+    "sha256": "06dd55e40510f8426ba6187e8dbd9af7e35088851d62221fb64f0e89820487c2"
+  },
+  {
+    "original": "Protocol.md",
+    "sha256": "6174872d08cb8a3c43c92c810d362aca90a9d78070c60fe8ac358635a2d99f40",
+    "preserve_only": true
+  },
+  {
+    "original": "document_metrics.ipynb",
+    "sha256": "0bb701b9b2efbb05b0ed4a56e419c8de327e792ce26d842c9f6a539dc4aea0f3",
+    "preserve_only": true
+  },
+  {
+    "original": "data\\raw\\alpha_demo.web.txt",
+    "sha256": "6187515d8de9264cc8e843a95e4215561067deb1f0cfedab1d387df35044fc3f",
+    "preserve_only": true
+  },
+  {
+    "original": "data\\raw\\JPM_10K_2025.web.txt",
+    "sha256": "7dd88f77b63ae102f38f8135c78010c12191caf3b8db82148c5207b657d26a94",
+    "preserve_only": true
+  },
+  {
+    "original": "data\\raw\\JPM_10K_2026-02-13.html",
+    "sha256": "d9c40aef41c501c9bc15cf1657b133af7f9fb626018ff4f694db1d3d4e70b5a3",
+    "preserve_only": true
+  },
+  {
+    "original": "data\\raw\\JPM_10K_2026-02-13.txt",
+    "sha256": "993e45f6ca2f12951d8b85c21287e158cb0e1732e5053a025d1493c8ba08e502",
+    "preserve_only": true
+  },
+  {
+    "original": "data\\raw\\JPM_CALL_2026Q2.web.txt",
+    "sha256": "e6c474eb7204a19044ccf0a144331a32c1ea30301d2fc92cf6c485363d6175c5",
+    "preserve_only": true
+  },
+  {
+    "original": "data\\raw\\MSFT_10K_2026-07-29.html",
+    "sha256": "6c2858c9d8b3360462ebf26f8aa5408b0bf5f46ae9e0ae7f91fbffc535ee9127",
+    "preserve_only": true
+  },
+  {
+    "original": "data\\raw\\MSFT_10K_2026-07-29.txt",
+    "sha256": "d8abaffdbf47ffb88ba56b826514759fef079cda66810b0b54f08ee300b6aaa4",
+    "preserve_only": true
+  },
+  {
+    "original": "data\\raw\\MSFT_10K_2026.web.txt",
+    "sha256": "90b32535d08918056c0b00da048af2dc443f562361c7d3e357a1f21558cbbb9b",
+    "preserve_only": true
+  },
+  {
+    "original": "data\\raw\\MSFT_CALL_2026Q4.web.txt",
+    "sha256": "81636b3c8d4be64dd925ff812d0b52f701e105eefbd435bba4513179318ac94d",
+    "preserve_only": true
+  },
+  {
+    "original": "data\\raw\\WMT_10K_2026-03-13.html",
+    "sha256": "7cf714a6b54becde8d5c3c396db7cffa7025bcedc58c37bedb8813eabc69a4ce",
+    "preserve_only": true
+  },
+  {
+    "original": "data\\raw\\WMT_10K_2026-03-13.txt",
+    "sha256": "97db8f78c81a301b59602984a653935d1b8e553eab688654c96f9f245ec9eecd",
+    "preserve_only": true
+  },
+  {
+    "original": "data\\raw\\WMT_10K_2026.web.txt",
+    "sha256": "4f54b1947dc9612a689bd59ff0844eb58370bb91fbfc7fad920fe971f3030613",
+    "preserve_only": true
+  },
+  {
+    "original": "data\\raw\\WMT_CALL_2027Q2.web.txt",
+    "sha256": "84af09b377809957a88481041afa8445632e7cd89cfbadc72433b57b7d550da0",
+    "preserve_only": true
+  }
+]

@@ -1,11 +1,12 @@
 import csv
+import argparse
+import os
 import re
 from importlib import import_module
 from pathlib import Path
 
 extract_ai = import_module("2_extract_ai")
 PATTERNS = extract_ai.PATTERNS
-SOURCE_FILES = extract_ai.SOURCE_FILES
 
 
 MENTION_PATTERN = re.compile(
@@ -22,14 +23,20 @@ def count_mentions(text):
 
 def main():
     root = Path(__file__).resolve().parent.parent
-    with (root / "data" / "ai_passages.csv").open(encoding="utf-8-sig", newline="") as source:
+    parser=argparse.ArgumentParser()
+    parser.add_argument('--sources', type=Path, default=root/'data/sources_downloaded.csv')
+    parser.add_argument('--passages', type=Path, default=root/'data/ai_passages.csv')
+    parser.add_argument('--output', type=Path, default=root/'data/document_metrics.csv')
+    args=parser.parse_args()
+    sources=extract_ai.source_files(args.sources)
+    with args.passages.open(encoding="utf-8-sig", newline="") as source:
         passages = list(csv.DictReader(source))
     for passage in passages:
-        if SOURCE_FILES.get(passage["ticker"]) != passage["source_file"]:
+        if sources.get(passage["ticker"]) != passage["source_file"]:
             raise ValueError("Candidate passage has an unexpected ticker or source file")
 
     rows = []
-    for ticker, filename in SOURCE_FILES.items():
+    for ticker, filename in sources.items():
         text = (root / "data" / "raw" / filename).read_text(encoding="utf-8")
         total_words = len(text.split())
         if total_words == 0:
@@ -48,11 +55,19 @@ def main():
             "ai_mentions_per_1000_words": mentions * 1000 / total_words,
         })
 
-    output = root / "data" / "document_metrics.csv"
-    with output.open("x", encoding="utf-8-sig", newline="") as destination:
+    output = args.output
+    temporary=output.with_name(output.name+'.tmp')
+    with temporary.open("w", encoding="utf-8-sig", newline="") as destination:
         writer = csv.DictWriter(destination, fieldnames=list(rows[0]))
         writer.writeheader()
         writer.writerows(rows)
+    if output.exists():
+        from datetime import datetime, timezone
+        backup=root/'data/backups'/datetime.now(timezone.utc).strftime('%Y%m%dT%H%M%S%fZ')/output.name
+        backup.parent.mkdir(parents=True,exist_ok=True)
+        backup.write_bytes(output.read_bytes())
+        assert backup.read_bytes()==output.read_bytes()
+    os.replace(temporary,output)
 
     print("ticker\ttotal_word_count\tai_candidate_passage_count\tai_candidate_word_count"
           "\tai_candidate_word_share\tai_mention_count\tai_mentions_per_1000_words")

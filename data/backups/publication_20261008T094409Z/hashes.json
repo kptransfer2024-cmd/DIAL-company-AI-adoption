@@ -1,0 +1,27 @@
+[
+  {
+    "path": "data/sources_downloaded.csv",
+    "sha256": "f8efd80c5439fb8463f08d7f86a4f4d5c81dd1022f41ac90c6f09da5f38708f6",
+    "backup": "data\\backups\\publication_20261008T094409Z\\data\\sources_downloaded.csv"
+  },
+  {
+    "path": "data/ai_passages.csv",
+    "sha256": "9d15741f8e238651116f94b5df11c2a0883c704fa6459d440ff8cad197301591",
+    "backup": "data\\backups\\publication_20261008T094409Z\\data\\ai_passages.csv"
+  },
+  {
+    "path": "data/document_metrics.csv",
+    "sha256": "62d3eb9d903cf46f5d456f7331f2e77850554c3a95e8a2ab1f116e1f997e3615",
+    "backup": "data\\backups\\publication_20261008T094409Z\\data\\document_metrics.csv"
+  },
+  {
+    "path": "data/ai_annotations.csv",
+    "sha256": "43b58d410ae8b07c93a018ddb296ad57ecafac2785ee4d86522d4acfd90f1c43",
+    "backup": "data\\backups\\publication_20261008T094409Z\\data\\ai_annotations.csv"
+  },
+  {
+    "path": "AI_Annotation_First_Pass_Report.md",
+    "sha256": "9d6eb3b596ee79b7c979077ab8cf3a5484931a16fd8d69d47561d40af194b7fc",
+    "backup": "data\\backups\\publication_20261008T094409Z\\AI_Annotation_First_Pass_Report.md"
+  }
+]

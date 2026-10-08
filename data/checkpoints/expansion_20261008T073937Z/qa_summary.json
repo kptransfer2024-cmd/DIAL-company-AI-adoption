@@ -1,0 +1,38 @@
+{
+  "companies": 18,
+  "filings": 18,
+  "parents": 393,
+  "annotation_rows": 447,
+  "relevance": {
+    "substantive": 417,
+    "context_only": 22,
+    "uncertain": 7,
+    "irrelevant": 1
+  },
+  "stages": {
+    "1": 46,
+    "NA": 308,
+    "4": 80,
+    "2": 13
+  },
+  "resolved_applications": 50,
+  "resolved_deployed_applications": 40,
+  "deployment_claims": 80,
+  "review_flags": 85,
+  "uncertain_relevance": 7,
+  "uncertain_eligibility": 14,
+  "checks": [
+    "18 issuer/source identities, latest original 10-K selections and cutoff verified, including explicitly documented XOM predecessor exception",
+    "18 primary HTML checksums, closing document tags, inline XBRL CIK/form/report-date context and metadata verified",
+    "393 extraction records reproduced exactly from source; unique stable IDs and exact-text deduplication verified",
+    "All word-count, candidate-count, word-share and nonoverlapping mention formulas reconciled",
+    "Original 140 parent texts/locations/IDs, 15 calibration IDs, and all three lexical metric rows preserved; one Microsoft keyword-tag recomputation difference documented",
+    "447 unique claim IDs cover every one of 393 parents; no blank/unprocessed fields or orphan records",
+    "All exact quotations/offsets/source lines/report periods, categories and numeric ranges verified",
+    "Stage-ineligible/screening/risk-only safeguards, current-versus-historical timing, plan eligibility and Stage 5 mapping checked",
+    "Named application identities reconcile across repetitions; claims and parent passages not used as application counts",
+    "All rows unvalidated; no individual Stage 0, pilot, or Stage 5 claims",
+    "Original CSV/report/script backups hash-verified; protocol, notebook, original raw files and calibration sample unchanged"
+  ],
+  "publication_backup": "data\\backups\\publication_20261008T094409Z"
+}

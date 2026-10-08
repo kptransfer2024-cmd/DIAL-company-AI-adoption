@@ -1,0 +1,550 @@
+[
+  {
+    "i": 301,
+    "n": "Failure to manage AI technology may harm reputation; no particular adoption task.",
+    "q": "Our reputation and business prospects",
+    "end": "information,",
+    "risk": "reputational|operational",
+    "f": "yes",
+    "tmp": "hypothetical",
+    "sp": 2
+  },
+  {
+    "i": 302,
+    "n": "Firm subject to evolving AI/data/privacy requirements.",
+    "risk": "regulatory|privacy",
+    "f": "yes",
+    "sp": 2
+  },
+  {
+    "i": 303,
+    "n": "AI adaptability as a competitive success requirement, not an intended application.",
+    "risk": "competitive|operational",
+    "f": "yes",
+    "tmp": "hypothetical",
+    "sp": 2,
+    "ctx": "yes"
+  },
+  {
+    "i": 304,
+    "n": "Industry AI/automated technology disruption and disintermediation risk.",
+    "risk": "competitive|regulatory|financial",
+    "actor": "industry",
+    "f": "yes",
+    "tmp": "hypothetical",
+    "sp": 2
+  },
+  {
+    "i": 305,
+    "n": "Failure to develop/apply emerging AI may undermine future competitive benefits.",
+    "q": "Our businesses may",
+    "end": "anticipated.",
+    "risk": "competitive|third_party|financial",
+    "f": "yes",
+    "tmp": "hypothetical",
+    "sp": 2
+  },
+  {
+    "i": 306,
+    "n": "Enterprise model oversight includes AI-linked model risk; no specific AI application deployment established.",
+    "q": "Under our Enterprise Model Risk Policy",
+    "end": "AI.",
+    "gov": "yes",
+    "risk": "model_quality",
+    "scope": "internal_operations",
+    "sp": 3,
+    "ctx": "yes"
+  },
+  {
+    "i": 307,
+    "n": "Poor AI model training/bias and oversight could cause operational/regulatory losses.",
+    "q": "Our models may also",
+    "end": "risk.",
+    "risk": "model_quality|bias|operational|regulatory|financial",
+    "f": "yes",
+    "tmp": "hypothetical",
+    "sp": 3
+  },
+  {
+    "i": 308,
+    "n": "Steps toward using AI in data management identify intended function, not production evidence.",
+    "q": "While we continually",
+    "end": "controls.",
+    "st": 2,
+    "strategy": "yes",
+    "uc": "ai_data_management",
+    "use": "AI-assisted data management",
+    "scope": "internal_operations",
+    "o": "efficiency",
+    "f": "yes",
+    "tmp": "planned",
+    "risk": "operational|model_quality",
+    "sp": 3,
+    "conf": "medium",
+    "u": "Taking steps to leverage AI supports intent; routine operation is not asserted."
+  },
+  {
+    "i": 309,
+    "n": "Safe-harbor inventory references AI risks without independent detailed evidence.",
+    "q": "the risks related to the development",
+    "end": "intelligence;",
+    "r": "context_only",
+    "f": "yes",
+    "tmp": "hypothetical",
+    "ctx": "yes"
+  },
+  {
+    "i": 310,
+    "n": "AI use/development included within corporate compliance risk.",
+    "q": "We are subject to comprehensive",
+    "end": "practices.",
+    "risk": "regulatory|privacy",
+    "sp": 2
+  },
+  {
+    "i": 311,
+    "n": "AI technological change may heighten model/data/operational exposure.",
+    "q": "The pace of technological change",
+    "end": "areas.",
+    "risk": "operational|model_quality",
+    "f": "yes",
+    "tmp": "hypothetical",
+    "sp": 2,
+    "ctx": "yes"
+  },
+  {
+    "i": 312,
+    "n": "Implemented internal AI-risk governance frameworks and compliance processes.",
+    "q": "To address AI-related risks",
+    "end": "operations.",
+    "gov": "yes",
+    "scope": "internal_operations",
+    "sp": 3
+  },
+  {
+    "i": 313,
+    "n": "AI cyber threat growth could cause material business harm.",
+    "risk": "cybersecurity|financial",
+    "actor": "other",
+    "f": "yes",
+    "sp": 2,
+    "ctx": "yes"
+  },
+  {
+    "i": 314,
+    "n": "Glossary AI definition is not substantive corporate evidence.",
+    "q": "AI Artificial intelligence",
+    "r": "context_only",
+    "firm": "no",
+    "actor": "other",
+    "tmp": "unclear"
+  },
+  {
+    "i": 315,
+    "n": "Reported 2025 AI regulatory-data governance implementation; ongoing status not explicit.",
+    "uc": "regulatory_data_ai",
+    "use": "AI governance of regulatory-report data",
+    "scope": "internal_operations",
+    "tmp": "historical",
+    "sp": 3,
+    "o": "security",
+    "elig": "uncertain",
+    "ctx": "yes",
+    "ctxref": "C_10K_2026-02-20.txt:L329-L347",
+    "conf": "medium",
+    "u": "Annual transformation accomplishment establishes past application; current continuation not separately confirmed."
+  },
+  {
+    "i": 316,
+    "n": "Cross-reference to AI competition risk within focal commercial exposure.",
+    "q": "For additional information",
+    "end": "below.",
+    "risk": "competitive",
+    "sp": 1
+  },
+  {
+    "i": 317,
+    "n": "AI industry disruption may reduce competitiveness.",
+    "risk": "competitive",
+    "actor": "industry",
+    "f": "yes",
+    "tmp": "hypothetical",
+    "sp": 2
+  },
+  {
+    "i": 318,
+    "n": "AI development without adequate controls may create operational gaps.",
+    "q": "For example, the use or development",
+    "end": "below).",
+    "risk": "operational|regulatory",
+    "f": "yes",
+    "tmp": "hypothetical",
+    "sp": 2
+  },
+  {
+    "i": 319,
+    "n": "AI development/use risk heading states focal business exposure.",
+    "risk": "operational",
+    "sp": 1,
+    "f": "yes"
+  },
+  {
+    "i": 320,
+    "n": "Currently begun broad GenAI deployment, but no independent task specified.",
+    "q": "Citi has used AI",
+    "end": "services.",
+    "st": 4,
+    "scope": "internal_operations",
+    "use": "Current GenAI platform/service deployment; tasks unspecified",
+    "tech": "genai",
+    "sp": 2,
+    "conf": "medium",
+    "u": "Earlier AI/ML use distinguished from recent GenAI rollout; no countable task identified."
+  },
+  {
+    "i": 320,
+    "n": "Future broader GenAI/agent integration ambition lacks concrete intended task.",
+    "q": "In the future, Citi expects",
+    "end": "costs.",
+    "st": 1,
+    "strategy": "yes",
+    "scope": "internal_operations",
+    "tech": "genai",
+    "f": "yes",
+    "tmp": "planned",
+    "sp": 2,
+    "risk": "operational|financial"
+  },
+  {
+    "i": 321,
+    "n": "Existing emerging-technology/model-risk policies apply to AI.",
+    "q": "While Citi has policies",
+    "end": "management,",
+    "gov": "yes",
+    "scope": "internal_operations",
+    "tech": "genai",
+    "sp": 2
+  },
+  {
+    "i": 321,
+    "n": "GenAI prompts/oversight/output/data/IP and explainability risks.",
+    "q": "ineffective, inadequate or faulty",
+    "end": "decisions.",
+    "risk": "model_quality|bias|privacy|intellectual_property|regulatory",
+    "tech": "genai",
+    "f": "yes",
+    "tmp": "hypothetical",
+    "sp": 3
+  },
+  {
+    "i": 322,
+    "n": "Third-party model/data restrictions and interconnected customer/vendor AI risk.",
+    "risk": "third_party|intellectual_property|cybersecurity|operational",
+    "f": "yes",
+    "tmp": "hypothetical",
+    "sp": 3
+  },
+  {
+    "i": 323,
+    "n": "Malicious AI fraud, misinformation and cyber manipulation exposure.",
+    "risk": "cybersecurity|misuse|privacy|regulatory|reputational",
+    "actor": "other",
+    "sp": 3
+  },
+  {
+    "i": 324,
+    "n": "Competitor faster AI deployment could erode competitive position.",
+    "risk": "competitive",
+    "actor": "competitor",
+    "f": "yes",
+    "tmp": "hypothetical",
+    "sp": 2
+  },
+  {
+    "i": 325,
+    "n": "AI regulatory change may create costs and legal/reputational consequences.",
+    "risk": "regulatory|financial|reputational",
+    "f": "yes",
+    "tmp": "hypothetical",
+    "sp": 2
+  },
+  {
+    "i": 326,
+    "n": "AI-driven technological proliferation increases operational risk.",
+    "risk": "operational|financial",
+    "f": "yes",
+    "sp": 2
+  },
+  {
+    "i": 327,
+    "n": "AI/cloud use and remote connectivity increase cyber exposure.",
+    "q": "The increasing use of cloud",
+    "end": "risks.",
+    "risk": "cybersecurity",
+    "sp": 2
+  },
+  {
+    "i": 328,
+    "n": "Evolving AI cyberattack techniques may defeat controls.",
+    "q": "In addition, cyber threats",
+    "end": "computing.",
+    "risk": "cybersecurity",
+    "actor": "other",
+    "f": "yes",
+    "sp": 2
+  },
+  {
+    "i": 329,
+    "n": "AI systemic financial risks could increase credit costs.",
+    "q": "Additionally, systemic risks",
+    "end": "costs.",
+    "risk": "financial",
+    "f": "yes",
+    "tmp": "hypothetical",
+    "sp": 2
+  },
+  {
+    "i": 330,
+    "n": "Technology oversight responsibilities explicitly review Citi's GenAI approach.",
+    "q": "Its responsibilities include",
+    "end": "matters.",
+    "gov": "yes",
+    "scope": "unclear_or_other",
+    "tech": "genai",
+    "sp": 3,
+    "ctx": "yes",
+    "conf": "medium",
+    "u": "Committee identity is in preceding continuation context."
+  },
+  {
+    "i": 331,
+    "n": "AI/ML-enabled technology contributes to cybersecurity exposure, not an AI defense deployment.",
+    "q": "With an evolving threat landscape",
+    "end": "incidents.",
+    "risk": "cybersecurity",
+    "actor": "industry",
+    "f": "yes",
+    "sp": 2
+  },
+  {
+    "i": 332,
+    "n": "AI competitive pressure and slower productivity assumptions/extra costs are risks, not realized outcomes.",
+    "q": "AI has added",
+    "end": "investment.",
+    "risk": "competitive|financial",
+    "f": "yes",
+    "sp": 2,
+    "outcome": "no"
+  },
+  {
+    "i": 333,
+    "n": "AI acronym definition is contextual.",
+    "r": "context_only",
+    "firm": "no",
+    "actor": "other",
+    "tmp": "unclear"
+  },
+  {
+    "i": 334,
+    "n": "GenAI definition is contextual, not firm implementation.",
+    "r": "context_only",
+    "firm": "no",
+    "actor": "other",
+    "tmp": "unclear",
+    "tech": "genai"
+  },
+  {
+    "i": 335,
+    "n": "AI/privacy cybersecurity laws may require healthcare compliance enhancements.",
+    "q": "Moreover, as a result",
+    "end": "enhancements.",
+    "risk": "regulatory|privacy|cybersecurity",
+    "tech": "genai",
+    "f": "yes",
+    "sp": 2
+  },
+  {
+    "i": 336,
+    "n": "Firm currently leverages AI/ML across business operations; individual tasks unspecified.",
+    "q": "The Company leverages",
+    "end": "liabilities.",
+    "st": 4,
+    "scope": "internal_operations",
+    "use": "AI/ML use across business operations; tasks unspecified",
+    "tech": "traditional_ml",
+    "sp": 2,
+    "risk": "operational",
+    "conf": "medium",
+    "u": "Current use explicit; ML and other AI pooled without a distinct application."
+  },
+  {
+    "i": 336,
+    "n": "AI obsolescence, uncertain investment returns and legal/data constraints.",
+    "q": "AI technology is continuously",
+    "end": "below.",
+    "risk": "financial|competitive|regulatory|privacy",
+    "inv": "yes",
+    "f": "yes",
+    "sp": 2
+  },
+  {
+    "i": 337,
+    "n": "AI may aggravate cybersecurity and data protection exposure.",
+    "q": "The increasing use of AI",
+    "end": "risks.",
+    "risk": "cybersecurity|privacy",
+    "f": "yes",
+    "tmp": "hypothetical",
+    "sp": 1
+  },
+  {
+    "i": 338,
+    "n": "Glossary AI definition is contextual.",
+    "q": "AI artificial intelligence",
+    "r": "context_only",
+    "firm": "no",
+    "actor": "other",
+    "tmp": "unclear"
+  },
+  {
+    "i": 339,
+    "n": "Adversarial AI cyberattack risk summary.",
+    "risk": "cybersecurity",
+    "actor": "other",
+    "f": "yes",
+    "tmp": "hypothetical",
+    "sp": 2
+  },
+  {
+    "i": 340,
+    "n": "AI-enabled software use risk summary, not a specific current application.",
+    "risk": "operational",
+    "f": "yes",
+    "tmp": "hypothetical",
+    "sp": 1
+  },
+  {
+    "i": 341,
+    "n": "Explicit broad AI-scaling business priority.",
+    "st": 1,
+    "strategy": "yes",
+    "sp": 1,
+    "o": "competitive_positioning"
+  },
+  {
+    "i": 342,
+    "n": "Broad scaling AI across R&D/manufacturing/commercial/patient functions; no task-specific evidence.",
+    "q": "In addition, we are scaling AI",
+    "end": "innovation.",
+    "st": 1,
+    "strategy": "yes",
+    "scope": "internal_operations|research_and_development",
+    "o": "workforce_productivity|innovation",
+    "sp": 2
+  },
+  {
+    "i": 343,
+    "n": "Privacy rules affect data and exploratory internal/external AI uses; exploration alone is not a pilot.",
+    "q": "We also anticipate",
+    "end": "externally.",
+    "risk": "privacy|regulatory",
+    "f": "yes",
+    "scope": "unclear_or_other",
+    "sp": 2,
+    "dup": "PFE_privacy_ai_exploration"
+  },
+  {
+    "i": 344,
+    "n": "EU AI regulation may affect pharmaceutical operations.",
+    "risk": "regulatory",
+    "f": "yes",
+    "sp": 2,
+    "ctx": "yes"
+  },
+  {
+    "i": 345,
+    "n": "Repeated data privacy discussion includes exploring AI uses, not actual test evidence.",
+    "q": "We also anticipate",
+    "end": "externally.",
+    "risk": "privacy|regulatory",
+    "f": "yes",
+    "scope": "unclear_or_other",
+    "sp": 2,
+    "dup": "PFE_privacy_ai_exploration"
+  },
+  {
+    "i": 346,
+    "n": "AI learning opportunity is workforce capability strategy, not operational AI adoption.",
+    "q": "Such opportunities",
+    "end": "innovation.",
+    "st": 1,
+    "strategy": "yes",
+    "o": "workforce_productivity",
+    "scope": "unclear_or_other",
+    "sp": 2
+  },
+  {
+    "i": 347,
+    "n": "AI in operations/digital marketing may heighten compliance/communication risk.",
+    "q": "These risks may be heightened",
+    "end": "offerings.",
+    "risk": "regulatory|reputational",
+    "f": "yes",
+    "tmp": "hypothetical",
+    "sp": 2
+  },
+  {
+    "i": 348,
+    "n": "Adversarial AI phishing/exploitation techniques threaten pharmaceutical systems.",
+    "q": "Such cyber-attacks are",
+    "end": "expertise,",
+    "risk": "cybersecurity",
+    "actor": "other",
+    "f": "yes",
+    "sp": 3
+  },
+  {
+    "i": 349,
+    "n": "Actual begun AI deployment in internal/external operations including R&D; tasks unspecified.",
+    "q": "We have begun deploying AI",
+    "end": "benefits.",
+    "st": 4,
+    "scope": "internal_operations|research_and_development",
+    "use": "AI deployment across operations/R&D; individual tasks unspecified",
+    "tech": "unspecified_ai",
+    "inv": "yes",
+    "sp": 2,
+    "conf": "medium",
+    "u": "No named R&D task; industry-level GenAI/ML list cannot determine technology of own deployments."
+  },
+  {
+    "i": 349,
+    "n": "AI regulatory change and payor AI access denial could harm business.",
+    "q": "For example, existing regulatory",
+    "end": "results.",
+    "risk": "regulatory|financial",
+    "f": "yes",
+    "tmp": "hypothetical",
+    "sp": 2
+  },
+  {
+    "i": 349,
+    "n": "GenAI output, data drift, training/IP and quality risks.",
+    "q": "Further, AI technology itself",
+    "end": "harm.",
+    "risk": "model_quality|bias|intellectual_property|privacy|regulatory|reputational",
+    "tech": "genai",
+    "f": "yes",
+    "tmp": "hypothetical",
+    "sp": 3
+  },
+  {
+    "i": 350,
+    "n": "AI data-release/provider-concentration risks in continuation.",
+    "risk": "privacy|intellectual_property|third_party|regulatory",
+    "f": "yes",
+    "tmp": "hypothetical",
+    "ctx": "yes",
+    "sp": 2
+  }
+]

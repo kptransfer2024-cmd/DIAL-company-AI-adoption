@@ -1,0 +1,608 @@
+[
+  {
+    "i": 50,
+    "n": "Existing OpenAI partnership; no implemented application established.",
+    "q": "Additionally, we have",
+    "end": "OpenAI.",
+    "partner": "yes",
+    "scope": "partnership_or_investment",
+    "sp": 2,
+    "dup": "MSFT_openai_partnership"
+  },
+  {
+    "i": 50,
+    "n": "AI governance requirements and transaction risks, not realized benefits.",
+    "q": "The success of these",
+    "end": "cybersecurity.",
+    "risk": "third_party|financial",
+    "gov": "yes",
+    "scope": "partnership_or_investment",
+    "f": "yes",
+    "tmp": "hypothetical"
+  },
+  {
+    "i": 51,
+    "n": "AI-assisted social engineering by attackers creates focal cybersecurity exposure.",
+    "q": "using social engineering",
+    "end": "data;",
+    "risk": "cybersecurity|privacy",
+    "actor": "other",
+    "tmp": "current",
+    "scope": "unclear_or_other",
+    "sp": 3
+  },
+  {
+    "i": 52,
+    "n": "Attackers use AI/ML for malicious content, targeting and vulnerability exploitation.",
+    "q": "Threat actors also",
+    "end": "threats.",
+    "risk": "cybersecurity",
+    "actor": "other",
+    "scope": "unclear_or_other",
+    "sp": 3
+  },
+  {
+    "i": 53,
+    "n": "Potential attack surfaces from increasing AI in internal or third-party systems; tasks/actors unclear.",
+    "q": "Increasing use of AI",
+    "end": "landscape.",
+    "risk": "cybersecurity|regulatory",
+    "f": "yes",
+    "tmp": "hypothetical",
+    "conf": "medium",
+    "u": "Internal and third-party AI use pooled; no identifiable operational task.",
+    "elig": "uncertain"
+  },
+  {
+    "i": 54,
+    "n": "Supplier AI-enhanced cyber threats create focal exposure.",
+    "q": "Further, third parties",
+    "end": "factors.",
+    "risk": "cybersecurity|third_party",
+    "actor": "partner",
+    "f": "yes",
+    "tmp": "hypothetical"
+  },
+  {
+    "i": 55,
+    "n": "Attackers may use AI to exploit vulnerabilities before patching.",
+    "q": "Product vulnerabilities can",
+    "end": "patching.",
+    "risk": "cybersecurity",
+    "actor": "other",
+    "f": "yes",
+    "tmp": "hypothetical"
+  },
+  {
+    "i": 55,
+    "n": "AI-generated code could contain exploitable flaws, without actual coding-tool use.",
+    "q": "For example, code",
+    "end": "cyberattacks.",
+    "risk": "cybersecurity|model_quality",
+    "f": "yes",
+    "tmp": "hypothetical"
+  },
+  {
+    "i": 56,
+    "n": "AI change may outpace security controls in customer environments.",
+    "q": "Further, the rapid",
+    "end": "threats.",
+    "risk": "cybersecurity|operational",
+    "f": "yes",
+    "tmp": "hypothetical",
+    "scope": "customer_adoption_claim",
+    "actor": "customer"
+  },
+  {
+    "i": 57,
+    "n": "Identifiable intended AI-based threat-detection defenses, not asserted current use.",
+    "q": "To defend against",
+    "end": "defenses.",
+    "st": 2,
+    "uc": "ai_security_defenses_plan",
+    "use": "AI-based threat detection and defenses",
+    "scope": "internal_operations|customer_facing_product",
+    "strategy": "yes",
+    "o": "security",
+    "f": "yes",
+    "tmp": "planned",
+    "sp": 3,
+    "conf": "medium",
+    "u": "Normative must/include wording supports planned approach; production execution not established."
+  },
+  {
+    "i": 58,
+    "n": "Customer security deficiencies and AI-enhanced threats may harm business.",
+    "q": "Customers and third parties",
+    "end": "threats.",
+    "risk": "cybersecurity|third_party",
+    "actor": "customer",
+    "f": "yes",
+    "tmp": "hypothetical"
+  },
+  {
+    "i": 59,
+    "n": "Agentic scraping may undermine protected product content.",
+    "q": "Limitations on our ability",
+    "end": "operations.",
+    "risk": "intellectual_property|financial",
+    "f": "yes",
+    "tmp": "hypothetical",
+    "actor": "other"
+  },
+  {
+    "i": 60,
+    "n": "AI impersonation and hostile platform activity create reputational exposure.",
+    "q": "This activity may",
+    "end": "ends.",
+    "risk": "misuse|reputational",
+    "f": "yes",
+    "tmp": "hypothetical",
+    "actor": "other"
+  },
+  {
+    "i": 61,
+    "n": "Conversational AI child-safety exposures and related compliance risks.",
+    "q": "In addition, certain AI",
+    "end": "operations.",
+    "risk": "safety|regulatory|reputational",
+    "f": "yes",
+    "tmp": "hypothetical",
+    "scope": "customer_facing_product"
+  },
+  {
+    "i": 62,
+    "n": "Customers may deploy AI products in high-risk scenarios; no actual focal implementation.",
+    "q": "For example, customers",
+    "end": "inappropriately.",
+    "risk": "misuse|safety|privacy",
+    "actor": "customer",
+    "f": "yes",
+    "tmp": "hypothetical",
+    "scope": "customer_adoption_claim"
+  },
+  {
+    "i": 63,
+    "n": "AI platform access is provided, but no distinct application identified.",
+    "q": "We are providing",
+    "end": "platforms.",
+    "scope": "infrastructure_or_platform",
+    "sp": 2
+  },
+  {
+    "i": 63,
+    "n": "AI model/data quality, harm, intellectual-property/privacy and oversight risks.",
+    "q": "Our AI models",
+    "end": "society.",
+    "risk": "model_quality|bias|misuse|privacy|intellectual_property|safety|regulatory|reputational",
+    "f": "yes",
+    "tmp": "hypothetical",
+    "scope": "customer_facing_product",
+    "sp": 3
+  },
+  {
+    "i": 63,
+    "n": "Reported unintended AI consequences are qualitative, not attributable numerical benefits.",
+    "q": "We have experienced",
+    "end": "operate in a",
+    "risk": "model_quality|misuse|reputational",
+    "scope": "customer_facing_product",
+    "outcome": "no",
+    "conf": "medium",
+    "u": "Sentence continues in next extracted block; no specific application identified.",
+    "ctx": "yes",
+    "dup": "MSFT_responsible_ai_consequences"
+  },
+  {
+    "i": 64,
+    "n": "Continuation refers to responsible-AI policies and adverse consequences.",
+    "risk": "reputational|regulatory|privacy",
+    "gov": "yes",
+    "f": "yes",
+    "tmp": "hypothetical",
+    "ctx": "yes",
+    "conf": "medium",
+    "u": "Continuation requires preceding paragraph; not an independent deployment event.",
+    "dup": "MSFT_responsible_ai_consequences"
+  },
+  {
+    "i": 65,
+    "n": "AI expansion drives infrastructure spending and capacity/reliability risks.",
+    "q": "We have spent",
+    "end": "complex.",
+    "inv": "yes",
+    "risk": "capacity|financial|operational",
+    "f": "yes",
+    "scope": "infrastructure_or_platform",
+    "sp": 3
+  },
+  {
+    "i": 66,
+    "n": "AI infrastructure supply shortages and capacity constraints.",
+    "risk": "capacity|third_party|financial",
+    "inv": "yes",
+    "f": "yes",
+    "tmp": "hypothetical",
+    "scope": "infrastructure_or_platform"
+  },
+  {
+    "i": 67,
+    "n": "AI hosting outages/resource insufficiency may degrade service.",
+    "risk": "capacity|operational|reputational",
+    "f": "yes",
+    "tmp": "hypothetical",
+    "scope": "infrastructure_or_platform"
+  },
+  {
+    "i": 68,
+    "n": "AI software reliability problems and prospective liability.",
+    "risk": "model_quality|operational|reputational",
+    "f": "yes",
+    "scope": "customer_facing_product"
+  },
+  {
+    "i": 69,
+    "n": "AI legislation may constrain services and increase costs.",
+    "risk": "regulatory|financial",
+    "f": "yes",
+    "tmp": "hypothetical"
+  },
+  {
+    "i": 70,
+    "n": "Changing AI export-control and rulemaking exposure.",
+    "q": "U.S. tariffs, shifting AI",
+    "end": "operations.",
+    "risk": "regulatory|financial",
+    "f": "yes",
+    "tmp": "hypothetical"
+  },
+  {
+    "i": 71,
+    "n": "AI energy/emission growth creates sustainability-target exposure.",
+    "q": "AI development and deployment",
+    "end": "operations.",
+    "risk": "environmental|regulatory|reputational",
+    "f": "yes"
+  },
+  {
+    "i": 72,
+    "n": "AI products contribute to potential legal claims.",
+    "q": "These claims may arise from",
+    "end": "regulation.",
+    "risk": "regulatory",
+    "f": "yes",
+    "tmp": "hypothetical"
+  },
+  {
+    "i": 73,
+    "n": "Current AI training/output intellectual-property litigation and potential costs.",
+    "q": "From time to time",
+    "end": "output.",
+    "risk": "intellectual_property|financial",
+    "f": "yes"
+  },
+  {
+    "i": 74,
+    "n": "Scrutiny of AI development/data practices creates reputational exposure.",
+    "risk": "privacy|reputational",
+    "tmp": "hypothetical",
+    "f": "yes",
+    "ctx": "yes"
+  },
+  {
+    "i": 75,
+    "n": "Responsible AI and partner failures listed as risks.",
+    "risk": "safety|third_party|regulatory|reputational",
+    "tmp": "hypothetical",
+    "f": "yes",
+    "ctx": "yes"
+  },
+  {
+    "i": 76,
+    "n": "AI models currently used in continuous cybersecurity monitoring/defense.",
+    "q": "We continuously monitor",
+    "end": "threats.",
+    "st": 4,
+    "uc": "internal_ai_cybersecurity",
+    "use": "AI model cybersecurity threat defense",
+    "scope": "internal_operations",
+    "sp": 3,
+    "o": "security"
+  },
+  {
+    "i": 77,
+    "n": "Cloud + AI is an executive-title keyword, not AI governance evidence.",
+    "q": "Our CISO leads",
+    "end": "Cloud + AI.",
+    "r": "irrelevant",
+    "tech": "NA",
+    "tmp": "unclear"
+  },
+  {
+    "i": 78,
+    "n": "Broad responsible AI mission and innovative portfolio direction.",
+    "st": 1,
+    "strategy": "yes",
+    "c": "yes",
+    "sp": 1,
+    "o": "innovation|responsible_ai",
+    "dup": "MSFT_responsible_ai_mission"
+  },
+  {
+    "i": 79,
+    "n": "Current OpenAI partnership and equity investment; no application deployment.",
+    "q": "We have a long-term",
+    "end": "payments.",
+    "partner": "yes",
+    "inv": "yes",
+    "scope": "partnership_or_investment",
+    "sp": 4,
+    "dup": "MSFT_openai_partnership"
+  },
+  {
+    "i": 79,
+    "n": "Model/IP integration rights are access rights, not deployment.",
+    "q": "We hold rights",
+    "end": "products.",
+    "partner": "yes",
+    "scope": "partnership_or_investment",
+    "sp": 2
+  },
+  {
+    "i": 80,
+    "n": "AI infrastructure spending, input supply and margin exposure.",
+    "q": "The investments",
+    "end": "demand.",
+    "inv": "yes",
+    "risk": "financial|capacity|third_party",
+    "f": "yes",
+    "scope": "infrastructure_or_platform",
+    "conf": "medium",
+    "u": "Risks include non-AI devices; no AI-specific numerical effect."
+  },
+  {
+    "i": 81,
+    "n": "KPI definitions include Copilot; definitions are not realized application outcomes.",
+    "q": "Microsoft 365 Commercial cloud revenue growth",
+    "end": "Microsoft 365 Commercial seat growth",
+    "before": true,
+    "uc": "m365_commercial_copilot",
+    "use": "Microsoft 365 Copilot commercial productivity assistance",
+    "scope": "customer_facing_product",
+    "sp": 2,
+    "outcome": "no"
+  },
+  {
+    "i": 81,
+    "n": "Cloud metric catalogue includes AI services without distinct adoption evidence.",
+    "q": "Azure and other cloud services revenue growth",
+    "scope": "infrastructure_or_platform",
+    "sp": 2
+  },
+  {
+    "i": 82,
+    "n": "AI investment contributes to shared business financial changes; not a realized application-specific benefit.",
+    "inv": "yes",
+    "scope": "infrastructure_or_platform",
+    "sp": 2,
+    "outcome": "no",
+    "attr": "shared_drivers",
+    "metric": "gross_margin"
+  },
+  {
+    "i": 83,
+    "n": "AI investment contributes to shared business financial changes; not a realized application-specific benefit.",
+    "inv": "yes",
+    "scope": "infrastructure_or_platform",
+    "sp": 3,
+    "outcome": "no",
+    "attr": "shared_drivers",
+    "metric": "gross_margin"
+  },
+  {
+    "i": 84,
+    "n": "AI investment contributes to shared business financial changes; not a realized application-specific benefit.",
+    "inv": "yes",
+    "scope": "research_and_development",
+    "sp": 3,
+    "outcome": "no",
+    "attr": "shared_drivers",
+    "metric": "operating_or_research_expense"
+  },
+  {
+    "i": 85,
+    "n": "Copilot contributes to current revenue per user alongside E5; 17% is total cloud growth.",
+    "q": "Microsoft 365 Commercial cloud revenue",
+    "end": "E5.",
+    "st": 4,
+    "uc": "m365_commercial_copilot",
+    "use": "Microsoft 365 Copilot commercial productivity assistance",
+    "scope": "customer_facing_product",
+    "sp": 3,
+    "o": "revenue_growth",
+    "outcome": "no",
+    "attr": "shared_drivers",
+    "metric": "commercial_cloud_revenue_growth",
+    "conf": "medium",
+    "u": "Copilot's standalone numerical contribution is not given."
+  },
+  {
+    "i": 86,
+    "n": "AI investment contributes to shared business financial changes; not a realized application-specific benefit.",
+    "inv": "yes",
+    "scope": "infrastructure_or_platform",
+    "sp": 3,
+    "outcome": "no",
+    "attr": "shared_drivers",
+    "metric": "cost_of_revenue"
+  },
+  {
+    "i": 86,
+    "n": "Copilot seat and usage growth evidences current commercial product use, not an operational result.",
+    "q": "Microsoft 365 Copilot seat and usage growth",
+    "st": 4,
+    "uc": "m365_commercial_copilot",
+    "use": "Microsoft 365 Copilot commercial productivity assistance",
+    "scope": "customer_facing_product",
+    "sp": 2,
+    "outcome": "no"
+  },
+  {
+    "i": 87,
+    "n": "AI investment contributes to shared business financial changes; not a realized application-specific benefit.",
+    "inv": "yes",
+    "scope": "infrastructure_or_platform",
+    "sp": 3,
+    "outcome": "no",
+    "attr": "shared_drivers",
+    "metric": "gross_margin"
+  },
+  {
+    "i": 88,
+    "n": "AI investment contributes to shared business financial changes; not a realized application-specific benefit.",
+    "inv": "yes",
+    "scope": "research_and_development",
+    "sp": 3,
+    "outcome": "no",
+    "attr": "shared_drivers",
+    "metric": "operating_or_research_expense"
+  },
+  {
+    "i": 89,
+    "n": "AI investment contributes to shared business financial changes; not a realized application-specific benefit.",
+    "inv": "yes",
+    "scope": "infrastructure_or_platform",
+    "sp": 3,
+    "outcome": "no",
+    "attr": "shared_drivers",
+    "metric": "cost_of_revenue"
+  },
+  {
+    "i": 90,
+    "n": "AI investment contributes to shared business financial changes; not a realized application-specific benefit.",
+    "inv": "yes",
+    "scope": "infrastructure_or_platform",
+    "sp": 3,
+    "outcome": "no",
+    "attr": "shared_drivers",
+    "metric": "gross_margin"
+  },
+  {
+    "i": 91,
+    "n": "AI investment contributes to shared business financial changes; not a realized application-specific benefit.",
+    "inv": "yes",
+    "scope": "research_and_development",
+    "sp": 3,
+    "outcome": "no",
+    "attr": "shared_drivers",
+    "metric": "operating_or_research_expense"
+  },
+  {
+    "i": 92,
+    "n": "AI investment contributes to shared business financial changes; not a realized application-specific benefit.",
+    "inv": "yes",
+    "scope": "research_and_development",
+    "sp": 3,
+    "outcome": "no",
+    "attr": "shared_drivers",
+    "metric": "operating_or_research_expense"
+  },
+  {
+    "i": 93,
+    "n": "R&D accounting includes AI training/infrastructure costs, not an experimental-use report.",
+    "q": "Research and development expenses also",
+    "end": "development.",
+    "inv": "yes",
+    "scope": "research_and_development",
+    "sp": 2,
+    "dup": "MSFT_ai_research_expense_policy"
+  },
+  {
+    "i": 94,
+    "n": "AI investment contributes to shared business financial changes; not a realized application-specific benefit.",
+    "inv": "yes",
+    "scope": "research_and_development",
+    "sp": 3,
+    "outcome": "no",
+    "attr": "shared_drivers",
+    "metric": "operating_or_research_expense"
+  },
+  {
+    "i": 95,
+    "n": "Copilot advertising expenditure is not itself deployment or an attributable outcome.",
+    "scope": "partnership_or_investment",
+    "inv": "yes",
+    "sp": 2,
+    "conf": "medium",
+    "u": "Commercial versus consumer Copilot not specified.",
+    "outcome": "no"
+  },
+  {
+    "i": 96,
+    "n": "Explicit future capital spending for AI training/infrastructure; no application deployment.",
+    "q": "We will continue to invest in capital",
+    "end": "infrastructure.",
+    "inv": "yes",
+    "c": "yes",
+    "f": "yes",
+    "tmp": "planned",
+    "scope": "infrastructure_or_platform",
+    "sp": 2
+  },
+  {
+    "i": 97,
+    "n": "Revenue accounting describes generic AI service portfolio, not independent application evidence.",
+    "q": "Service and other revenue includes sales from cloud-based",
+    "end": "services.",
+    "scope": "customer_facing_product",
+    "sp": 2
+  },
+  {
+    "i": 98,
+    "n": "Repeated R&D policy includes AI training/infrastructure expenditure.",
+    "q": "Research and development expenses also",
+    "end": "development.",
+    "inv": "yes",
+    "scope": "research_and_development",
+    "sp": 2,
+    "dup": "MSFT_ai_research_expense_policy"
+  },
+  {
+    "i": 99,
+    "n": "Repeated Copilot segment catalogue; no new deployment event.",
+    "q": "Microsoft 365 Commercial products and cloud services, including",
+    "end": "on-premises.",
+    "uc": "m365_commercial_copilot",
+    "use": "Microsoft 365 Copilot commercial productivity assistance",
+    "scope": "customer_facing_product",
+    "sp": 2
+  },
+  {
+    "i": 99,
+    "n": "AI-consumption service segment catalogue does not identify a new application.",
+    "q": "Server products and cloud services, including",
+    "end": "offerings.",
+    "scope": "infrastructure_or_platform",
+    "sp": 2
+  },
+  {
+    "i": 99,
+    "n": "Search Copilot catalogue lacks AI linkage for this brand.",
+    "q": "Search advertising (formerly",
+    "end": "affiliates.",
+    "r": "uncertain",
+    "scope": "customer_facing_product",
+    "conf": "low",
+    "elig": "uncertain",
+    "u": "Search Copilot's AI identity is not specified."
+  },
+  {
+    "i": 100,
+    "n": "Segment cost allocation includes AI infrastructure/training, not operational adoption outcomes.",
+    "q": "Operating expenses that are allocated",
+    "end": "margin.",
+    "inv": "yes",
+    "scope": "infrastructure_or_platform",
+    "sp": 2
+  }
+]

@@ -1,0 +1,125 @@
+[
+  {
+    "claim_id": "MSFT_claim_e4ec87f124d3a031a551",
+    "changes": {
+      "context_reference": "MSFT_10K_2026-07-29.txt:L162-L176"
+    },
+    "reason": "Record surrounding investment-priority context explicitly."
+  },
+  {
+    "claim_id": "MSFT_claim_cc6f882efee0cef430c7",
+    "changes": {
+      "context_reference": "MSFT_10K_2026-07-29.txt:L162-L176"
+    },
+    "reason": "Record surrounding investment-priority context explicitly."
+  },
+  {
+    "claim_id": "ADBE_claim_1adfc04951ededff4bf4",
+    "changes": {
+      "use_case_id": "NA",
+      "use_case": "AI content workflow platform; specific products unspecified",
+      "use_case_identity_status": "not_identified",
+      "annotation_rationale": "Current AI content-workflow platform is asserted, but its identity cannot be equated automatically with Firefly.",
+      "uncertainty_reason": "Broad Adobe AI platform spans multiple products; no specific application identity."
+    },
+    "reason": "Do not infer same identity between a broad platform and Firefly."
+  },
+  {
+    "claim_id": "ADBE_claim_e5b619282eb195d0e0fd",
+    "changes": {
+      "context_reviewed": "yes",
+      "context_reference": "ADBE_10K_2026-01-15.txt:L158|ADBE_10K_2026-01-15.txt:L208-L212"
+    },
+    "reason": "Availability and task linkage established in product definition."
+  },
+  {
+    "claim_id": "ADBE_claim_d8369b502c20c9d5b84e",
+    "changes": {
+      "use_case_id": "NA",
+      "use_case": "Conversational AI creative assistants; product identity unspecified",
+      "use_case_identity_status": "not_identified",
+      "annotation_rationale": "Currently offered conversational creative assistants; exact product identity is not stated.",
+      "uncertainty_reason": "Unnamed assistants must not be merged automatically into Firefly."
+    },
+    "reason": "Conservative identity reconciliation after semantic review."
+  },
+  {
+    "claim_id": "ADBE_claim_5cb5f6496076341f8870",
+    "changes": {
+      "context_reference": "ADBE_10K_2026-01-15.txt:L208-L358"
+    },
+    "reason": "Current-offering catalogue context establishes product availability."
+  },
+  {
+    "claim_id": "ADBE_claim_5900e8ffb2951a7ccfef",
+    "changes": {
+      "context_reference": "ADBE_10K_2026-01-15.txt:L208-L358"
+    },
+    "reason": "Current-offering catalogue context establishes product availability."
+  },
+  {
+    "claim_id": "ADBE_claim_61602ba30edfb6924075",
+    "changes": {
+      "context_reference": "ADBE_10K_2026-01-15.txt:L208-L358"
+    },
+    "reason": "Current-offering catalogue context establishes product availability."
+  },
+  {
+    "claim_id": "ADBE_claim_59a61b3eb09173a8614a",
+    "changes": {
+      "context_reference": "ADBE_10K_2026-01-15.txt:L208-L358"
+    },
+    "reason": "Current-offering catalogue context establishes product availability."
+  },
+  {
+    "claim_id": "ADBE_claim_4106180ed3068e52f073",
+    "changes": {
+      "context_reference": "ADBE_10K_2026-01-15.txt:L208-L358"
+    },
+    "reason": "Current-offering catalogue context establishes product availability."
+  },
+  {
+    "claim_id": "C_claim_ce8ca5adc2814054e3d2",
+    "changes": {
+      "context_reference": "C_10K_2026-02-20.txt:L2412-L2432"
+    },
+    "reason": "Name the Technology Committee continuation context."
+  },
+  {
+    "claim_id": "CVX_claim_057c060d831288000e5a",
+    "changes": {
+      "adoption_stage": "4",
+      "operational_stage": "4",
+      "stage_eligible": "yes",
+      "reported_deployment": "yes",
+      "pilot_reported": "no",
+      "quantified_outcome": "no",
+      "use_case": "AI use across processes/systems/operations; tasks unspecified",
+      "use_case_identity_status": "not_identified",
+      "context_reviewed": "yes",
+      "context_reference": "CVX_10K_2026-02-24.txt:L743|CVX_10K_2026-02-24.txt:L781",
+      "annotation_rationale": "Current applying-AI statement corroborated by explicit ongoing AI use in processes/operations; tasks remain unidentified.",
+      "uncertainty_reason": "Broad current operational use is explicit; no reliable application inventory."
+    },
+    "reason": "Apply current-use threshold consistently with other non-vendor firms; retain independent stated productivity objective."
+  },
+  {
+    "claim_id": "MSFT_claim_295916b2a3f9b6815ffe",
+    "changes": {
+      "evidence_quote": "Azure and other cloud services revenue growth      Revenue from Azure and other cloud services, including cloud and AI consumption-based services, GitHub cloud services, Health and Life Sciences cloud services (formerly Nuance Healthcare cloud services), virtual desktop offerings, and other cloud services",
+      "evidence_end_char": "159575",
+      "evidence_end_line": "959",
+      "context_reviewed": "yes",
+      "context_reference": "MSFT_10K_2026-07-29.txt:L954 (full KPI row)"
+    },
+    "reason": "Extend KPI quote to include its AI-service definition, not only its heading."
+  },
+  {
+    "claim_id": "C_claim_0b63a24d3fb4dc5e6815",
+    "changes": {
+      "context_reviewed": "yes",
+      "context_reference": "C_10K_2026-02-20.txt:L2028-L2030"
+    },
+    "reason": "Emerging-technology policies require adjacent GenAI context to identify AI governance."
+  }
+]

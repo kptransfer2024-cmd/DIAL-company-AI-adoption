@@ -1,0 +1,4 @@
+﻿ticker,source_file,total_word_count,ai_candidate_passage_count,ai_candidate_word_count,ai_candidate_word_share,ai_mention_count,ai_mentions_per_1000_words
+MSFT,MSFT_10K_2026-07-29.txt,47809,101,12357,0.25846597920893555,175,3.6603986697065407
+WMT,WMT_10K_2026-03-13.txt,53778,19,3842,0.07144185354605972,25,0.46487411209044593
+JPM,JPM_10K_2026-02-13.txt,177035,20,1090,0.006156974609540487,30,0.16945801677634367
