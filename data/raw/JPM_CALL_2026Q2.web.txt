@@ -1,0 +1,319 @@
+2Q26 Earnings Transcript (https://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/investor-relations/documents/quarterly-earnings/2026/2nd-quarter/2Q26-earnings-transcript.pdf)
+citeturn10view0 [wordlim: 200] Crawled: today; Content type: application/pdf; Number of pages: 20; Source: find({"ref_id":"turn6view2","pattern":"AI"}); Total lines: 909
+L139@P3: there's no change to that sort of hope or aspiration. But I would think about that as a kind of natural long-term consequence of executing the
+L140@P3: strategy that we believe in across all the various components of it, from focus on primary bank relationships, branch expansion, deepening,
+L141@P3: product value proposition, et cetera. And so, the view is that the 15% will be an outcome of that, and we still feel good about it.
+L142@P3: ............................................................................................................................................................................................................................
+L143@P3: Christopher McGratty
+L144@P3: Analyst, Keefe, Bruyette & Woods, Inc. Q
+L145@P3: That's great. And for my follow-up, bigger picture question on the expenses. Really, the returns that you're getting from the branch build-out,
+L146@P3: the AI investments, the hire of the bankers. Ultimately, I guess the question is where are we in the investment cycle and really how does it play
+L147@P3: into the operating leverage outlook over the medium-term? Thanks.
+L148@P3-4: ............................................................................................................................................................................................................................4
+L149@P4: Jamie Dimon
+L150@P4: Chairman & Chief Executive Officer, JPMorganChase A
+L151@P4: I would just say it's a complete continuation of what we've been doing for years. So, you shouldn't really expect any change.
+L152@P4: ............................................................................................................................................................................................................................
+L153@P4: Jeremy Barnum
+L154@P4: Chief Financial Officer, JPMorganChase A
+L155@P4: Yeah. I mean, that's what I was going to say too. I mean, obviously, there are other expense dynamics this quarter, which maybe I'll save for
+L156@P4: another question. But in the end, we're investing, we're always going to invest. It's been working. And obviously, the returns so far speak for
+L157@P4: themselves. And I think the thing that we've been saying for a long time is that the power of this franchise is such that we are able to
+L158@P4: aggressively invest for the future for the sake of generating future returns and to solidify the competitive position of the franchise, while still
+L159@P4: delivering exceptional current returns. And I think that would be true if we were delivering 15%, 16%, 17% returns. Obviously, when we're
+L160@P4: delivering these types of returns, it really is firing on all cylinders.
+L161@P4: ............................................................................................................................................................................................................................
+L162@P4: Christopher McGratty
+L163@P4: Analyst, Keefe, Bruyette & Woods, Inc. Q
+L164@P4: Thanks so much.
+L165@P4: ............................................................................................................................................................................................................................
+L166@P4: Operator: Thank you. Our next question comes from John McDonald with Truist Securities. Your line is open.
+L167@P4: ............................................................................................................................................................................................................................
+L168@P4: John McDonald
+L169@P4: Analyst, Truist Securities, Inc. Q
+L170@P4: Thank you. Good morning. Jeremy, I was wondering if you could talk a little bit about the drivers of the upward revision to the ex. Markets NII,
+L257@P6: Chairman & Chief Executive Officer, JPMorganChase A
+L258@P6: Several years. You can use a few years. You can use plus or minus. Obviously, it's totally up to the Board, not up to me.
+L259@P6: ............................................................................................................................................................................................................................
+L260@P6: Erika Najarian
+L261@P6: Analyst, UBS Securities LLC Q
+L262@P6: Okay. Thank you.
+L263@P6: ............................................................................................................................................................................................................................
+L264@P6: Operator: Thank you. Our next question comes from Jim Mitchell with Seaport Global Securities. Your line is open.
+L265@P6: ............................................................................................................................................................................................................................
+L266@P6: Jim Mitchell
+L267@P6: Analyst, Seaport Global Securities LLC Q
+L268@P6: Okay. Good morning. Just, Jeremy, maybe a follow-up on the expense question and operating leverage question earlier. Understand
+L269@P6: completely longer term, no bank can generate perpetual operating leverage. But if we look at year-to-date results, it's been a strong revenue
+L270@P6: environment, but I think operating leverage on an adjusted basis was negative. You alluded to some expense one-offs potentially. No
+L271@P6: question, you're investing heavily and should be. So, I get all that. But just when I think about the benefits of AI and technology generally, is
+L272@P6: there a time over the intermediate term where you think expense growth could slow a little and operating leverage kind of becomes more likely
+L273@P6: in a period of time over the next few years?
+L274@P6: ............................................................................................................................................................................................................................
+L275@P6: Jamie Dimon
+L276@P6: Chairman & Chief Executive Officer, JPMorganChase A
+L277@P6: I'm just going to answer that by saying, when you have great returns and very good margins, which actually went up this quarter, not down,
+L278@P6: the notion that somehow you can forever increase your operating leverage is a crazy notion. We don't have that. I think it's part of the reason
+L279@P6: why banks failed if you go back 20 years ago. We're never going to have that point of view. And AI will have its gives and takes. So, we can't
+L280@P6: project.
+L281@P6: I do think you might actually see a slowdown in growth, maybe a slowdown in 2027 or 2028. But the teams are looking at all of our
+L282@P6: opportunities. And we pointed out over and over again, when we have an opportunity to spend more money in marketing with a positive ROI,
+L283@P6: we're going to do it. We're not going to have false gods where we have to pray that we can do something really smart. I've also pointed out
+L284@P6: over and continuously that some expenses, if you accounted for them as investments, that they have very good returns, but they're expenses
+L285@P6: in the short-run.
+L286@P6: And AI still remains to be seen, because the other thing I think about AI, which is a little bit different than everybody else, is you don't uniquely
+L287@P6: benefit from AI. The ultimate beneficiary of AI will be our customers. And in a competitive capitalist world, we all will use AI to do a better job
+L288@P6: for the customers, and we can't just say, oh, it's going to increase our margins and we're going to keep that. If that were true, our margins
+L289@P6: would be 80% today because of computerization over the last 20 years.
+L290@P6: ............................................................................................................................................................................................................................
+L291@P6: Jim Mitchell
+L292@P6: Analyst, Seaport Global Securities LLC Q
+L293@P6: Yeah. All fair. Appreciate it. And then, just maybe a quick one on regulation. Is there any update on the thoughts on potential for adjustments
+L294@P6: to the regulatory proposals, since I know you and your peers have been particularly vocal around the GSIB surcharge and some elements of
+L295@P6-7: Basel III? Just curious if there's been any developments there.7
+L296@P7: ............................................................................................................................................................................................................................
+L297@P7: Jamie Dimon
+L298@P7: Chairman & Chief Executive Officer, JPMorganChase A
+L299@P7: There are four obvious changes they should make. And I think it's unfair when I hear them say – they should do the numbers the right way,
+L300@P7: and you guys should demand it. Do the numbers the right way, and if they think they want to be more conservative, they should add
+L301@P7: conservatism. They should not do the numbers in a false way to make the number higher. I just think that's intellectual clarity and honesty and
+L302@P7: stuff like that. They should get rid of the double count in operating risk capital. They should get rid of the double count in market risk capital.
+L303@P7: We have $80 billion or more now of market risk capital, and the biggest quarterly loss we ever had was $1.4 billion. Even the CCAR market
+L304@P7: loss, I think, is like $14 billion or $15 billion. And so, they should adjust the GSIB the way they were supposed to going back to 2015, and they
+L305@P7: should change the way they're doing short-term wholesale funding to be fair to everybody. Those are the things they should do. The number
+L306@P7: should be the number. If they think we should hold more capital, they should ask us to hold 10% more, and I'd be happy to do that. But I'm not
+L307@P7: happy to have these numbers falsely done.
+L308@P7: ............................................................................................................................................................................................................................
+L309@P7: Jeremy Barnum
+L310@P7: Chief Financial Officer, JPMorganChase A
+L311@P7: Yeah. And I'd just briefly add on short-term wholesale funding, I think there's an important point there in terms of the competitive dynamics that
+L312@P7: we were really quite explicit about in our comment letter, which I would encourage everyone to read, because it's a nuanced thing, but I think if
+L313@P7: you go through it, it makes the point very clearly. And what they've wound up doing with this change in the short-term wholesale funding is
+L314@P7: essentially increase the burden on banks like us and Bank of America that have both markets and banking businesses, as well as traditional
+L315@P7: consumer businesses disproportionately relative to our former investment bank competitors who have different business mix.
+L316@P7: And I guess, conceivably, someone could want that as a policy outcome. I don't understand why you would want that as a policy outcome,
+L317@P7: because it is disproportionately damaging the ability of banks to serve Main Street. But if that's what someone wants, they should say it. And if
+L318@P7: that's not what they want, then they shouldn't let it happen by accident as a result of like a seemingly very technical thing, like removing RWA
+L319@P7: from the denominator of the short-term wholesale funding contribution to the GSIB score. I mean, this is a little bit of what Jamie talks about
+L320@P7: when he's saying like, do the numbers right and just be clear about your policy objectives.
+L321@P7: ............................................................................................................................................................................................................................
+L322@P7: Jim Mitchell
+L323@P7: Analyst, Seaport Global Securities LLC Q
+L324@P7: Yeah. Absolutely. I appreciate the thoughts.
+L325@P7: ............................................................................................................................................................................................................................
+L326@P7: Jeremy Barnum
+L327@P7: Chief Financial Officer, JPMorganChase A
+L328@P7: Thanks.
+L329@P7: ............................................................................................................................................................................................................................
+L330@P7: Operator: Thank you. Our next question comes from Matt O'Connor with Deutsche Bank. Your line is open.
+L331@P7: ............................................................................................................................................................................................................................
+L332@P7: Matt O'Connor
+L333@P7: Analyst, Deutsche Bank Securities, Inc. Q
+L334@P7: Good morning. It seems like everything is firing on most or all cylinders, trading, investment banking, lending, credit. Is this as good as it gets
+L335@P7: or – and I know you've kind of flagged some of the risks out there. But is there also an argument to be made that we're earlier cycle, given AI
+L336@P7: and what seems likely to be a big increase in global defense spending, global supply chains management? As we put all that together, what
+L337@P7: are your thoughts?
+L338@P7: ............................................................................................................................................................................................................................
+L339@P7: Jamie Dimon
+L340@P7: Chairman & Chief Executive Officer, JPMorganChase A
+L341@P7: It's getting close to as good as it gets. We just don't know how long it's going to last.
+L342@P7-8: ............................................................................................................................................................................................................................8
+L343@P8: Matt O'Connor
+L344@P8: Analyst, Deutsche Bank Securities, Inc. Q
+L345@P8: Okay. And then, the rate expectations continue to move all over the place out there. And you show that you're kind of well-positioned for
+L346@P8: higher rates, meaning make more money. But is there a tipping point where the deposit behavior changes both from a volume perspective and
+L347@P8: then betas, which you alluded to earlier have been better than expected so far, but if we go up a certain amount, do you think there could be a
+L348@P8: meaningful change in that?
+L349@P8: ............................................................................................................................................................................................................................
+L350@P8: Jeremy Barnum
+L351@P8: Chief Financial Officer, JPMorganChase A
+L352@P8: Yeah. That's a good question actually, Matt. And I think the short answer is like we don't really know. And if you'd asked me that question a
+L353@P8: couple of years ago, I would have said that – you're essentially asking a question about the convexity of the rate paid dynamic, especially for
+L354@P8: consumer deposits, negative convexity to be specific. And if you'd asked me that at the beginning of this rate cycle, I would have said that we
+L355@P8: would be experiencing that effect right now. And we're not.
+L356@P8: But just from a common sense perspective, like you have to believe that, at some point, that kicks in. So, when we do our stress testing and
+L485@P11: it's their heart, their soul, the culture carrier, can they walk into operating centers. He's exhibited that in Markets, in Investment Banking.
+L486@P11: Remember, even the IB is an extensive operations function and back-office function, technology function, where he's exhibited great
+L487@P11: expertise. So, we're completely comfortable with that.
+L488@P11: I do think it's very important that people have experience across the company. And when I've seen investment banks, big banks taken over by
+L489@P11: someone only from the investment bank who only cares about the investment bank, believe me, the rest of the franchise can suffer. You need
+L490@P11: respect for the rest of the franchise. So, I think it's great for him. It's great for the company. He's already excited. He's already been to
+L491@P11: branches and out and about, and he'll take it hopefully onward and upward.
+L492@P11: ............................................................................................................................................................................................................................
+L493@P11: Jeremy Barnum
+L494@P11: Chief Financial Officer, JPMorganChase A
+L495@P11: And Mike, just a minor correction. Troy – with no offense intended to my old good friends who are foreign exchange spot traders, but Troy was
+L496@P11: actually an options trader, which is also where I started. So, I think he would want me to correct the record on that one.
+L497@P11: ............................................................................................................................................................................................................................
+L498@P11: Mike Mayo
+L499@P11: Analyst, Wells Fargo Securities LLC Q
+L500@P11: All right. Thank you.
+L501@P11: ............................................................................................................................................................................................................................
+L502@P11: Operator: Thank you. Our next question comes from Saul Martinez with HSBC. Your line is open.
+L503@P11: ............................................................................................................................................................................................................................
+L504@P11: Saul Martinez
+L505@P11: Analyst, HSBC Securities (USA), Inc. Q
+L506@P11: Hi. Good morning. Thanks for taking my question. I have a broader question on AI, and it is, is there an argument that we're vastly
+L507@P11: underestimating the potential benefits to efficiency and the impacts on how companies can run their businesses? I know Block is a really
+L508@P11: different animal than you are on a lot of levels. But they argued, when they cut 40% of their workforce, that given the advancement in AI tools,
+L509@P11: if they look at their organizational structure with a blank sheet of paper, they could be much leaner and not sacrifice on product velocity and
+L510@P11: commercial outcomes. And I guess I'm asking if you think there could be a parallel with banks, where you can operate with a different
+L511@P11: structure, be much more agile, be more efficient over time. I know it's a sensitive topic, but curious how you think about these questions and
+L512@P11: how you're positioning yourself for this world.
+L513@P11: ............................................................................................................................................................................................................................
+L514@P11: Jamie Dimon
+L515@P11: Chairman & Chief Executive Officer, JPMorganChase A
+L516@P11: Yeah. So, it's not a sensitive topic at all. We are going to use AI to do a better job for clients. That's our job. We fully expect it'll have huge
+L517@P11: efficiency in certain parts of the company. And we analyze it all the time. I think we've mentioned in the past, we spend quite a bit of money on
+L518@P11: it. We have a lot of NPVs that we know we have. The whole company is working this at this point. And I think there's almost 1,000 use cases
+L519@P11: today, though I would say that the really important ones are 50 – probably 50 across risk, fraud, marketing, hedging, prospecting, note-taking,
+L520@P11: idea generation, document reading. And it's kind of just starting. So, we do expect that.
+L521@P11: I think you have to put in the back of your mind that there are areas where we may just accelerate what we do that we want to get done
+L522@P11: anyway. Think of certain applications and customer-facing things and stuff like that. We are preparing to make sure we can retrain our people,
+L523@P11: and we have had discrete areas where we did reduce jobs by 30% or 40%. And most of those people were offered jobs elsewhere. So, we do
+L524@P11: expect that. I also think that over time, remember, this will be offered to smaller competitors too through Fiserv and FIS and other fintech-kind
+L525@P11: companies.
+L526@P11: And over time, we've been doing this nonstop for 25 years, but just large computers and mainframes and APIs, and various tools and tricks we
+L527@P11: use, we have always been trying to create more efficient stuff like this. This will be faster. This will be dramatic. The whole company is
+L528@P11: involved in it. We have our offsite in July. You can imagine this is a big topic everywhere from front office to mid-office, to back office, to
+L529@P11-12: marketing, to risk, you name the subject, and more to come. But we're kind of in the midst of this mini-revolution, and we'll report to you.12
+L530@P12: Jamie Dimon
+L531@P12: Chairman & Chief Executive Officer, JPMorganChase A
+L532@P12: But I do also want to point out, maybe you could be ahead of other people kind of, but what always happens is the benefit accrues to the
+L533@P12: customer, not to the – the JPMorgan in this case, because other people are doing the same thing and presumably it leads to lower cost and
+L534@P12: lower error rates and a bunch of things. You can't just say, well, your ROE’s going to go to 50% and stay there. If we had a 50% ROE and
+L535@P12: growing at 10% a year, you'd probably have – in 50 to 60 years, you'd probably be 100% of the GDP of the United States of America.
+L536@P12: ............................................................................................................................................................................................................................
+L537@P12: Saul Martinez
+L538@P12: Analyst, HSBC Securities (USA), Inc. Q
+L539@P12: Yeah. Yeah. Okay. Thank you for that. A follow-up on Equities, and I think, Jeremy, you said, if I recall correctly, that the particular set of
+L540@P12: things that happened this quarter are difficult to see repeated. Can you just maybe elaborate on what was most exceptional this quarter? I
+L541@P12: think some of your peers have talked about Asia, prime brokerage there. And I think you mentioned derivatives and cash being strong. But is
+L542@P12: there any areas or products or geographies that were particularly noteworthy in terms of the strength this quarter that may be difficult to
+L543@P12: sustain going forward?
+L544@P12: ............................................................................................................................................................................................................................
+L545@P12: Jeremy Barnum
+L546@P12: Chief Financial Officer, JPMorganChase A
+L547@P12: Yeah, I mean, there's really not a lot behind my comment. It's essentially what you would get from asking any of the commercial AI models this
+L548@P12: question and the two stages old version of the model. In other words, it's all the obvious stuff that's been heavily reported, like we had some
+L549@P12: major IPOs. We had some major index rebalancing. We had some very complicated dynamics in the Korean equity market. There's been a lot
+L550@P12: of activity in Asia. The overall environment has been dynamic and interesting across a whole variety of dimensions. The clients have been
+L551@P12: extremely active. So, it's like all – it's all the headlines basically that have driven the market. And of course, that could obviously repeat. But I
+L552@P12: just think like statistically, it seems improbable that that particular combination of effects could repeat itself. But it obviously could.
+L553@P12: ............................................................................................................................................................................................................................
+L554@P12: Jamie Dimon
+L555@P12: Chairman & Chief Executive Officer, JPMorganChase A
+L556@P12: And you guys, those who pay attention, you can see most of this on a daily basis through volumes in the New York Stock Exchange, the CME,
+L557@P12: volumes through hedge funds, volumes through – it's not a secret. Margin loans. You could see a lot of this taking place during the course of
+L558@P12: the quarter.
+L559@P12: ............................................................................................................................................................................................................................
+L560@P12: Saul Martinez
+L561@P12: Analyst, HSBC Securities (USA), Inc. Q
+L562@P12: Got it. Thank you.
+L563@P12: ............................................................................................................................................................................................................................
+L564@P12: Jeremy Barnum
+L565@P12: Chief Financial Officer, JPMorganChase A
+L566@P12: Thanks, Saul.
+L567@P12: ............................................................................................................................................................................................................................
+L568@P12: Operator: Thank you. Our next question comes from Ebrahim Poonawala with Bank of America. Your line is open.
+L569@P12: ............................................................................................................................................................................................................................
+L570@P12: Ebrahim H. Poonawala
+L571@P12: Analyst, Bank of America Merrill Lynch Q
+L572@P12: Hey. Good morning. I guess maybe – a lot of discussion on the strong Wall Street backdrop. Maybe, Jeremy, just talk about the Main Street
+L573@P12: part of the U.S. economy. There is a sense that there's a fragility when you look at housing, real estate. Rates potentially could go higher. Give
+L574@P12: us a sense around what you're seeing from – on the consumer side, the ability to sort of pull forward and resiliency if rates go up. And are you
+L575@P12: seeing any broadening in CapEx beyond AI or is it very AI-centric in terms of what you're seeing on even commercial lending activity? Thanks.
+L576@P12-13: ............................................................................................................................................................................................................................13
+L577@P13: Jeremy Barnum
+L578@P13: Chief Financial Officer, JPMorganChase A
+L579@P13: Okay. Let me do these in reverse order actually, because I'll just address your AI CapEx question quickly. We do see some decent kind of
+L580@P13: CapEx and associated loan growth across the franchise, and at least on the surface, some of that does not appear to be AI-related. However,
+L581@P13: I would be a little reluctant to draw that conclusion too strongly just because the AI theme has started to proliferate in so many different parts
+L582@P13: of the economy, right. It's like the comments about data centers wind up creating a lot of demand for like plumbers and electricians, right. So,
+L583@P13: you wind up seeing it in sort of slightly non-obvious places. And so, any given bit of loan growth or CapEx that you see that doesn't
+L584@P13: superficially look like it's AI-related, might still be. But on the other hand, it might not.
+L585@P13: ............................................................................................................................................................................................................................
+L586@P13: Jamie Dimon
+L587@P13: Chairman & Chief Executive Officer, JPMorganChase A
+L588@P13: To give you the big numbers, I think CapEx is about $4 trillion a year, and AI went from $400 billion last year to $700 billion this year. People
+L589@P13: project, so do our people, it'll be like a little over $1 trillion next year, and maybe a little reduction in the non-AI CapEx. But that's hard to figure
+L590@P13: out, because it's the same people – some of the same people doing the same.
+L591@P13: ............................................................................................................................................................................................................................
+L592@P13: Jeremy Barnum
+L593@P13: Chief Financial Officer, JPMorganChase A
+L594@P13: Yeah. And I was talking to our economist the other day about like the CapEx impact of CHIPS Act and some of that's kind of rolled off and it's
+L595@P13: getting replaced by more direct AI stuff. So, it's a little bit hard to untangle the whole thing. Going to the consumer for a second. So, few things,
+L596@P13: I guess I've kind of already covered. So, number one, spend is kind of fine, robust and across income segments. Seems like a bit of a tailwind
+L597@P13: there from tax refunds.
+L598@P13: Delinquencies are a little lower than we expected, and again, that's a better performance you see pretty much across the board by kind of
+L599@P13: FICO score. There's some of that economic heterogeneity data came out from the Fed recently, which also I think doesn't give a lot of support
+L600@P13: to the K-shaped narrative essentially. So, again, we think about this, we worry about this, we look at it. But from our perspective, through all
+L601@P13: the various dimensions, there's not like that much there in terms to support the K-shaped narrative.
+L602@P13: Now, to your point about fragility in rates and housing and stuff like that, it is of course – we are in a slightly higher than normal inflationary
+L603@P13: environment. I think Marianne had made some comments at some point about a cohort of consumers who are experiencing negative real
+L604@P13: wage growth and that potentially creating some distress for those folks. Now, some of that statistically is kind of always going to be true in any
+L605@P13: moment in time in any cohort. But that's probably a watch area.
+L606@P13: And I think generally, obviously, it's been a long expansion that's gone on for a long time. I think the economy has surprised on the upside,
+L607@P13: Consumer strength has surprised on the upside, and that inevitably makes everyone worry about fragility and about the thing that could
+L608@P13: change it. But as I always say, when it comes to Consumer credit performance, it's just about the labor market. And so, you're not going to
+L609@P13: hear anything from me that's new or differentiated about the labor market. Like we all see the same numbers, and it's been surprisingly
+L610@P13: resilient. So, for now, that's the narrative.
+L611@P13: ............................................................................................................................................................................................................................
+L612@P13: Ebrahim H. Poonawala
+L613@P13: Analyst, Bank of America Merrill Lynch Q
+L614@P13: Got it. And I guess just a follow-up. On the capital front, you have excess capital, strong ROEs. But I guess the question would be, why buy
+L615@P13: back stock here at 3 times tangible book when things are so good, bad things could happen? Why not just have some even more excess
+L616@P13: capital for a rainy day if things go south? Just talk to us in terms of how you're thinking about buybacks at these levels? And I know Jamie's
+L617@P13: talked about potential M&A at some point, maybe asset management, fintechs. But yeah, would love to revisit that. Thanks.
+L618@P13: ............................................................................................................................................................................................................................
+L619@P13: Jamie Dimon
+L620@P13: Chairman & Chief Executive Officer, JPMorganChase A
+L621@P13: Yeah. So, before I answer that, I want to tell you I always enjoy reading your weekend notes. They're insightful and sometimes quite funny.
+L622@P13: So, thank you for that.
+L623@P13-14: ............................................................................................................................................................................................................................14
+L624@P14: Ebrahim H. Poonawala
+L625@P14: Analyst, Bank of America Merrill Lynch Q
+L626@P14: Thank you.
+L627@P14: ............................................................................................................................................................................................................................
+L628@P14: Jamie Dimon
+L629@P14: Chairman & Chief Executive Officer, JPMorganChase A
+L630@P14: Look, you're absolutely correct. I mean, we've always said we want to buy back less stock as the price goes up and more stock as the price
+L631@P14: goes down. We had a lot of excess capital. And so, we were struggling with that if you're talking about two years ago. We still think the number
+L632@P14: – use just approximately $40 billion, and I think we now think we could actually deploy that over time. The world's gotten bigger. It's gotten
+L633@P14: more complex. I just got back from a tour of Europe, our Security and Resiliency Initiative, the hyperscalers, the needs are just big.
+L634@P14: And it's not just AI. You're talking about global infrastructure, the remilitarization of the world, the restructuring of trade is taking place, the
+L635@P14: enormous need of our governments. You have – global deficits are almost 4.5% or 5%, which is a very big number competing for the same
+L636@P14: capital. So, we do think we’ll deploy it, and that has consequences. And we're not going to tell the market what we're going to do. But we
+L637@P14: agree with you generally. And if we think we can deploy, it's very different than buying back stock.
+L638@P14: I've also never thought that buying – I actually want to get rid of that number, money returned to shareholders. I just don't even like seeing it,
+L639@P14: because buying back stock is not returning money to shareholders. You're making an investment decision. You're not making a return money
+L640@P14: to shareholders decision. I actually do want that out of all our reports. And so, you can see changes taking place. We're just not going to tell
+L641@P14: you what they are. And I made a mistake last time mentioning $20 billion. We could obviously do far more than that or nothing at all. What I
+L642@P14: was trying to point out is we have huge opportunities for organic growth in every single business we're in.
+L643@P14: Organic growth is hard. It's technology. It's people. It's systems. It's branches. It's bankers. It's hiring. It's training and recruiting. But I was
+L644@P14: surprised to find out in parts of Europe that while we've doubled our share in certain areas, they think that we could do a lot more there and
+L645@P14: country-by-country, including countries that we say aren't doing particularly well. And I think that's true here. We have our branch in the United
+L646@P14: States. We've got our credit card business. We've got the Apple business at one point, which we have pretty high hopes for, if we come up
+L647@P14: with better products and better services.
+L648@P14: And yeah, so the goal is to deploy our capital at a 17% return. That is the goal, which we think we can do over time. We should always be
+L649@P14: looking at inorganic. What we don't want to do is look at inorganic as a sign of weakness of organic, which I think companies do sometimes.
+L650@P14: They bullshit about M&A when they should be focusing on why they're not doing particularly well in an area or something like that. And we
+L651@P14: have a lot of competition, by the way. We had pointed out before, very good competition, not just not just Goldman Sachs, who's doing a great
+L652@P14: job, if you didn't read their numbers this morning, because I did. But you got Stripe and PayPal and Cash and Block and Chime and SoFi and
+L653@P14: Revolut, and they're good.
+L654@P14: And we have to make certain investments to keep up with them or to hopefully do a better job than some of them. And so, we're doing all of
+L841@P18: And we're in a sense like a representation of the economy as a whole that we're probably lagging a little bit some of the cutting-edge adoption
+L842@P18: and usage as we should, given who we are as a company. But it is an important question for us as we go into next year and the subsequent
+L843@P18: years. And I think the good news is that we've done a lot of really high-quality thinking on this, and a lot of the infrastructure that we've built
+L844@P18: over the last couple of years is going to position us to be quite sophisticated about using the right models for the right purpose.
+L845@P18: I mean, just to use one sort of topical example, no offense intended to those of you who tend to write slightly long reports, but as you can
+L846@P18: imagine, sometimes people like to summarize those reports using AI tools. And as you know, the tools are quite good at doing that. And you
+L847@P18: really don't need the latest cutting-edge, incredibly expensive model to summarize an analyst report. So, the idea is use the right model for the
+L848@P18: right purpose, be smart about open source where appropriate, and ensure that you're getting value out of it ultimately in the end. Either we're
+L849@P18: going to have a lot more capacity or we're going to have a lot more efficiency or both, or we're going to have better revenue outcomes or we're
+L850@P18: going to compete more effectively, and we just need to be disciplined about how we handle that. So, that's a body of work that's happening
+L851@P18: right now.
+L852@P18: ............................................................................................................................................................................................................................
+L853@P18: Manan Gosalia
+L854@P18: Analyst, Morgan Stanley & Co. LLC Q
+

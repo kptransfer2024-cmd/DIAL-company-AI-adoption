@@ -1,0 +1,4 @@
+ticker,firm_name,industry,observation_period,documents_reviewed,ai_disclosure_present,reported_adoption,adoption_stage_max,use_case_count,internal_ai,customer_facing_ai,measurable_outcome_present,coverage_notes
+JPM,JPMorgan Chase & Co.,Financial services,2025-01-01/2026-10-07,2,1,1,4,1,1,NA,NA,"Selected excerpts; assistant labels; human validation pending. Maximum is an observed lower bound. Unobserved flags are NA. Use-case count is selected labels, not company total."
+MSFT,Microsoft Corporation,Technology,2025-01-01/2026-10-07,2,1,1,5,5,1,1,1,"Selected excerpts; assistant labels; human validation pending. Maximum is an observed lower bound. Unobserved flags are NA. Use-case count is selected labels, not company total."
+WMT,Walmart Inc.,Retail,2025-01-01/2026-10-07,2,1,1,4,1,NA,1,NA,"Selected excerpts; assistant labels; human validation pending. Maximum is an observed lower bound. Unobserved flags are NA. Use-case count is selected labels, not company total."

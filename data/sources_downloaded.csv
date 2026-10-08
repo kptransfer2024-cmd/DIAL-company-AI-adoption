@@ -1,0 +1,4 @@
+ticker,filing_date,period_end,accession_number,source_url
+MSFT,2026-07-29,2026-06-30,0001193125-26-323660,https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/0001193125-26-323660-index.html
+WMT,2026-03-13,2026-01-31,0000104169-26-000055,https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/0000104169-26-000055-index.html
+JPM,2026-02-13,2025-12-31,0001628280-26-008131,https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/0001628280-26-008131-index.html

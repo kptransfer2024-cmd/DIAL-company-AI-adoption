@@ -1,0 +1,349 @@
+Form 10-K for Microsoft Corp filed 07/29/2026 (https://microsoft.gcs-web.com/static-files/8a9beeed-0e9e-48e6-b4fb-593d558e2693)
+citeturn16view0 [wordlim: 200] Crawled: today; Content type: application/pdf; Number of pages: 124; Source: find({"ref_id":"turn14view1","pattern":"Copilot"}); Total lines: 4666
+L147@P3: • Tackling security from all angles with our integrated, end-to-end solutions spanning security, compliance, identity, and
+L148@P3: management, across all clouds and platforms.
+L149@P3: • Transforming the workplace to deliver new, modern, modular business applications, drive deeper insights, and improve how
+L150@P3: people communicate, collaborate, learn, work, and interact with one another.
+L151@P3: • Building and running cloud-based services in ways that utilize ubiquitous computing to unleash new experiences and
+L152@P3: opportunities for businesses and individuals.
+L153@P3: • Applying AI and ambient intelligence to drive insights, revolutionize many types of work and business processes, and provide
+L154@P3: substantive productivity gains using Microsoft 365 Copilot and agents.
+L155@P3: • Helping customers drive frontier transformation by applying frontier AI capabilities, engineering expertise, and trusted platforms
+L156@P3: to reinvent how their organizations operate, improve decision-making, create new value, and deliver measurable business
+L157@P3: outcomes from AI.
+L158@P3: • Providing a unified intelligence layer for enterprise AI to ground AI in a continuously evolving understanding of an organization’s
+L159@P3: data.
+L160@P3: • Providing training on generative AI and greater access to digital learning and resources through skilling programs and initiatives,
+L161@P3: grants, and LinkedIn learning pathways.
+L162@P3: • Inventing new gaming experiences that bring people together around their shared love for games on any device and pushing the
+L163@P3: boundaries of innovation with console and PC gaming.
+L164@P3: • Leveraging Windows to fuel our cloud business, grow our share of the PC market, and drive increased engagement with our
+L165@P3: services like Microsoft Edge, Bing, Copilot, Microsoft Teams, Microsoft 365 Consumer, XBOX Game Pass, and more.
+L166@P3-4: Our future growth depends on our ability to transcend current product category definitions, business models, and sales motions.PART I
+L167@P4: Item 1
+L168@P4: 5
+L169@P4: Commitment to Sustainability
+L170@P4: Microsoft is committed to sustainability and our approach to addressing climate change starts with the sustainability of our own business. In
+L171@P4: 2020, we announced goals to become a carbon negative, water positive, and zero waste company by 2030. Since announcing these goals,
+L172@P4: we have seen major changes in both the technology sector and in our understanding of what it will take to meet our goals. More information
+L173@P4: about our progress toward these goals can be found in our annual Environmental Sustainability Report.
+L174@P4: OPERATING SEGMENTS
+L175@P4: We operate our business and report our financial performance using three segments: Productivity and Business Processes, Intelligent Cloud,
+L176@P4: and More Personal Computing. Our segments provide management with a comprehensive financial view of our key businesses. The
+L177@P4: segments enable the alignment of strategies and objectives across the development, sales, marketing, and services organizations, and they
+L178@P4: provide a framework for timely and rational allocation of resources within businesses.
+L179@P4: Additional information on our operating segments and geographic and product information is contained in Note 18 – Segment Information
+L180@P4: and Geographic Data of the Notes to Financial Statements (Part II, Item 8 of this Form 10-K).
+L181@P4: Our reportable segments are described below.
+L182@P4: Productivity and Business Processes
+L183@P4: Our Productivity and Business Processes segment consists of products and services in our portfolio of productivity, communication, and
+L184@P4: information services, spanning a variety of devices and platforms. This segment primarily comprises:
+L185@P4: • Microsoft 365 Commercial products and cloud services, including Microsoft 365 Commercial cloud, comprising Microsoft 365
+L186@P4: Commercial, Enterprise Mobility + Security, the cloud portion of Windows Commercial, the per-user portion of Power BI,
+L187@P4: Exchange, SharePoint, Microsoft Teams, Microsoft 365 Security and Compliance, and Microsoft 365 Copilot; and Microsoft 365
+L188@P4: Commercial products, comprising Windows Commercial on-premises and Office licensed on-premises.
+L189@P4: • Microsoft 365 Consumer products and cloud services, including Microsoft 365 Consumer subscriptions, Office licensed onpremises, and other consumer services.
+L190@P4: • LinkedIn, including Talent Solutions, Marketing Solutions, Premium Subscriptions, and Sales Solutions.
+L191@P4: • Dynamics products and cloud services, including Dynamics 365, comprising a set of intelligent, cloud-based applications across
+L192@P4: ERP, CRM, Power Apps, and Power Automate; and on-premises ERP and CRM applications.
+L193@P4: Microsoft 365 Commercial Products and Cloud Services
+L194@P4: Microsoft 365 Commercial is an AI-powered business and productivity solutions platform that brings together Office, Windows, Microsoft 365
+L195@P4: Copilot, and Enterprise Mobility + Security to help organizations empower their employees. Growth depends on our ability to reach new users
+L196@P4: in new markets such as frontline workers, small and medium businesses, and growth markets, as well as add AI-enabled tools, features, and
+L197@P4: agentic scenarios to our core product and service offerings across communication, collaboration, analytics, security, compliance, and other
+L198@P4: AI business productivity categories. Microsoft 365 Commercial revenue is mainly affected by a combination of continued installed base
+L199@P4: growth and average revenue per user expansion, as well as the continued shift from Office licensed on-premises to Microsoft 365.
+L200@P4: Microsoft 365 Consumer Products and Cloud Services
+L201@P4: Microsoft 365 Consumer is designed to increase personal productivity and creativity through a range of products and services. Growth
+L202@P4: depends on our ability to reach new users, add value to our core product set with new features including AI tools, and continue to expand our
+L203@P4: product and service offerings into new markets. Microsoft 365 Consumer cloud revenue and Office Consumer products revenue is mainly
+L204@P4: affected by the percentage of customers that buy Office with their new devices and the continued shift from Office licensed on-premises to
+L205@P4: Microsoft 365 Consumer subscriptions. Microsoft 365 Consumer cloud revenue is also affected by the demand for communication and
+L206@P4-5: storage through Outlook.com and OneDrive, which is largely driven by subscriptions and advertising.PART I
+L207@P5: Item 1
+L208@P5: 6
+L209@P5: LinkedIn
+L210@P5: LinkedIn connects the world’s professionals to make them more productive and successful and transforms the way companies hire, market,
+L211@P5: sell, and learn. In addition to LinkedIn’s free services, LinkedIn offers monetized solutions designed to offer AI-enabled insights and
+L212@P5: productivity: Talent Solutions, Marketing Solutions, Premium Subscriptions, and Sales Solutions. Growth will depend on our ability to
+L213@P5: increase LinkedIn member engagement on the platform and our ability to continue offering insight and AI-enabled services that provide value
+L214@P5: for our members and customers. LinkedIn revenue is mainly affected by demand from enterprises and professionals for subscriptions to
+L215@P5: Talent Solutions, Sales Solutions, and Premium Subscriptions offerings, as well as member engagement and the quality of the sponsored
+L216@P5: content delivered to those members to drive Marketing Solutions.
+L294@P7: application development, and infrastructure services, including multinational consulting firms and small niche businesses focused on specific
+L295@P7: technologies.
+L296@P7: More Personal Computing
+L297@P7: Our More Personal Computing segment consists of products and services that put customers at the center of the experience with our
+L298@P7: technology. This segment primarily comprises:
+L299@P7: • Windows and Devices, including Windows OEM licensing (Windows Pro and non-Pro licenses sold through the OEM channel)
+L300@P7: and Devices, comprising Surface and PC accessories.
+L301@P7: • XBOX (formerly Gaming), including XBOX hardware and XBOX content and services, comprising first- and third-party content
+L302@P7: (including games and in-game content), XBOX Game Pass and other subscriptions, XBOX Cloud Gaming, advertising, and
+L303@P7: other cloud services.
+L304@P7: • Search advertising (formerly Search and news advertising), comprising Bing, Copilot, Microsoft News, Microsoft Edge, and thirdparty affiliates.
+L305@P7: Windows and Devices
+L306@P7: The Windows operating system is designed to deliver a more personal computing experience for users by enabling consistency of
+L307@P7: experience, applications, and information across their devices. Windows OEM revenue is impacted significantly by the number of Windows
+L308@P7: operating system licenses purchased by OEMs, which they pre-install on the devices they sell. In addition to computing device market
+L309@P7: volume, Windows OEM revenue is impacted by:
+L310@P7: • The mix of computing devices based on form factor and screen size.
+L311@P7: • Differences in device market demand between developed markets and growth markets.
+L312@P7: • Growth of the AI PC category.
+L313@P7: • Attachment of Windows to devices shipped.
+L314@P7: • Customer mix between consumer, small and medium businesses, and large enterprises.
+L315@P7: • Changes in inventory levels in the OEM channel.
+L316@P7: • Pricing changes and promotions, pricing variation that occurs when the mix of devices manufactured shifts from local and
+L317@P7: regional system builders to large multinational OEMs, and different pricing of Windows versions licensed.
+L318@P7: • Constraints in the supply chain of device components.
+L319@P7: • Piracy.
+L320@P7: We design and sell devices, such as Surface (including Copilot+ PCs) and PC accessories. Our devices are designed to enable people and
+L321@P7: organizations to connect to the people and content that matter most using Windows and integrated Microsoft products and services. Surface
+L322@P7: is designed to help organizations, students, and consumers be more productive. Growth in Devices is dependent on total PC shipments, the
+L323@P7: ability to attract new customers, our product roadmap, and expanding into new categories.
+L324@P7: XBOX
+L325@P7: Microsoft is expanding how billions of people globally access and play video games on PC, console, mobile, and cloud. Our game content is
+L326@P7: developed through a collection of first-party studios creating iconic and differentiated gaming experiences. We continue to invest in gaming
+L327@P7: studios and content to expand our intellectual property roadmap and leverage new content creators. These unique gaming experiences are
+L328@P7: the cornerstone of XBOX Game Pass, a subscription service and gaming community with access to a curated library of first- and third-party
+L329@P7-8: titles.PART I
+L330@P8: Item 1
+L331@P8: 9
+L332@P8: The gamer remains at the heart of the XBOX ecosystem. We are identifying new opportunities to attract gamers across a variety of different
+L333@P8: end points through our first- and third-party content and business diversification across subscriptions, ads, and digital stores. We’ve seen
+L334@P8: new devices from third-party manufacturers along with key PC and mobile end points that help us empower gamers to play in a way that is
+L335@P8: most convenient to them. We are focused on growing the platform and expanding to new ecosystems to engage as many gamers as
+L336@P8: possible.
+L337@P8: XBOX enables people to connect and share online gaming experiences that are accessible on XBOX consoles, Windows-enabled devices,
+L338@P8: and other devices. XBOX is designed to benefit users by providing access to a network of certified applications and services and to benefit
+L339@P8: our developer and partner ecosystems by providing access to a large customer base. XBOX revenue is mainly affected by subscriptions and
+L340@P8: sales of first- and third-party content, as well as advertising. Growth of our XBOX business is determined by the overall active user base
+L341@P8: through XBOX enabled content, availability of games, providing exclusive game content that gamers seek, the computational power and
+L342@P8: reliability of the devices used to access our content and services, and the ability to create new experiences.
+L343@P8: Search Advertising
+L344@P8: Our Search advertising business is designed to deliver relevant search, native, and display advertising to a global audience. Microsoft Copilot
+L345@P8: is a digital companion designed to inform, entertain, and inspire. Our Microsoft Edge browser and Bing search engine with Copilot are key
+L346@P8: tools to enable user acquisition and engagement, while our technology platform enables accelerated delivery of digital advertising solutions.
+L347@P8: In addition to first-party tools, we have several partnerships with companies through which we provide and monetize search offerings. Growth
+L348@P8: depends on our ability to attract new users, understand intent, and match intent with relevant content on advertising offerings.
+L349@P8: Competition
+L350@P8: Windows faces competition from various software products and from alternative platforms and devices. We believe Windows competes
+L351@P8: effectively by giving customers choice, value, flexibility, security, an easy-to-use interface, and compatibility with a broad range of hardware
+L352@P8: and software applications, including those that enable productivity.
+L353@P8: Devices face competition from various computer, tablet, and hardware manufacturers who offer a unique combination of high-quality
+L354@P8: industrial design and innovative technologies across various price points. Many of these manufacturers are also current or potential partners
+L355@P8: and customers, including our Windows OEMs.
+L356@P8: XBOX and our cloud gaming services face competition from various online gaming ecosystems and game streaming services. Our gaming
+L357@P8: platform competes with other console platforms. We believe our gaming platform is effectively positioned against, and uniquely differentiated
+L358@P8: from, competitive products and services based on significant innovation in hardware architecture, user interface, developer tools, online
+L359@P8: gaming and entertainment services, and continued strong content from our own first-party game franchises as well as other digital content
+L360@P8: offerings.
+L361@P8: Our Search advertising business competes with search engines, and a wide array of websites, social platforms, and portals that provide
+L362@P8: content and online offerings to end users.
+L363@P8: HUMAN CAPITAL RESOURCES
+L364@P8: As of June 30, 2026, we employed approximately 223,000 people on a full-time basis, 121,000 in the U.S. and 102,000 internationally. Of the
+L365@P8: total employees, 89,000 were in operations, including product support and consulting services, datacenter operations, and manufacturing
+L366@P8: and distribution; 77,000 were in product research and development; 43,000 were in sales and marketing; and 14,000 were in general and
+L367@P8: administration. Certain employees are subject to collective bargaining agreements.
+L1438@P35: Microsoft 365 Commercial cloud revenue growth Revenue from Microsoft 365 Commercial subscriptions, comprising Microsoft 365
+L1439@P35: Commercial, Enterprise Mobility + Security, the cloud portion of Windows
+L1440@P35: Commercial, the per-user portion of Power BI, Exchange, SharePoint, Microsoft
+L1441@P35: Teams, Microsoft 365 Security and Compliance, and Microsoft 365 Copilot
+L1442@P35: Microsoft 365 Commercial seat growth The number of Microsoft 365 Commercial seats at end of period where seats are
+L1443@P35: paid users covered by a Microsoft 365 Commercial subscription
+L1444@P35: Microsoft 365 Consumer cloud revenue growth Revenue from Microsoft 365 Consumer subscriptions and other consumer services
+L1445@P35: LinkedIn revenue growth Revenue from LinkedIn, including Talent Solutions, Marketing Solutions, Premium
+L1446@P35: Subscriptions, and Sales Solutions
+L1447@P35: Dynamics 365 revenue growth Revenue from Dynamics 365, including a set of intelligent, cloud-based applications
+L1448@P35: across ERP, CRM, Power Apps, and Power Automate
+L1477@P36: Fiscal Year 2026 Compared with Fiscal Year 2025
+L1478@P36: Revenue increased $50.1 billion or 18% driven by growth in Microsoft Cloud. Intelligent Cloud revenue increased driven by Azure.
+L1479@P36: Productivity and Business Processes revenue increased driven by Microsoft 365 Commercial cloud. More Personal Computing revenue
+L1480@P36: decreased driven by XBOX (formerly Gaming), offset in part by growth in Search advertising.
+L1481@P36: Cost of revenue increased $18.5 billion or 21% driven by growth in Microsoft Cloud.
+L1482@P36: Gross margin increased $31.6 billion or 16% with growth across each of our segments.
+L1483@P36: • Gross margin percentage decreased slightly driven by continued investments in AI infrastructure and growing AI product usage,
+L1484@P36: offset in part by efficiency gains across the Microsoft Cloud.
+L1485@P36: • Microsoft Cloud gross margin percentage decreased to 66% driven by continued investments in AI infrastructure and growing AI
+L1486@P36: product usage, offset in part by efficiency gains in Azure and Microsoft 365 Commercial cloud.
+L1487@P36: Operating expenses increased $4.9 billion or 7% driven by continued investments in research and development compute capacity, AI talent,
+L1488@P36: and data to support product development that benefits the entire portfolio, impairment and other related expenses in our XBOX business,
+L1489@P36: investments in commercial sales, and higher Copilot advertising expenses.
+L1490@P36: Operating income increased $26.7 billion or 21% driven by growth in Productivity and Business Processes and Intelligent Cloud.
+L1491@P36-37: Revenue and operating income both included a favorable foreign currency impact of 2%.PART II
+L1492@P37: Item 7
+L1493@P37: 38
+L1494@P37: Current year net income and diluted EPS were positively impacted by net gains from investments in OpenAI, which resulted in an increase in
+L1495@P37: net income and diluted EPS of $5.0 billion and $0.67, respectively. Prior year net income and diluted EPS were negatively impacted by net
+L1496@P37: losses from investments in OpenAI, which resulted in a decrease in net income and diluted EPS of $3.6 billion and $0.49, respectively.
+L1497@P37: SEGMENT RESULTS OF OPERATIONS
+L1498@P37: (In millions, except percentages) 2026 2025
+L1499@P37: Percentage
+L1500@P37: Change
+L1501@P37: Productivity and Business Processes
+L1502@P37: Revenue $ 139,996 $ 120,810 16%
+L1503@P37: Cost of revenue 25,017 22,422 12%
+L1504@P37: Operating expenses 31,100 28,615 9%
+L1505@P37: Operating income $ 83,879 $ 69,773 20%
+L1506@P37: Intelligent Cloud
+L1507@P37: Revenue $ 137,791 $ 106,265 30%
+L1508@P37: Cost of revenue 57,876 40,171 44%
+L1509@P37: Operating expenses 22,943 21,505 7%
+L1510@P37: Operating income $ 56,972 $ 44,589 28%
+L1511@P37: More Personal Computing
+L1512@P37: Revenue $ 54,052 $ 54,649 (1)%
+L1513@P37: Cost of revenue 23,481 25,238 (7)%
+L1514@P37: Operating expenses 16,185 15,245 6%
+L1515@P37: Operating income $ 14,386 $ 14,166 2%
+L1516@P37: Total
+L1517@P37: Revenue $ 331,839 $ 281,724 18%
+L1518@P37: Cost of revenue 106,374 87,831 21%
+L1519@P37: Operating expenses 70,228 65,365 7%
+L1520@P37: Operating income $ 155,237 $ 128,528 21%
+L1521@P37: Reportable Segments
+L1522@P37: Fiscal Year 2026 Compared with Fiscal Year 2025
+L1523@P37: Productivity and Business Processes
+L1524@P37: Revenue increased $19.2 billion or 16%.
+L1525@P37: • Microsoft 365 Commercial products and cloud services revenue increased $14.2 billion or 16%. Microsoft 365 Commercial cloud
+L1526@P37: revenue grew 17% with growth in revenue per user driven by Microsoft 365 Copilot and Microsoft 365 E5. Microsoft 365
+L1527@P37: Commercial seats grew 6% driven by small and medium businesses and frontline worker offerings. Microsoft 365 Commercial
+L1528@P37: products revenue grew 13% driven by growth in the Windows Commercial on-premises components of Microsoft 365 suite
+L1529@P37: sales, as well as an increase in Office 2024 transactional purchasing.
+L1530@P37: • Microsoft 365 Consumer products and cloud services revenue increased $1.8 billion or 24%. Microsoft 365 Consumer cloud
+L1531@P37: revenue grew 28% driven by growth in revenue per user and Microsoft 365 Consumer subscriber growth of 7%.
+L1532@P37: • LinkedIn revenue increased $2.0 billion or 11% with growth across all lines of business.
+L1533@P37: • Dynamics products and cloud services revenue increased $1.2 billion or 15% driven by growth in Dynamics 365. Dynamics 365
+L1534@P37-38: revenue grew 18% with growth across all workloads.PART II
+L1535@P38: Item 7
+L1536@P38: 39
+L1537@P38: Operating income increased $14.1 billion or 20%.
+L1538@P38: • Cost of revenue increased $2.6 billion or 12% driven by investments in AI infrastructure to support Microsoft 365 Copilot seat
+L1539@P38: and usage growth.
+L1540@P38: • Gross margin increased $16.6 billion or 17% driven by growth in Microsoft 365 Commercial cloud. Gross margin percentage
+L1541@P38: increased slightly primarily driven by efficiency gains in Microsoft 365 Commercial cloud, offset in part by continued investments
+L1542@P38: in AI infrastructure and growing AI product usage.
+L1543@P38: • Operating expenses increased $2.5 billion or 9% driven by continued investments in research and development compute
+L1544@P38: capacity, AI talent, and data to support product development that benefits the entire portfolio, as well as investments in
+L1545@P38: commercial sales and higher Copilot advertising expenses.
+L1546@P38: Revenue, gross margin, and operating income included a favorable foreign currency impact of 2%, 3%, and 3%, respectively.
+L1547@P38: Intelligent Cloud
+L1548@P38: Revenue increased $31.5 billion or 30%.
+L1549@P38: • Server products and cloud services revenue increased $31.0 billion or 31% driven by Azure and other cloud services. Azure and
+L1550@P38: other cloud services revenue grew 41% driven by demand for services across the platform with continued growth across all
+L1551@P38: workloads. Server products revenue increased 1% primarily driven by higher purchases of licenses running in multi-cloud
+L1552@P38: environments, offset in part by continued customer shift to cloud.
+L1553@P38: • Enterprise and partner services revenue increased $500 million or 6% driven by growth in Enterprise Support Services.
+L1554@P38: Operating income increased $12.4 billion or 28%.
+L1555@P38: • Cost of revenue increased $17.7 billion or 44% driven by investments in AI infrastructure to support growing customer demand.
+L1556@P38: • Gross margin increased $13.8 billion or 21% driven by growth in Azure. Gross margin percentage decreased driven by the
+L1557@P38: continued investments in AI infrastructure as well as sales mix shift to Azure, offset in part by efficiency gains in Azure.
+L1558@P38: • Operating expenses increased $1.4 billion or 7% driven by continued investments in research and development compute
+L1559@P38: capacity, AI talent, and data to support product development that benefits the entire portfolio.
+L1560@P38: Cost of revenue included an unfavorable foreign currency impact of 2%.
+L1561@P38: More Personal Computing
+L1562@P38: Revenue decreased $597 million or 1%.
+L1563@P38: • Windows and Devices revenue decreased $230 million or 1%. Windows OEM and Devices revenue decreased slightly driven by
+L1564@P38: a decline in Devices, offset in part by Windows OEM growth of 5% with inventory levels that remained elevated.
+L1565@P38: • XBOX revenue decreased $1.7 billion or 7% driven by declines in XBOX content and services and XBOX hardware. XBOX
+L1566@P38: content and services revenue decreased 5% on a prior year comparable that benefited from strong first-party content
+L1567@P38: performance, offset in part by growth in XBOX Game Pass. XBOX hardware revenue decreased 29% driven by lower volume of
+L1568@P38: consoles sold.
+L1569@P38: • Search advertising revenue increased $1.3 billion or 9%. Search advertising revenue excluding traffic acquisition costs
+L1570@P38-39: increased 12% driven by higher search volume and revenue per search, as well as benefit from third-party partnerships.PART II
+L1571@P39: Item 7
+L1572@P39: 40
+L1573@P39: Operating income increased $220 million or 2%.
+L1574@P39: • Cost of revenue decreased $1.8 billion or 7% driven by lower hardware sales.
+L1575@P39: • Gross margin increased $1.2 billion or 4% driven by growth in Search advertising and Windows OEM. Gross margin percentage
+L1576@P39: increased driven by sales mix shift to higher margin businesses.
+L1577@P39: • Operating expenses increased $940 million or 6% driven by impairment and other related expenses in our XBOX business and
+L1578@P39: continued investments in research and development compute capacity, AI talent, and data to support product development that
+L1579@P39: benefits the entire portfolio.
+L1580@P39: Operating income included a favorable foreign currency impact of 2%.
+L1581@P39: OPERATING EXPENSES
+L1582@P39: Research and Development
+L1583@P39: (In millions, except percentages) 2026 2025
+L1584@P39: Percentage
+L1585@P39: Change
+L1586@P39: Research and development $ 35,562 $ 32,488 9%
+L1587@P39: As a percent of revenue 11% 12% (1)ppt
+L1588@P39: Research and development expenses include payroll, stock-based compensation expense, employee benefits, and other headcount-related
+L1589@P39: expenses associated with product development. Research and development expenses also include technology development costs, including
+L1590@P39: AI training and other infrastructure costs, third-party development and programming costs, and the depreciation and amortization of assets
+L1591@P39: used to conduct research and development.
+L1592@P39: Fiscal Year 2026 Compared with Fiscal Year 2025
+L1593@P39: Research and development expenses increased $3.1 billion or 9% driven by continued investments in compute capacity, AI talent, and data
+L1594@P39: to support product development that benefits the entire portfolio, as well as impairment and other related expenses in our XBOX business.
+L1595@P39: Sales and Marketing
+L1596@P39: (In millions, except percentages) 2026 2025
+L1597@P39: Percentage
+L1598@P39: Change
+L1599@P39: Sales and marketing $ 26,710 $ 25,654 4%
+L1600@P39: As a percent of revenue 8% 9% (1)ppt
+L1601@P39: Sales and marketing expenses include payroll, stock-based compensation expense, employee benefits, and other headcount-related
+L1602@P39: expenses associated with sales and marketing personnel, and the costs of advertising, promotions, trade shows, seminars, and other
+L1603@P39: programs.
+L1604@P39: Fiscal Year 2026 Compared with Fiscal Year 2025
+L1605@P39: Sales and marketing expenses increased $1.1 billion or 4% driven by investments in commercial sales and higher Copilot advertising
+L1606@P39: expenses.
+L1607@P39: General and Administrative
+L1608@P39: (In millions, except percentages) 2026 2025
+L1609@P39: Percentage
+L1610@P39: Change
+L1611@P39: General and administrative $ 7,956 $ 7,223 10%
+L1612@P39: As a percent of revenue 2% 3% (1)ppt
+L1613@P39: General and administrative expenses include payroll, employee benefits, stock-based compensation expense, and other headcount-related
+L1614@P39: expenses associated with finance, legal, facilities, certain human resources and other administrative personnel, certain taxes, and legal and
+L1615@P39-40: other administrative fees.PART II
+L1616@P40: Item 7
+L1617@P40: 41
+L1618@P40: Fiscal Year 2026 Compared with Fiscal Year 2025
+L1619@P40: General and administrative expenses increased $733 million or 10% driven by higher legal expenses and gains on divestitures in the prior
+L1620@P40: period.
+L1621@P40: OTHER INCOME (EXPENSE), NET
+L1622@P40: The components of other income (expense), net were as follows:
+L1623@P40: (In millions)
+L1624@P40: Year Ended June 30, 2026 2025
+L1625@P40: Interest and dividends income $ 3,301 $ 2,647
+L1626@P40: Interest expense (3,051) (2,385)
+L1627@P40: Net recognized gains (losses) on investments 4,385 (349)
+L3323@P82: following three segments: Productivity and Business Processes, Intelligent Cloud, and More Personal Computing.
+L3324@P82: Our reportable segments are described below.
+L3325@P82: Productivity and Business Processes
+L3328@P82: • Microsoft 365 Commercial products and cloud services, including Microsoft 365 Commercial cloud, comprising Microsoft 365
+L3329@P82: Commercial, Enterprise Mobility + Security, the cloud portion of Windows Commercial, the per-user portion of Power BI,
+L3330@P82: Exchange, SharePoint, Microsoft Teams, Microsoft 365 Security and Compliance, and Microsoft 365 Copilot; and Microsoft 365
+L3331@P82: Commercial products, comprising Windows Commercial on-premises and Office licensed on-premises.
+L3332@P82: • Microsoft 365 Consumer products and cloud services, including Microsoft 365 Consumer subscriptions, Office licensed onpremises, and other consumer services.
+L3333@P82: • LinkedIn, including Talent Solutions, Marketing Solutions, Premium Subscriptions, and Sales Solutions.
+L3334@P82: • Dynamics products and cloud services, including Dynamics 365, comprising a set of intelligent, cloud-based applications across
+L3335@P82: ERP, CRM, Power Apps, and Power Automate; and on-premises ERP and CRM applications.
+L3336@P82: Intelligent Cloud
+L3337@P82: Our Intelligent Cloud segment consists of our public, private, and hybrid server products and cloud services that power modern business and
+L3338@P82: developers. This segment primarily comprises:
+L3339@P82: • Server products and cloud services, including Azure and other cloud services, comprising cloud and AI consumption-based
+L3340@P82: services, GitHub cloud services, Health and Life Sciences cloud services (formerly Nuance Healthcare cloud services), virtual
+L3341@P82: desktop offerings, and other cloud services; and Server products, comprising SQL Server, Windows Server, Visual Studio,
+L3342@P82: System Center, related Client Access Licenses, and other on-premises offerings.
+L3343@P82: • Enterprise and partner services, including Enterprise Support Services, Industry Solutions, Microsoft Partner Network, and
+L3344@P82: Learning Experience.
+L3345@P82: More Personal Computing
+L3346@P82: Our More Personal Computing segment consists of products and services that put customers at the center of the experience with our
+L3347@P82: technology. This segment primarily comprises:
+L3348@P82: • Windows and Devices, including Windows OEM licensing (Windows Pro and non-Pro licenses sold through the OEM channel)
+L3349@P82: and Devices, comprising Surface and PC accessories.
+L3350@P82: • XBOX (formerly Gaming), including XBOX hardware and XBOX content and services, comprising first- and third-party content
+L3351@P82: (including games and in-game content), XBOX Game Pass and other subscriptions, XBOX Cloud Gaming, advertising, and
+L3352@P82: other cloud services.
+L3353@P82-83: • Search advertising (formerly Search and news advertising), comprising Bing, Copilot, Microsoft News, Microsoft Edge, and thirdparty affiliates.PART II
+L3354@P83: Item 8
+L3355@P83: 84
+L3356@P83: Revenue and costs are generally directly attributed to our segments. However, due to the integrated structure of our business, certain
+L3357@P83: revenue recognized and costs incurred by one segment may benefit other segments. Revenue from certain contracts is allocated among the
+L3358@P83: segments based on the relative value of the underlying products and services, which can include allocation based on actual prices charged,
+L3359@P83: prices when sold separately, or estimated costs plus a profit margin. Cost of revenue is allocated in certain cases based on a relative
+L3360@P83: revenue methodology. Operating expenses that are allocated primarily include those relating to our investments in AI infrastructure and
+L3361@P83: training, as well as marketing of products and services, from which multiple segments benefit and are generally allocated based on relative
+L3362@P83: gross margin.
+L3363@P83: In addition, certain costs are incurred at a corporate level and allocated to our segments. These allocated costs generally include legal,
+L3364@P83: including settlements and fines, information technology, human resources, finance, excise taxes, field selling, shared facilities services,
+

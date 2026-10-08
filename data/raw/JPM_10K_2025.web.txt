@@ -1,0 +1,503 @@
+CORP 10K 2025 (https://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/investor-relations/documents/quarterly-earnings/2025/4th-quarter/corp-10k-2025.pdf)
+citeturn9view0 [wordlim: 200] Crawled: today; Content type: application/pdf; Number of pages: 410; Source: find({"ref_id":"turn7view0","pattern":"artificial intelligence"}); Total lines: 28404
+L645@P6: by two federal courts. The DOL has indicated that it
+L646@P6: intends to revise the rule, and the potential impact of
+L647@P6: the rule on the Firm is therefore uncertain.
+L648@P6: Derivatives regulation:
+L649@P6: The Firm is subject to comprehensive regulation of its
+L650@P6: derivatives businesses. In the U.S., JPMorgan Chase
+L651@P6: Bank, N.A., J.P. Morgan Securities LLC and J.P. Morgan
+L652@P6: Securities plc are registered with the CFTC as “swap
+L653@P6: dealers.” In addition, JPMorgan Chase Bank, N.A. and
+L654@P6: J.P. Morgan Securities LLC are registered with the SEC
+L655@P6: as “security-based swap dealers.” As a result, these
+L656@P6: entities are subject to a comprehensive regulatory
+L657@P6: framework applicable to their swap or security-based
+L658@P6: swap activities, including capital requirements, rules
+L659@P6: requiring the collateralization of uncleared swaps and
+L660@P6: security-based swaps, rules regarding segregation of
+L661@P6: counterparty collateral, business conduct and
+L662@P6: documentation standards, rules requiring the central
+L663@P6-7: 5clearing of standardized over-the-counter (“OTC”)
+L664@P7: derivatives, requirements that certain standardized
+L665@P7: OTC swaps be traded on regulated trading venues,
+L666@P7: record-keeping and reporting obligations, and antifraud and anti-manipulation requirements. Similar
+L667@P7: requirements have also been established in the
+L668@P7: European Union (“EU”) under the European Market
+L669@P7: Infrastructure Regulation (“EMIR”) and the Markets in
+L670@P7: Financial Instruments Directive (“MiFID II”), as well as in
+L671@P7: the U.K. and other jurisdictions around the world.
+L672@P7: J.P. Morgan Securities LLC is also registered with the
+L673@P7: CFTC as a futures commission merchant.
+L674@P7: Data, privacy, cybersecurity and artificial intelligence
+L675@P7: regulation:
+L676@P7: The Firm and its subsidiaries are subject to laws, rules
+L677@P7: and regulations globally concerning data, including
+L678@P7: data protection, consumer protection, privacy,
+L679@P7: cybersecurity, artificial intelligence and related
+L680@P7: matters. These laws, rules and regulations are
+L681@P7: constantly evolving, subject to interpretation, remain a
+L682@P7: focus of regulators globally, may be enforced by private
+L683@P7: parties or government bodies, and continue to have a
+L684@P7: significant impact on all of the Firm’s businesses and
+L685@P7: operations.
+L686@P7: The Bank Secrecy Act and Economic Sanctions:
+L687@P7: The Bank Secrecy Act (“BSA”) requires all financial
+L688@P7: institutions, including banks and securities brokerdealers, to establish a risk-based system of internal
+L689@P7: controls reasonably designed to prevent money
+L690@P7: laundering and the financing of terrorism. The BSA
+L691@P7: includes a variety of record-keeping and reporting
+L692@P7: requirements, as well as due diligence/know-yourcustomer documentation requirements. Similar
+L693@P7: requirements exist in other jurisdictions in which the
+L694@P7: Firm operates. The Firm is also subject to the
+L695@P7: regulations and economic sanctions programs
+L696@P7: administered and enforced by the U.S. Treasury’s
+L697@P7: Office of Foreign Assets Control (“OFAC”) and EU and
+L698@P7: U.K. authorities which target entities or individuals that
+L699@P7: are, or are located in countries that are, involved in
+L700@P7: activities including terrorism, hostilities, embezzlement
+L701@P7: or human rights violations. The Firm is also subject to
+L702@P7: economic sanctions laws, rules and regulations in other
+L703@P7: jurisdictions in which it operates, including those that
+L704@P7: conflict with or prohibit a firm such as JPMorganChase
+L705@P7: from complying with certain laws, rules and regulations
+L706@P7: to which it is otherwise subject.
+L707@P7: Anti-Corruption:
+L708@P7: The Firm is subject to laws and regulations relating to
+L709@P7: corrupt and illegal payments to government officials
+L710@P7: and others in the jurisdictions in which it operates,
+L711@P7: including the U.S. Foreign Corrupt Practices Act and
+L712@P7: the U.K. Bribery Act.
+L713@P7: Compensation practices:
+L714@P7: The Firm’s compensation practices are subject to
+L715@P7: oversight by the Federal Reserve, as well as other
+L716@P7: agencies. The Federal Reserve has jointly issued
+L717@P7: guidance with the FDIC and the OCC that is designed to
+L718@P7: ensure that incentive compensation paid by banking
+L719@P7: organizations does not encourage imprudent risktaking that threatens the organizations’ safety and
+L720@P7: soundness. The Financial Stability Board (“FSB”) has
+L721@P7: also established standards covering compensation
+L722@P7: principles for banks. The Firm’s compensation
+L723@P7: practices are also subject to regulation and oversight
+L724@P7: by regulators in other jurisdictions, notably the Fifth
+L725@P7: Capital Requirements Directive (“CRD V”), as
+L726@P7: implemented in the EU, which includes compensationrelated provisions. The European Banking Authority
+L727@P7: has instituted guidelines on compensation policies
+L728@P7: including under CRD V which in certain countries (such
+L729@P7: as Germany) are implemented or supplemented by
+L730@P7: local regulations or guidelines. The U.K. regulators
+L731@P7: have also instituted regulations and guidelines on
+L732@P7: compensation policies, which diverge in certain areas
+L733@P7: from EU rules. The Firm expects that the
+L734@P7: implementation of regulatory guidelines regarding
+L735@P7: compensation in the U.S. and other countries will
+L736@P7: continue to evolve, and may affect the manner in which
+L737@P7: the Firm structures its compensation programs and
+L738@P7: practices.
+L739@P7: Sustainability:
+L740@P7: Policymakers in the U.K. and the EU continue to
+L741@P7: implement and refine sustainability-related initiatives
+L742@P7: and disclosure requirements. The Corporate
+L743@P7: Sustainability Reporting Directive (“CSRD”) replaced
+L744@P7: and significantly expanded the scope and content of
+L814@P8: (c) Presented as a percentage of the respective populations who self-identified gender, which was 99% of each of the Firm’s total global
+L815@P8: employees and senior level employees, and all members of the Operating Committee and the Board of Directors.
+L816@P8: (d) Presented as a percentage of total U.S.-based employees, total U.S.-based senior level employees, all members of the Operating Committee,
+L817@P8: and all members of the Board of Directors, respectively.
+L818@P8: (e) Senior level employees represents employees with the titles of Managing Director and above.
+L819@P8: (f) Excludes Todd A. Combs, who resigned from the Firm’s Board of Directors, effective December 7, 2025. Refer to Recent Events on page 50
+L820@P8: for additional information.
+L821@P8: (g) The Firm has not asked members of the Board of Directors to self-identify disability status.
+L822@P8-9: 7Attracting and retaining employees
+L823@P9: The goal of JPMorganChase’s recruitment efforts,
+L824@P9: which leverage a variety of channels to source from a
+L825@P9: broad pool of candidates, is to attract and hire highly
+L826@P9: qualified talent in all roles and at all career levels. The
+L827@P9: Firm’s hiring practices focus on the skills and
+L828@P9: qualifications of a candidate relative to the job
+L829@P9: requirements.
+L830@P9: The Firm strives to provide both external candidates
+L831@P9: and internal employees who are seeking a different
+L832@P9: role with rewarding career opportunities. These
+L833@P9: opportunities range from internship training programs
+L834@P9: for students to entry-level, management and executive
+L835@P9: careers.
+L836@P9: Developing employees
+L837@P9: JPMorganChase supports the professional
+L838@P9: development and career growth of its employees. The
+L839@P9: Firm offers voluntary training programs and
+L840@P9: educational resources to all employees covering a
+L841@P9: broad variety of topics such as leadership and
+L842@P9: management, artificial intelligence, data literacy and
+L843@P9: operational and professional skills. Leadership Edge,
+L844@P9: the Firm’s global leadership and management
+L845@P9: development center of excellence, is focused on
+L846@P9: creating one Firmwide leadership culture. In addition,
+L847@P9: the Firm requires that its employees, including new
+L848@P9: hires, complete a training curriculum that covers,
+L849@P9: among other topics, information concerning Firm
+L850@P9: policies and standards.
+L851@P9: Rewarding and supporting employees
+L852@P9: The Firm provides market-competitive compensation
+L853@P9: and benefits programs. JPMorganChase’s
+L854@P9: compensation philosophy includes guiding principles
+L855@P9: that drive compensation-related decisions across the
+L856@P9: Firm, including pay-for-performance practices that are
+L857@P9: designed to attract and retain top talent, to be
+L858@P9: responsive to and aligned with shareholder interests,
+L859@P9: and to reinforce the Firm’s culture and Business
+L860@P9: Principles that guide how the Firm does business. The
+L861@P9: Firm follows a disciplined and balanced compensation
+L862@P9: framework, including the integration of risk, controls
+L863@P9: and conduct considerations. The Firm’s compensation
+L864@P9: approach is designed to pay the Firm’s employees
+L865@P9: fairly and competitively for the work they do.
+L866@P9: JPMorganChase offers extensive benefits and wellness
+L867@P9: packages to support employees and their families,
+L868@P9: which vary depending on location and include
+L869@P9: healthcare coverage, retirement benefits, life and
+L870@P9: disability insurance, access to on-site health and
+L871@P9: wellness centers, counseling and resources related to
+L872@P9: mental health, time away policies, child care access
+L873@P9: and support, tuition assistance, and financial
+L874@P9: education.
+L875@P9: Part I
+L876@P9-10: 8Item 1A. Risk Factors.
+L877@P10: The following discussion sets forth the material risk
+L878@P10: factors that could affect JPMorganChase’s financial
+L879@P10: condition and operations. Readers should not consider
+L880@P10: any descriptions of these factors to be a complete set
+L881@P10: of all potential risks that could affect the Firm. Any of
+L882@P10: the risk factors discussed below could by itself, or
+L883@P10: combined with other factors, materially and adversely
+L884@P10: affect JPMorganChase’s business, results of
+L885@P10: operations, financial condition, capital position,
+L886@P10: liquidity, competitive position or reputation, including
+L887@P10: by materially increasing expenses or decreasing
+L888@P10: revenues, which could result in material losses or a
+L889@P10: decrease in earnings.
+L890@P10: Summary
+L891@P10: The principal risk factors include:
+L892@P10: • Legal and Regulatory risks, including the impact of
+L893@P10: extensive supervision and regulation, as well as
+L894@P10: changes to or in the application, interpretation or
+L895@P10: enforcement of applicable law or executive branch
+L896@P10: actions, on JPMorganChase’s business and
+L897@P10: operations; the ways in which differences in
+L898@P10: regulatory implementation in different jurisdictions
+L899@P10: or with respect to certain competitors could
+L900@P10: negatively impact JPMorganChase’s business; the
+L901@P10: ways in which governmental policies that discourage
+L902@P10: or penalize business relationships with certain
+L903@P10: industries, or require specific business practices,
+L904@P10: could negatively affect JPMorganChase's businesses;
+L905@P10: the penalties and other repercussions that
+L906@P10: JPMorganChase could face when resolving litigation
+L907@P10: or investigations by governmental authorities; the
+L908@P10: ways in which less predictable legal and regulatory
+L909@P10: frameworks in certain jurisdictions could negatively
+L910@P10: impact JPMorganChase’s operations and financial
+L911@P10: results; and the losses that security holders and other
+L912@P10: unsecured creditors will absorb if JPMorganChase
+L913@P10: were to enter into a resolution.
+L914@P10: • Political risks, including the potential negative
+L915@P10: effects on JPMorganChase’s businesses due to
+L2287@P23: • extort money through the use of so-called
+L2288@P23: “ransomware.”
+L2289@P23: Threat actors that perpetrate cyber attacks include
+L2290@P23: individuals or groups that are:
+L2291@P23: • sponsored by, or acting on behalf of, hostile countries
+L2292@P23: or terrorist organizations
+L2293@P23: • cyber-criminals, or
+L2294@P23: • engaged in using technology to promote a political or
+L2295@P23: social agenda (i.e., “hacktivists”).
+L2296@P23: JPMorganChase has experienced security breaches
+L2297@P23: due to cyber attacks in the past, and future breaches
+L2298@P23: are inevitable. Any such breach could result in serious
+L2299@P23: and harmful consequences for JPMorganChase or its
+L2300@P23: clients and customers.
+L2301@P23: JPMorganChase cannot guarantee that it will always
+L2302@P23: detect cybersecurity threats to its systems or
+L2303@P23: implement effective preventive measures against
+L2304@P23: those threats. The reasons for this include:
+L2305@P23: • the techniques used in cyber attacks evolve
+L2306@P23: frequently and increase in sophistication, and
+L2307@P23: therefore a cyber attack may not be recognized until
+L2308@P23: launched or may go undetected for extended periods
+L2309@P23: • it is possible that a third-party, after establishing a
+L2310@P23: foothold on an internal network without being
+L2311@P23: detected, may gain access to other networks and
+L2312@P23: systems
+L2313@P23: • cyber attacks can originate from a wide variety of
+L2314@P23: sources, including certain threat actors that are wellresourced and can sustain malicious activities for
+L2315@P23: extended periods, and
+L2316@P23: • JPMorganChase does not have control over the
+L2317@P23: cybersecurity of the systems of the numerous clients,
+L2318@P23: customers, counterparties and third-party service
+L2319@P23: providers with which it does business.
+L2320@P23: The cybersecurity risks that JPMorganChase faces
+L2321@P23: could be intensified by factors such as:
+L2322@P23: • increased volume and complexity of cyber attacks
+L2323@P23: during periods of heightened geopolitical tensions
+L2324@P23: • technological advances such as artificial intelligence
+L2325@P23: (“AI”) and quantum computing that may enable
+L2326@P23: malicious actors to develop more advanced social
+L2327@P23: engineering attacks, including targeted phishing
+L2328@P23: attacks, and
+L2329@P23: • technological advances which may counteract or
+L2330@P23: nullify existing information security protections,
+L2331@P23: including cryptographic protections, potentially
+L2332@P23: exposing data.
+L2333@P23: In addition, JPMorganChase could be required to make
+L2334@P23: significant investments in technology in order to
+L2335@P23: transition effectively to more robust security
+L2336@P23: protections, including quantum-resistant encryption.
+L2337@P23: Any such transition may not be completed before
+L2338@P23: relevant threats become operational, and
+L2339@P23: JPMorganChase’s interconnectedness with third
+L2340@P23: parties who may be slower to adopt such protections
+L2341@P23: could further increase its vulnerability to data
+L2342@P23: compromise.
+L2343@P23: Furthermore, a third-party could misappropriate
+L2344@P23: confidential information obtained by intercepting
+L2345@P23: signals or communications from mobile devices used
+L2346@P23: by JPMorganChase’s employees.
+L2347@P23: JPMorganChase could become increasingly vulnerable
+L2348@P23: to cyber attacks if it does not, in a timely manner,
+L2349@P23: identify and address emerging threats, known
+L2350@P23: vulnerabilities or shortcomings in its cybersecurity
+L2351@P23: controls, or if it fails to prioritize or complete
+L2352@P23: enhancements to address them particularly in
+L2353@P23: jurisdictions that could pose a heightened risk to its
+L2354@P23: operations, including enhancements relating to:
+L2355@P23: • preventing unauthorized access and protecting
+L2356@P23: against the misuse of access, including the
+L2357@P23: maintenance and enhancement of controls related to
+L2358@P23: secure software development practices and identity
+L2359@P23: and access management, including controls relating
+L2360@P23: to the management of administrative access to
+L2361@P23: systems
+L2362@P23: • detecting, escalating and effectively addressing in a
+L2363@P23: timely manner any vulnerabilities that may be
+L2364@P23: present either in internally-developed software or
+L2365@P23: externally-provided software or services, including
+L2366@P23: vulnerabilities that could allow the attackers to
+L2367@P23: exploit unknown security flaws in software and
+L2368@P23: hardware (i.e., “zero-day vulnerabilities”)
+L2369@P23: • appropriate oversight of third-party vendors in
+L2370@P23: support of the secure development and maintenance
+L2371@P23: of internal software and systems
+L2372@P23: • controls related to technology asset management
+L2373@P23: and inventory systems to prevent undetected
+L2374@P23: vulnerabilities that could undermine
+L2375@P23: JPMorganChase’s ability to operate an effective
+L2376@P23: control process
+L2377@P23: • upgrading systems and controls to protect
+L2378@P23: JPMorganChase and its clients and customers from
+L2379@P23: the impact of distributed denial-of-service attacks, or
+L2380@P23: to recover from outages that could be caused by a
+L2381@P23: malware or ransomware attack
+L2382@P23: • the continuing migration of technology systems of
+L2383@P23: customer and client-facing services, including digital
+L2384@P23: banking and other internet-based products, to the
+L2385@P23: cloud, and modernization of those services
+L2386@P23: Part I
+L2387@P23-24: 22• strengthening network security and managing
+L2388@P24: outbound connections to reduce the risk of data loss
+L2389@P24: • identifying, assessing and mitigating insider threat
+L2390@P24: activities that could lead to the misuse of
+L11614@P148: The Firm employs various controls for managing
+L11615@P148: payment fraud risk as well as providing employee and
+L11616@P148: client education and awareness trainings.
+L11617@P148: Third-party outsourcing risk
+L11618@P148: The Firm‘s Third-Party Oversight (“TPO”) and Interaffiliates Oversight (“IAO”) frameworks assist the LOBs
+L11619@P148: and Corporate in selecting, documenting, onboarding,
+L11620@P148: monitoring and managing their supplier relationships
+L11621@P148: including services provided by affiliates. The objectives
+L11622@P148: of the TPO framework are to hold suppliers and other
+L11623@P148: third parties to an appropriate standard of operational
+L11624@P148: performance and to mitigate key risks, including data
+L11625@P148: loss and business disruptions. The Corporate ThirdParty Oversight group is responsible for Firmwide
+L11626@P148: training, monitoring, reporting and standards with
+L11627@P148: respect to third-party outsourcing risks.
+L11628@P148-149: JPMorgan Chase & Co./2025 Form 10-K 147Cybersecurity risk
+L11629@P149: Cybersecurity risk is the risk of harm or loss resulting
+L11630@P149: from misuse or abuse of technology or the
+L11631@P149: unauthorized disclosure of data.
+L11632@P149: Overview
+L11633@P149: Cybersecurity risk is an important and continuously
+L11634@P149: evolving focus for the Firm. Significant resources are
+L11635@P149: devoted to protecting and enhancing the security of
+L11636@P149: computer systems, software, networks, storage
+L11637@P149: devices, and other technology. The Firm’s security
+L11638@P149: efforts are designed to protect against, among other
+L11639@P149: things, cybersecurity attacks that can result in
+L11640@P149: unauthorized access to confidential information, the
+L11641@P149: destruction of data, disruptions to or degradations of
+L11642@P149: service, the sabotaging of systems or other damage.
+L11643@P149: The Firm has experienced, and expects that it will
+L11644@P149: continue to experience, a higher volume and
+L11645@P149: complexity of cyber attacks against the backdrop of
+L11646@P149: heightened geopolitical tensions and emerging
+L11647@P149: technologies that can be leveraged by attackers,
+L11648@P149: including artificial intelligence. The Firm has
+L11649@P149: implemented measures and controls reasonably
+L11650@P149: designed to address this evolving environment,
+L11651@P149: including enhanced threat monitoring. In addition, the
+L11652@P149: Firm continues to review and enhance its capabilities
+L11653@P149: to address associated risks, such as those relating to
+L11654@P149: the management of administrative access to systems.
+L11655@P149: Third parties with which the Firm does business, that
+L11656@P149: facilitate the Firm’s business activities (e.g., vendors,
+L11657@P149: supply chain, exchanges, clearing houses, central
+L11658@P149: depositories, and financial intermediaries) or that the
+L11659@P149: Firm has acquired are also sources of cybersecurity
+L11660@P149: risk to the Firm. Third party incidents such as system
+L11661@P149: breakdowns or failures, misconduct by the employees
+L11662@P149: of such parties, or cyber attacks, including
+L11663@P149: ransomware and supply-chain compromises, could
+L11664@P149: have a material adverse effect on the Firm, including in
+L11665@P149: circumstances in which an affected third party is
+L11666@P149: unable to deliver a product or service to the Firm or
+L11667@P149: where the incident delivers compromised software to
+L11668@P149: the Firm or results in lost or compromised information
+L11669@P149: of the Firm or its clients or customers.
+L11670@P149: Clients and customers are also sources of
+L11671@P149: cybersecurity risk to the Firm and its information
+L11672@P149: assets, particularly when their activities and systems
+L11673@P149: are beyond the Firm’s own security and control
+L11674@P149: systems. The Firm engages in periodic discussions
+L11675@P149: with its clients, customers and other external parties
+L11676@P149: concerning cybersecurity risks including opportunities
+L11677@P149: to improve cybersecurity.
+L11678@P149: Risks from cybersecurity threats, including any
+L11679@P149: previous cybersecurity events, have not materially
+L11680@P149: affected the Firm or its business strategy, results of
+L11681@P149: operations or financial condition. Notwithstanding the
+L11682@P149: comprehensive approach that the Firm takes to
+L11683@P149: address cybersecurity risk, the Firm may not be
+L11684@P149: successful in preventing or mitigating a future
+L11685@P149: cybersecurity incident that could have a material
+L11686@P149: adverse effect on the Firm or its business strategy,
+L11687@P149: results of operations or financial condition.
+L11688@P149: Organization and management
+L11689@P149: The Global Chief Information Security Officer (“CISO”)
+L11690@P149: reports to the Global Chief Information Officer, and is a
+L11691@P149: member of key cybersecurity governance forums. The
+L11692@P149: CISO leads the Global Cybersecurity and Technology
+L11693@P149: Controls organization, which is responsible for
+L11694@P149: identifying technology and cybersecurity risks and for
+L11695@P149: implementing and maintaining controls to manage
+L11696@P149: cybersecurity threats. The CISO and the members of
+L11697@P149: senior management within Global Technology and the
+L11698@P149: Cybersecurity and Technology Controls organizations
+L11699@P149: all have relevant expertise and experience in
+L11700@P149: cybersecurity and information technology risk
+L11701@P149: management, including relevant experience at the
+L11702@P149: Firm, at other financial services companies or in other
+L11703@P149: highly-regulated industries.
+L11704@P149: The CISO is responsible for the Firm’s Information
+L11705@P149: Security Program, which is designed to prevent, detect
+L11706@P149: and respond to cyber attacks in order to help
+L11707@P149: safeguard the confidentiality, integrity and availability
+L11708@P149: of the Firm's infrastructure, resources and information.
+L11959@P153: enforcement matters, including internal reviews and
+L11960@P153: investigations related to such matters
+L11961@P153: • advising on products and services, including
+L11962@P153: contract negotiation and documentation
+L11963@P153: • advising on offering and marketing documents and
+L11964@P153: new business initiatives
+L11965@P153: • managing dispute resolution
+L11966@P153: • interpreting existing laws, rules and regulations, and
+L11967@P153: advising on changes to them
+L11968@P153: • advising on advocacy in connection with
+L11969@P153: contemplated and proposed laws, rules and
+L11970@P153: regulations, and
+L11971@P153: • providing legal advice to the LOBs, Corporate and
+L11972@P153: the Board.
+L11973@P153: Legal selects, engages and manages outside counsel
+L11974@P153: for the Firm on all matters in which outside counsel is
+L11975@P153: engaged. In addition, Legal advises the Firm’s Conflicts
+L11976@P153: Office which reviews the Firm’s wholesale transactions
+L11977@P153: that may have the potential to create conflicts of
+L11978@P153: interest for the Firm.
+L11979@P153: Governance and oversight
+L11980@P153: The Firm’s General Counsel reports to the CEO and is a
+L11981@P153: member of the Operating Committee, the Firmwide
+L11982@P153: Risk Committee and the Firmwide Control Committee.
+L11983@P153: The Firm’s General Counsel and other members of
+L11984@P153: Legal report on significant legal matters to the Firm’s
+L11985@P153: Board of Directors and to the Audit Committee.
+L11986@P153: Legal serves on and advises various committees and
+L11987@P153: advises the Firm’s LOBs and Corporate on potential
+L11988@P153: reputation risk issues.
+L11989@P153: Management’s discussion and analysis
+L11990@P153-154: 152 JPMorgan Chase & Co./2025 Form 10-KESTIMATIONS AND MODEL RISK MANAGEMENT
+L11991@P154: Estimations and Model risk, a subcategory of
+L11992@P154: operational risk, is the potential for adverse
+L11993@P154: consequences from decisions based on incorrect or
+L11994@P154: misused estimation outputs.
+L11995@P154: The Firm uses models and other analytical and
+L11996@P154: judgment-based estimations, including those based
+L11997@P154: upon machine learning or artificial intelligence
+L11998@P154: techniques, across various businesses and functions.
+L11999@P154: The estimation methods are of varying levels of
+L12000@P154: sophistication and are used for many purposes, such
+L12001@P154: as the valuation of positions and measurement of risk,
+L12002@P154: assessing regulatory capital requirements, conducting
+L12003@P154: stress testing, evaluating the allowance for credit
+L12004@P154: losses and making business decisions. A dedicated
+L12005@P154: independent function, Model Risk Governance and
+L12006@P154: Review (“MRGR”), defines and governs the Firm’s
+L12007@P154: policies relating to the management of model risk and
+L12008@P154: risks associated with certain analytical and judgmentbased estimations, such as those used in risk
+L12009@P154: management, budget forecasting and capital planning
+L12010@P154: and analysis.
+L12011@P154: Model risks are owned by the users of the models
+L12012@P154: within the LOBs and Corporate based on the specific
+L12013@P154: purposes of such models. Users and developers of
+L12014@P154: models are responsible for developing, implementing
+L12015@P154: and testing their models, as well as referring models to
+L12016@P154: MRGR for review and approval. Once models have
+L12017@P154: been approved, model users and developers are
+L12018@P154: responsible for maintaining a robust operating
+L12019@P154: environment, and must monitor and evaluate the
+L12020@P154: performance of the models on an ongoing basis.
+L12021@P154: Model users and developers may seek to enhance
+L12022@P154: models in response to changes in the relevant
+L12023@P154: portfolios and in product and market developments, as
+L12024@P154: well as to capture improvements in available modeling
+L12025@P154: techniques and systems capabilities.
+L12026@P154: Models are tiered based on an internal standard
+L12027@P154: according to their complexity, the exposure associated
+L12028@P154: with the model and the Firm’s reliance on the model.
+L12029@P154: This tiering is subject to the approval of MRGR. In its
+L12030@P154: review of a model, MRGR considers whether the model
+L12031@P154: is suitable for the specific purposes for which it will be
+L12032@P154: used. When reviewing a model, MRGR analyzes and
+L12033@P154: challenges the model methodology and the
+L12034@P154: reasonableness of model assumptions, and may
+L12035@P154: perform or require additional testing, including backtesting of model outcomes. Model reviews are
+L12036@P154: approved by the appropriate level of management
+L12037@P154: within MRGR based on the relevant model tier.
+L12038@P154: Under the Firm’s Estimations and Model Risk
+L12039@P154: Management Policy, MRGR reviews and approves new
+L12040@P154: models, as well as material changes to existing
+L12041@P154: models, prior to their use. In certain circumstances,
+L12042@P154: exceptions may be granted to the Firm’s policy to
+L12043@P154: allow a model to be used prior to review or approval.
+L12044@P154: MRGR may also require the user to take appropriate
+L12045@P154: actions to mitigate the model risk if it is to be used in
+L12046@P154: the interim. These actions will depend on the model
+L12047@P154: and may include, for example, limitation of trading
+L12048@P154: activity.
+L12049@P154: While models are inherently imprecise, the degree of
+L12050@P154: imprecision or uncertainty can be heightened by the
+L12051@P154: market or economic environment. This is particularly
+L12052@P154: true when the current and forecasted environments
+L12053@P154: are significantly different from the historical
+L12054@P154: environments upon which the models were developed.
+L12055@P154: This increased uncertainty may necessitate a greater
+L12056@P154: degree of judgment and analytics to inform any
+L12057@P154: adjustments that the Firm may make to model outputs
+
