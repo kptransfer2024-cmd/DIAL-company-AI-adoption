@@ -1,0 +1,10 @@
+{
+  "data/sources_downloaded.csv": "f3c6bdbcff6e5a94fa85a5e2967204bc812060a440f1165d32479b973ac7355b",
+  "data/ai_passages.csv": "a3ed8a2c5c3585f0f44d8b60c8c9c27ae07415790f653c3bee16453bae25fa4d",
+  "data/document_metrics.csv": "639a9072749a7b9f2fe30d1f8791bcd28480dd7c4938d4dbbaa70a29d57f3d07",
+  "data/ai_annotations_full.csv": "6c3a2ab1159d5c8473658ae3dd97dd2aedad5e047fd3ff166e33a78bc1500ebd",
+  "data/ai_annotations.csv": "e573c60e307b795e34857a9a6d2a73e5712a728ea43e03baad5cac605de60ab3",
+  "document_metrics.ipynb": "911ff5d4dcbd8b2ea24edbe9a3f17f92756b07783fda103efe9e124879bdd07a",
+  "README.md": "0f8832d0b6744263e4171d3a29bab858b6da0f9a9d8e0c938d19482d14ac64f0",
+  "AI_Annotation_First_Pass_Report.md": "02b4c71d455bca18415f4dc946bbb4c2bca7d7d72bacce24bae89847c6b3c434"
+}

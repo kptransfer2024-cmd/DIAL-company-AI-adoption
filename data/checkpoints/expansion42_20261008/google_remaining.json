@@ -1,0 +1,280 @@
+[
+  {
+    "i": 251,
+    "n": "Current AI-powered threat intelligence product provision.",
+    "st": 4,
+    "scope": "customer_facing_product",
+    "uc": "cloud_cybersecurity",
+    "use": "Google Cloud AI threat detection and response",
+    "sp": 3
+  },
+  {
+    "i": 252,
+    "n": "Current unified ML/AI data analytics platform offering.",
+    "st": 4,
+    "scope": "customer_facing_product",
+    "uc": "cloud_data_analytics",
+    "use": "Google Cloud AI data analytics",
+    "sp": 3
+  },
+  {
+    "i": 253,
+    "n": "Gemini Enterprise currently provides enterprise agent discovery, creation and execution.",
+    "st": 4,
+    "scope": "customer_facing_product",
+    "uc": "gemini_enterprise",
+    "use": "Gemini Enterprise AI agent workflows",
+    "sp": 3,
+    "tech": "genai"
+  },
+  {
+    "i": 254,
+    "n": "Current Workspace AI agents assist writing, organization and meetings; suite-level application.",
+    "st": 4,
+    "scope": "customer_facing_product",
+    "uc": "workspace_ai",
+    "use": "Gemini for Workspace productivity assistance",
+    "sp": 3,
+    "tech": "genai"
+  },
+  {
+    "i": 255,
+    "n": "AI competitor category in competition list; no focal strategy/adoption assertion.",
+    "r": "context_only",
+    "firm": "no",
+    "actor": "competitor"
+  },
+  {
+    "i": 256,
+    "n": "Evolving AI legal regimes and inconsistent compliance obligations.",
+    "risk": "regulatory",
+    "tmp": "current"
+  },
+  {
+    "i": 257,
+    "n": "Advertising AI shift raises competitive adaptation uncertainty; no application rollout asserted.",
+    "risk": "competitive",
+    "tmp": "hypothetical"
+  },
+  {
+    "i": 258,
+    "n": "Ongoing broad AI product and infrastructure innovation investment with uncertain returns; strategic direction, no distinct deployed task.",
+    "st": 1,
+    "strategy": "yes",
+    "o": "innovation",
+    "inv": "yes",
+    "risk": "financial",
+    "sp": 2
+  },
+  {
+    "i": 259,
+    "n": "AI compute capacity lease commitments and nonperformance/excess capacity exposure.",
+    "scope": "infrastructure_or_platform",
+    "inv": "yes",
+    "risk": "capacity|financial|third_party"
+  },
+  {
+    "i": 260,
+    "n": "Cloud AI resource commitments with delivery, compliance and competitive risks; no distinct additional application.",
+    "scope": "infrastructure_or_platform",
+    "inv": "yes",
+    "risk": "competitive|regulatory|financial"
+  },
+  {
+    "i": 261,
+    "n": "AI product ethical/legal and reputational uncertainty.",
+    "risk": "regulatory|reputational",
+    "tmp": "hypothetical"
+  },
+  {
+    "i": 262,
+    "n": "Explicit user-oriented AI investment and innovation strategy; no named intended task.",
+    "st": 1,
+    "strategy": "yes",
+    "inv": "yes",
+    "o": "innovation|competitive_positioning",
+    "sp": 2
+  },
+  {
+    "i": 263,
+    "n": "Current frontier-model development and AI product buildout; investments and supply costs do not establish a pilot.",
+    "scope": "research_and_development",
+    "inv": "yes",
+    "risk": "capacity|financial|competitive"
+  },
+  {
+    "i": 264,
+    "n": "Continuation of competing AI products and proprietary-right constraints; exposure of focal business.",
+    "risk": "competitive|intellectual_property",
+    "tmp": "hypothetical"
+  },
+  {
+    "i": 265,
+    "n": "Protection of focal AI inventions may prove insufficient.",
+    "risk": "intellectual_property",
+    "tmp": "hypothetical"
+  },
+  {
+    "i": 266,
+    "n": "AI power, land and supplier capacity constraints.",
+    "scope": "infrastructure_or_platform",
+    "risk": "capacity|third_party"
+  },
+  {
+    "i": 267,
+    "n": "AI accelerator supplier competition and higher costs.",
+    "scope": "infrastructure_or_platform",
+    "risk": "capacity|financial|competitive"
+  },
+  {
+    "i": 268,
+    "n": "Complete AI development/use liability-risk assertion.",
+    "risk": "reputational|regulatory",
+    "tmp": "hypothetical"
+  },
+  {
+    "i": 269,
+    "n": "AI product harmful content, bias, rights and privacy exposure; implementation is conditional risk language.",
+    "risk": "model_quality|bias|intellectual_property|privacy|cybersecurity|reputational",
+    "tmp": "hypothetical"
+  },
+  {
+    "i": 270,
+    "n": "Actual responsible-AI development/testing resources and prospective harms; testing controls are not a reported application pilot.",
+    "gov": "yes",
+    "inv": "yes",
+    "risk": "privacy|reputational|workforce|safety"
+  },
+  {
+    "i": 271,
+    "n": "Possible problematic content from AI use; internal AI task and continuing operational state unspecified.",
+    "risk": "misuse|model_quality",
+    "tmp": "hypothetical"
+  },
+  {
+    "i": 272,
+    "n": "AI-enabled attacks and security vulnerability of AI features; no concrete focal deployed workflow in this statement.",
+    "risk": "cybersecurity",
+    "tmp": "current"
+  },
+  {
+    "i": 273,
+    "n": "Third-party AI attacks/impersonation expose the focal business.",
+    "risk": "cybersecurity",
+    "tmp": "hypothetical"
+  },
+  {
+    "i": 274,
+    "n": "AI legal developments raise compliance costs.",
+    "risk": "regulatory",
+    "tmp": "current"
+  },
+  {
+    "i": 275,
+    "n": "AI-specific legislation and reporting requirements are exposures; numerical bill counts are not application outcomes.",
+    "risk": "regulatory",
+    "tmp": "current"
+  },
+  {
+    "i": 276,
+    "n": "Privacy rules constrain data used in AI training.",
+    "risk": "privacy|regulatory",
+    "tmp": "current"
+  },
+  {
+    "i": 277,
+    "n": "AI implementation could produce regulatory/legal liability; tasks unspecified.",
+    "risk": "regulatory|intellectual_property",
+    "tmp": "hypothetical"
+  },
+  {
+    "i": 278,
+    "n": "AI energy/water demands complicate environmental objectives; general sustainability programs are not AI governance controls.",
+    "risk": "environmental",
+    "tmp": "current"
+  },
+  {
+    "i": 279,
+    "n": "AI appears among actual legal proceedings; no implementation evidence.",
+    "risk": "regulatory",
+    "tmp": "current"
+  },
+  {
+    "i": 280,
+    "n": "Actual and possible AI training/commercialization litigation.",
+    "risk": "regulatory|intellectual_property",
+    "tmp": "current"
+  },
+  {
+    "i": 281,
+    "n": "AI data-protection obligations create focal regulatory exposure; continuation read with next parent.",
+    "risk": "privacy|regulatory",
+    "tmp": "current"
+  },
+  {
+    "i": 282,
+    "n": "Continuation of AI privacy obligations and inadvertent data disclosure risks.",
+    "risk": "privacy|regulatory",
+    "tmp": "hypothetical"
+  },
+  {
+    "i": 283,
+    "n": "AI innovation creates intellectual-property litigation exposure.",
+    "risk": "intellectual_property",
+    "tmp": "current"
+  },
+  {
+    "i": 284,
+    "n": "Competition for AI-skilled employees creates workforce exposure.",
+    "risk": "workforce",
+    "tmp": "current"
+  },
+  {
+    "i": 285,
+    "n": "Repeated centralized AI R&D organization; no actual application pilot.",
+    "scope": "research_and_development",
+    "inv": "yes"
+  },
+  {
+    "i": 286,
+    "n": "Current Search AI offerings corroborate earlier provision; monetization uncertainty is separate from realized outcomes.",
+    "st": 4,
+    "scope": "customer_facing_product",
+    "uc": "search_ai",
+    "use": "Google Search AI responses and reasoning",
+    "risk": "competitive|financial",
+    "sp": 3
+  },
+  {
+    "i": 287,
+    "n": "AI technical infrastructure investment and future cost increases; no concrete intended operational AI task beyond infrastructure expansion.",
+    "scope": "infrastructure_or_platform",
+    "inv": "yes",
+    "risk": "financial",
+    "f": "yes",
+    "tmp": "planned"
+  },
+  {
+    "i": 288,
+    "n": "Revenue definition lists currently provided AI solutions but does not add application-specific rollout or numerical outcomes.",
+    "scope": "infrastructure_or_platform"
+  },
+  {
+    "i": 289,
+    "n": "Expense-accounting definition of shared AI R&D.",
+    "scope": "research_and_development",
+    "inv": "yes"
+  },
+  {
+    "i": 290,
+    "n": "Repeated AI litigation disclosure; not a new application.",
+    "risk": "regulatory",
+    "tmp": "current"
+  },
+  {
+    "i": 291,
+    "n": "Shared model development costs and employee compensation; not experimental application use.",
+    "scope": "research_and_development",
+    "inv": "yes"
+  }
+]

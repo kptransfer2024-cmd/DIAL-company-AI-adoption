@@ -1,0 +1,132 @@
+[
+  {
+    "i": 354,
+    "n": "Current ML models estimate unique people and match accounts for DAP; repeated metric computation is one internal application. Error margins describe measurement uncertainty, not realized AI benefit.",
+    "st": 4,
+    "scope": "internal_operations",
+    "uc": "dap_account_matching",
+    "use": "ML account matching and unique-user metric estimation",
+    "sp": 4,
+    "tech": "traditional_ml",
+    "risk": "model_quality"
+  },
+  {
+    "i": 351,
+    "n": "Current AI advertising delivery/targeting/measurement investment, consistent with previously described operational advertising tools.",
+    "st": 4,
+    "scope": "customer_facing_product",
+    "uc": "advertising_optimization",
+    "use": "AI advertising delivery targeting and measurement",
+    "sp": 3,
+    "inv": "yes",
+    "conf": "medium",
+    "review": "yes"
+  },
+  {
+    "i": 352,
+    "n": "Current AI discovery engine has improved engagement/monetization qualitatively; no numerical attribution for Stage 5.",
+    "st": 4,
+    "scope": "customer_facing_product",
+    "uc": "content_recommendation",
+    "use": "AI content ranking and discovery recommendation",
+    "sp": 3
+  },
+  {
+    "i": 353,
+    "n": "AI investment for content/advertising development with expected infrastructure increase; no new application.",
+    "inv": "yes",
+    "scope": "infrastructure_or_platform",
+    "f": "yes"
+  },
+  {
+    "i": 355,
+    "n": "Current AI-glasses delivery/sales corroborate Meta AI product provision. Reality Labs revenue changes include offsetting Quest sales and do not quantify the AI application effect.",
+    "st": 4,
+    "scope": "customer_facing_product",
+    "uc": "meta_ai_assistant",
+    "use": "Meta AI conversational and content assistant across surfaces",
+    "sp": 3,
+    "attr": "NA"
+  },
+  {
+    "i": 356,
+    "n": "Current AI-glasses delivery/sales corroborate Meta AI product provision. Reality Labs revenue changes include offsetting Quest sales and do not quantify the AI application effect.",
+    "st": 4,
+    "scope": "customer_facing_product",
+    "uc": "meta_ai_assistant",
+    "use": "Meta AI conversational and content assistant across surfaces",
+    "sp": 3,
+    "attr": "shared_drivers"
+  },
+  {
+    "i": 360,
+    "n": "Current AI-glasses delivery/sales corroborate Meta AI product provision. Reality Labs revenue changes include offsetting Quest sales and do not quantify the AI application effect.",
+    "st": 4,
+    "scope": "customer_facing_product",
+    "uc": "meta_ai_assistant",
+    "use": "Meta AI conversational and content assistant across surfaces",
+    "sp": 3,
+    "attr": "NA"
+  },
+  {
+    "i": 357,
+    "n": "R&D expense increase includes AI initiatives; expenditure is not a realized operational benefit.",
+    "inv": "yes",
+    "scope": "research_and_development",
+    "attr": "shared_drivers"
+  },
+  {
+    "i": 358,
+    "n": "Forecast AI/core-business capital expenditure range; no realized outcome or concrete application plan.",
+    "inv": "yes",
+    "scope": "infrastructure_or_platform",
+    "tmp": "planned",
+    "f": "yes",
+    "sp": 4
+  },
+  {
+    "i": 359,
+    "n": "Financing capacity and intended AI investment; no distinct implementation claim.",
+    "inv": "yes",
+    "f": "yes",
+    "scope": "infrastructure_or_platform"
+  },
+  {
+    "i": 361,
+    "n": "Asset definition: servers support AI efforts; not identifiable application adoption.",
+    "scope": "infrastructure_or_platform",
+    "inv": "yes"
+  },
+  {
+    "i": 362,
+    "n": "Minority Scale AI investment; dollar purchase value does not establish AI implementation or benefit.",
+    "scope": "partnership_or_investment",
+    "inv": "yes"
+  },
+  {
+    "i": 363,
+    "n": "Data-center co-development arrangement for future AI capacity; partnership investment, no operational AI task.",
+    "scope": "partnership_or_investment",
+    "inv": "yes",
+    "partner": "yes",
+    "tmp": "planned",
+    "f": "yes"
+  },
+  {
+    "i": 364,
+    "n": "Acquisition goodwill attributed partly to AI efforts; expected synergies are not realized application outcomes.",
+    "scope": "partnership_or_investment",
+    "inv": "yes",
+    "attr": "shared_drivers"
+  },
+  {
+    "i": 365,
+    "n": "Repeated AI/chatbot-related litigation, read with continuation.",
+    "risk": "regulatory|safety"
+  },
+  {
+    "i": 366,
+    "n": "Repeated AI training data litigation and fair-use ruling, not application outcomes.",
+    "risk": "intellectual_property|regulatory"
+  }
+]

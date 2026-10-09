@@ -1,0 +1,451 @@
+{
+  "start": 701,
+  "end": 751,
+  "new_judgments": [
+    {
+      "i": 701,
+      "n": "AI-enabled tools among IT dependencies; no independently identified current task.",
+      "risk": "operational|cybersecurity",
+      "scope": "internal_operations"
+    },
+    {
+      "i": 702,
+      "n": "AI-enabled tools expressly integrated into internal/R&D/commercial operations; pooled IT processes do not resolve individual AI applications.",
+      "st": 4,
+      "scope": "internal_operations|research_and_development",
+      "use": "AI-enabled tools integrated across business; workflow boundaries unresolved",
+      "sp": 2,
+      "risk": "cybersecurity",
+      "conf": "medium",
+      "review": "yes"
+    },
+    {
+      "i": 703,
+      "n": "AI-enabled attackers and autonomous attack campaigns create focal cyber exposure.",
+      "risk": "cybersecurity"
+    },
+    {
+      "i": 704,
+      "n": "AI adoption, output errors and regulation risks with explicit established staff guardrails/training; current AI use unspecified, governance retained without additional deployment count.",
+      "gov": "yes",
+      "risk": "model_quality|cybersecurity|privacy|regulatory",
+      "sp": 3
+    },
+    {
+      "i": 705,
+      "n": "Explicit current AI application in human-data efforts and generative biology to discover/design drugs; one R&D drug-design task suite. Candidate drug uncertainty is not an AI pilot report.",
+      "st": 4,
+      "scope": "research_and_development",
+      "uc": "drug_discovery_design",
+      "use": "AI human-data and generative-biology drug discovery/design",
+      "sp": 3,
+      "risk": "operational",
+      "inv": "yes",
+      "conf": "medium",
+      "review": "yes"
+    },
+    {
+      "i": 706,
+      "n": "Actual AI Governance Council establishes guardrails and staff training for safe third-party adoption; tools mentioned without task-level deployment evidence.",
+      "gov": "yes",
+      "sp": 3
+    },
+    {
+      "i": 732,
+      "n": "Explicit current own AI/ML use, expected to grow; operational task boundaries and scope unspecified. Risk location does not negate affirmative current use.",
+      "q": "In addition, our use",
+      "end": "protection measures.",
+      "st": 4,
+      "sp": 2,
+      "risk": "operational|privacy|regulatory|reputational",
+      "conf": "medium",
+      "review": "yes",
+      "use": "AI/ML use across business; tasks unspecified"
+    },
+    {
+      "i": 733,
+      "n": "Threat actors use AI to circumvent cybersecurity; no focal AI deployment.",
+      "actor": "third_party",
+      "firm": "no",
+      "risk": "cybersecurity"
+    },
+    {
+      "i": 734,
+      "n": "AI among regulatory areas of significance; no installed AI-specific governance controls.",
+      "risk": "regulatory"
+    },
+    {
+      "i": 735,
+      "n": "Explicit focal investment in AI for business integration; strategic resource commitment, without concrete task, actual pilot or current routine use.",
+      "q": "For example we are investing",
+      "end": "responsible manner.",
+      "st": 1,
+      "strategy": "yes",
+      "o": "innovation",
+      "inv": "yes",
+      "sp": 2,
+      "risk": "operational|regulatory"
+    },
+    {
+      "i": 735,
+      "n": "AI methods and systems may fail compliance, leak IP or create security exposure; generic life-cycle wording does not establish actual deployment.",
+      "q": "The methods and processes",
+      "end": "reputational risks.",
+      "risk": "regulatory|intellectual_property|cybersecurity|reputational"
+    },
+    {
+      "i": 736,
+      "n": "AI-enabled threat actors increase cybersecurity risk.",
+      "actor": "third_party",
+      "firm": "no",
+      "risk": "cybersecurity"
+    },
+    {
+      "i": 737,
+      "n": "AI use among litigation and compliance topics, with no particular task/status.",
+      "risk": "regulatory|legal"
+    },
+    {
+      "i": 738,
+      "n": "Evolving AI laws introduce compliance costs and penalties.",
+      "risk": "regulatory"
+    },
+    {
+      "i": 739,
+      "n": "Continued investment integrating AI into operations is strategic commitment; no identifiable task or actual routine-use milestone.",
+      "q": "For example, we continue",
+      "end": "business operations.",
+      "st": 1,
+      "strategy": "yes",
+      "inv": "yes",
+      "o": "efficiency",
+      "scope": "internal_operations",
+      "sp": 2
+    },
+    {
+      "i": 740,
+      "n": "AI development/use risk heading; no affirmative application evidence.",
+      "risk": "operational|regulatory|reputational"
+    },
+    {
+      "i": 741,
+      "n": "AI opportunities and conditional introduction/implementation risks; neither opportunity nor hypothetical failure identifies committed task or current deployed use.",
+      "risk": "competitive|model_quality|bias|privacy|cybersecurity|intellectual_property|regulatory"
+    },
+    {
+      "i": 742,
+      "n": "Conditional response to AI industry trends is competitive risk, not focal intended application.",
+      "risk": "competitive",
+      "tmp": "hypothetical"
+    },
+    {
+      "i": 743,
+      "n": "Safe-harbor list includes AI development/use risks; no independent strategy or application claim.",
+      "risk": "operational|regulatory|reputational",
+      "tmp": "hypothetical"
+    },
+    {
+      "i": 744,
+      "n": "AI/ML disruptive industry changes may affect demand; no focal AI strategy or use.",
+      "r": "context_only",
+      "firm": "no",
+      "actor": "industry",
+      "tmp": "hypothetical"
+    },
+    {
+      "i": 745,
+      "n": "Data subject to AI/privacy/security laws; compliance exposure, not own AI application.",
+      "risk": "regulatory|privacy|cybersecurity"
+    },
+    {
+      "i": 746,
+      "n": "AI use risk heading, detailed current-use evidence in next parent; heading alone insufficient to identify deployment.",
+      "risk": "operational|reputational"
+    },
+    {
+      "i": 747,
+      "n": "Explicit current AI support across R&D, operations and customer tools; no distinct workflow boundaries; current use retained without inventing separate applications.",
+      "q": "Artificial intelligence (AI)",
+      "end": "other business functions.",
+      "st": 4,
+      "scope": "internal_operations|customer_facing_product|research_and_development",
+      "sp": 2,
+      "use": "AI supporting business functions; task identities unresolved",
+      "conf": "medium",
+      "review": "yes"
+    },
+    {
+      "i": 747,
+      "n": "AI output, third-party, data and regulatory risks remain independent of current deployment; governance requirements alone not implemented controls.",
+      "q": "The use of AI introduces",
+      "end": "financial condition.",
+      "risk": "operational|model_quality|bias|privacy|third_party|regulatory"
+    },
+    {
+      "i": 747,
+      "n": "Explicit future objective to develop/use AI responsibly and mitigate ethical/privacy/legal issues; general strategy, not a concrete intended task or installed governance control.",
+      "q": "While the Company will seek",
+      "end": "damage.",
+      "st": 1,
+      "tmp": "planned",
+      "f": "yes",
+      "strategy": "yes",
+      "o": "risk_management",
+      "sp": 2,
+      "risk": "privacy|regulatory|reputational"
+    }
+  ],
+  "changes": {},
+  "contextual_reviews": [
+    {
+      "index": 701,
+      "passage_id": "AMGN_10K_2026-02-13:L1220:74b8e1786a96bffb",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 702,
+      "passage_id": "AMGN_10K_2026-02-13:L1222:b7156b291e07c90a",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 703,
+      "passage_id": "AMGN_10K_2026-02-13:L1224:14644b7e68ac2a72",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 704,
+      "passage_id": "AMGN_10K_2026-02-13:L1244:8c19f017de7219a9",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 705,
+      "passage_id": "AMGN_10K_2026-02-13:L1330:24165102f78fbc3c",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 706,
+      "passage_id": "AMGN_10K_2026-02-13:L1538:3daae44616a966b3",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 707,
+      "passage_id": "CAT_10K_2026-02-13:L819:d226ee645e688678",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 708,
+      "passage_id": "DE_10K_2025-12-18:L161:5be41308d22079d9",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 709,
+      "passage_id": "DE_10K_2025-12-18:L186:9ef383e5069e6142",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 710,
+      "passage_id": "DE_10K_2025-12-18:L245:7415649567e0410b",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 711,
+      "passage_id": "DE_10K_2025-12-18:L290:3adab8f61c88c6dd",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 712,
+      "passage_id": "DE_10K_2025-12-18:L703:51cb15143625c1a1",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 713,
+      "passage_id": "DE_10K_2025-12-18:L711:3df0506ec3c10149",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 714,
+      "passage_id": "DE_10K_2025-12-18:L776:1eb3218673f7d06f",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 715,
+      "passage_id": "DE_10K_2025-12-18:L793:847ebb5941e8da06",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 716,
+      "passage_id": "DE_10K_2025-12-18:L795:f78f44d27b32e490",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 717,
+      "passage_id": "DE_10K_2025-12-18:L797:8b091b169e3a891f",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 718,
+      "passage_id": "DE_10K_2025-12-18:L799:ba377a588870bae3",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 719,
+      "passage_id": "DE_10K_2025-12-18:L812:59bc1ade124c664c",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 720,
+      "passage_id": "DE_10K_2025-12-18:L1168:924b9ccef1f29d6f",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 721,
+      "passage_id": "DE_10K_2025-12-18:L1739:739d1bbc3af37a04",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 722,
+      "passage_id": "DE_10K_2025-12-18:L2491:953438d0e0f792d4",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 723,
+      "passage_id": "HON_10K_2026-02-17:L1037:2eb62360fe2323b0",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 724,
+      "passage_id": "HON_10K_2026-02-17:L1063:7d598d70f77be796",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 725,
+      "passage_id": "HON_10K_2026-02-17:L1071:fc3635494c464c58",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 726,
+      "passage_id": "HON_10K_2026-02-17:L1079:b104d7664a3074b3",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 727,
+      "passage_id": "HON_10K_2026-02-17:L1083:6ecad17952030817",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 728,
+      "passage_id": "HON_10K_2026-02-17:L1137:d932c6d39daa4553",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 729,
+      "passage_id": "HON_10K_2026-02-17:L1460:7b97ee98aad15b2c",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 730,
+      "passage_id": "HON_10K_2026-02-17:L2413:7bba0d32cae58431",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 731,
+      "passage_id": "HON_10K_2026-02-17:L4006:a4222be226935e90",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 732,
+      "passage_id": "GE_10K_2026-01-29:L781:b8864ff4f555a8d7",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 733,
+      "passage_id": "GE_10K_2026-01-29:L815:171a7021d27c15e5",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 734,
+      "passage_id": "GE_10K_2026-01-29:L839:fc1026ad1f76b3e8",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 735,
+      "passage_id": "RTX_10K_2026-02-06:L373:7b8f9c35b6100c42",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 736,
+      "passage_id": "RTX_10K_2026-02-06:L387:54e558093442d78d",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 737,
+      "passage_id": "RTX_10K_2026-02-06:L430:497f9079f3983a00",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 738,
+      "passage_id": "RTX_10K_2026-02-06:L439:1f0f56c7238e30f8",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 739,
+      "passage_id": "RTX_10K_2026-02-06:L474:78c0139dd0732f37",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 740,
+      "passage_id": "ETN_10K_2026-02-26:L336:7e9fdbac85943523",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 741,
+      "passage_id": "ETN_10K_2026-02-26:L338:417daf13b02b0eea",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 742,
+      "passage_id": "ETN_10K_2026-02-26:L378:96a87a69e4d335c6",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 743,
+      "passage_id": "ETN_10K_2026-02-26:L3141:0d8afa7e069bb1dd",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 744,
+      "passage_id": "MMM_10K_2026-02-03:L381:7eb78df54b03b9e7",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 745,
+      "passage_id": "MMM_10K_2026-02-03:L396:10d1d0f90eb62e93",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 746,
+      "passage_id": "MMM_10K_2026-02-03:L399:b2ac811715360dcf",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 747,
+      "passage_id": "MMM_10K_2026-02-03:L401:12258ca71e51fa62",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 748,
+      "passage_id": "XOM_10K_2026-02-18:L168:ef7270d425417996",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 749,
+      "passage_id": "XOM_10K_2026-02-18:L242:5fabef96d47d247e",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 750,
+      "passage_id": "XOM_10K_2026-02-18:L254:64e4b6c83aa9e42c",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    }
+  ]
+}

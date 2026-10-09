@@ -1,0 +1,596 @@
+{
+  "start": 301,
+  "end": 351,
+  "new_judgments": [
+    {
+      "i": 330,
+      "n": "Current ML models estimate unique people and match accounts for DAP; repeated metric computation is one internal application. Error margins describe measurement uncertainty, not realized AI benefit.",
+      "st": 4,
+      "scope": "internal_operations",
+      "uc": "dap_account_matching",
+      "use": "ML account matching and unique-user metric estimation",
+      "sp": 4,
+      "tech": "traditional_ml",
+      "risk": "model_quality"
+    },
+    {
+      "i": 331,
+      "n": "Possible future metric-method improvements and account detection; no explicit intended implementation or new pilot.",
+      "scope": "internal_operations",
+      "risk": "model_quality",
+      "tmp": "hypothetical"
+    },
+    {
+      "i": 301,
+      "n": "2026 corporate AI investment priority; no concrete AI task specified.",
+      "st": 1,
+      "tmp": "planned",
+      "f": "yes",
+      "strategy": "yes",
+      "inv": "yes",
+      "o": "innovation",
+      "sp": 2
+    },
+    {
+      "i": 302,
+      "n": "AI model and hardware competition creates focal competitive exposure.",
+      "risk": "competitive"
+    },
+    {
+      "i": 303,
+      "n": "Frontier model development drives infrastructure expansion and power/component dependence, not a deployed internal AI task.",
+      "scope": "infrastructure_or_platform",
+      "inv": "yes",
+      "risk": "capacity"
+    },
+    {
+      "i": 304,
+      "n": "Current AI discovery engine powers content recommendations; same current discovery application.",
+      "st": 4,
+      "scope": "customer_facing_product",
+      "uc": "content_recommendation",
+      "use": "AI content ranking and discovery recommendation",
+      "sp": 3,
+      "inv": "yes"
+    },
+    {
+      "i": 304,
+      "n": "AI advertising-tool investment supports concrete delivery, targeting and measurement improvements; established current tool use in parent 297.",
+      "st": 4,
+      "scope": "customer_facing_product",
+      "uc": "advertising_optimization",
+      "use": "AI advertising delivery targeting and measurement",
+      "sp": 3,
+      "inv": "yes",
+      "conf": "medium",
+      "review": "yes"
+    },
+    {
+      "i": 305,
+      "n": "Explicit open-source AI innovation and product improvement strategy; licensing/model release alone lacks a distinct reported deployed application.",
+      "st": 1,
+      "strategy": "yes",
+      "o": "innovation",
+      "sp": 2
+    },
+    {
+      "i": 306,
+      "n": "Current AI-glasses consumer sales corroborate existing assistant-enabled offering; not new application.",
+      "st": 4,
+      "scope": "customer_facing_product",
+      "uc": "meta_ai_assistant",
+      "use": "Meta AI conversational and content assistant across surfaces",
+      "sp": 2
+    },
+    {
+      "i": 307,
+      "n": "AI/ML legal requirements and cross-jurisdiction uncertainty.",
+      "risk": "regulatory"
+    },
+    {
+      "i": 308,
+      "n": "Aim to make AI core to operations through employee access/training; access alone does not prove actual operational application use.",
+      "st": 1,
+      "strategy": "yes",
+      "scope": "internal_operations",
+      "o": "workforce_productivity",
+      "sp": 2
+    },
+    {
+      "i": 309,
+      "n": "AI Act among focal regulatory risk factors.",
+      "risk": "regulatory",
+      "tmp": "hypothetical"
+    },
+    {
+      "i": 310,
+      "n": "AI engagement initiatives may fail; no new application evidence.",
+      "risk": "competitive",
+      "tmp": "hypothetical"
+    },
+    {
+      "i": 311,
+      "n": "Advertiser AI legal uncertainty could reduce focal advertising demand.",
+      "risk": "regulatory|financial",
+      "tmp": "hypothetical"
+    },
+    {
+      "i": 312,
+      "n": "Continuing launches of AI content features; current product provision with suite task granularity, not individual sticker/photo counts.",
+      "st": 4,
+      "scope": "customer_facing_product",
+      "uc": "content_creation",
+      "use": "AI social content generation and editing",
+      "sp": 3,
+      "risk": "financial",
+      "inv": "yes",
+      "tech": "genai"
+    },
+    {
+      "i": 313,
+      "n": "Complete assertion of AI initiative failure risk.",
+      "risk": "financial|reputational",
+      "tmp": "hypothetical"
+    },
+    {
+      "i": 314,
+      "n": "Actual and intended AI investment with uncertain returns; no new deployed application beyond earlier identified products.",
+      "inv": "yes",
+      "risk": "financial",
+      "f": "yes"
+    },
+    {
+      "i": 315,
+      "n": "AI harms, bias, privacy, rights, safety and scrutiny; no numerical outcome or qualifying application deployment.",
+      "risk": "model_quality|bias|privacy|intellectual_property|safety|regulatory|reputational",
+      "tmp": "hypothetical"
+    },
+    {
+      "i": 316,
+      "n": "Evolving AI regulation and potential product adjustments.",
+      "risk": "regulatory",
+      "tmp": "hypothetical"
+    },
+    {
+      "i": 317,
+      "n": "AI competition, patents, data availability, personnel and infrastructure constraints.",
+      "risk": "competitive|intellectual_property|capacity|workforce|third_party"
+    },
+    {
+      "i": 318,
+      "n": "Licensed AI resources and third-party misuse; contractual/technical mitigation is discussed conditionally, not an asserted current AI governance program.",
+      "risk": "misuse|intellectual_property|privacy|cybersecurity|reputational",
+      "scope": "customer_facing_product"
+    },
+    {
+      "i": 319,
+      "n": "AI law/data-use restrictions; incomplete clause read with following parent.",
+      "risk": "regulatory|privacy",
+      "tmp": "hypothetical"
+    },
+    {
+      "i": 320,
+      "n": "Continuation: AI market acceptance and evolving product-roadmap uncertainty.",
+      "risk": "competitive|financial|regulatory",
+      "tmp": "hypothetical"
+    },
+    {
+      "i": 321,
+      "n": "Explicit intended AI/wearable next-generation interfaces; actual AR innovation is not automatically an AI pilot.",
+      "st": 2,
+      "tmp": "planned",
+      "f": "yes",
+      "scope": "customer_facing_product",
+      "uc": "nextgen_interfaces",
+      "use": "Future Reality Labs AI interfaces",
+      "sp": 3,
+      "risk": "financial|regulatory",
+      "inv": "yes",
+      "conf": "medium",
+      "review": "yes"
+    },
+    {
+      "i": 322,
+      "n": "Generative-AI and superintelligence scrutiny may harm brands.",
+      "risk": "reputational|regulatory"
+    },
+    {
+      "i": 323,
+      "n": "Repeated competition in AI models and products.",
+      "risk": "competitive"
+    },
+    {
+      "i": 324,
+      "n": "AI infrastructure and operating costs are prospective stock/business risk factors.",
+      "inv": "yes",
+      "risk": "financial",
+      "tmp": "planned",
+      "f": "yes"
+    },
+    {
+      "i": 325,
+      "n": "AI-related changes in regulation and enforcement.",
+      "risk": "regulatory",
+      "tmp": "hypothetical"
+    },
+    {
+      "i": 326,
+      "n": "AI investment reduces margins; no numerical application-attributable realized result.",
+      "inv": "yes",
+      "risk": "financial"
+    },
+    {
+      "i": 327,
+      "n": "Expected expense growth for AI/ML investment; broad resources do not establish planned application.",
+      "inv": "yes",
+      "risk": "financial",
+      "tmp": "planned",
+      "f": "yes"
+    },
+    {
+      "i": 328,
+      "n": "Infrastructure/headcount and AI-model investment; neither staffing nor training establishes a reported application pilot.",
+      "inv": "yes",
+      "scope": "research_and_development"
+    },
+    {
+      "i": 329,
+      "n": "AI increases internal operational infrastructure demand; particular operational AI task unspecified.",
+      "risk": "capacity",
+      "scope": "infrastructure_or_platform"
+    },
+    {
+      "i": 332,
+      "n": "AI copyrighted training data litigation.",
+      "risk": "intellectual_property|regulatory"
+    },
+    {
+      "i": 333,
+      "n": "Recruitment and retention exposure for AI research talent.",
+      "risk": "workforce"
+    },
+    {
+      "i": 334,
+      "n": "AI legal uncertainty may force product changes and penalties.",
+      "risk": "regulatory"
+    },
+    {
+      "i": 335,
+      "n": "AI/ML regulations cover the focal business.",
+      "risk": "regulatory"
+    },
+    {
+      "i": 336,
+      "n": "Actual and prospective AI/GenAI/ML compliance investigations.",
+      "risk": "regulatory"
+    },
+    {
+      "i": 337,
+      "n": "AI Act among compliance obligations; general privacy program does not independently establish AI-specific governance.",
+      "risk": "regulatory"
+    },
+    {
+      "i": 338,
+      "n": "AI-generated content platform liability risk.",
+      "risk": "regulatory|intellectual_property"
+    },
+    {
+      "i": 339,
+      "n": "Internal and third-party AI-tool security vulnerabilities including prompt injection; no identifiable current routine task here.",
+      "risk": "cybersecurity|intellectual_property"
+    },
+    {
+      "i": 340,
+      "n": "AI/cloud dependencies among cyber exposure relationships.",
+      "risk": "cybersecurity|third_party"
+    },
+    {
+      "i": 341,
+      "n": "AI technologies may increase security/policy incident risks.",
+      "risk": "cybersecurity|misuse",
+      "tmp": "hypothetical"
+    },
+    {
+      "i": 342,
+      "n": "AI coding/system use could introduce errors; the risk assertion does not independently specify routine focal-firm implementation status.",
+      "risk": "cybersecurity|model_quality",
+      "scope": "internal_operations",
+      "conf": "medium",
+      "review": "yes"
+    },
+    {
+      "i": 343,
+      "n": "AI trained on open-source data may create output licensing restrictions.",
+      "risk": "intellectual_property"
+    },
+    {
+      "i": 344,
+      "n": "AI training/output rights litigation industry context creates focal exposure.",
+      "risk": "intellectual_property"
+    },
+    {
+      "i": 345,
+      "n": "Current AI copyright litigation and potential statutory damages.",
+      "risk": "intellectual_property|regulatory"
+    },
+    {
+      "i": 346,
+      "n": "Information-security controls expressly address an environment evolving with AI deployment; compact governance evidence, no application-level deployment claim.",
+      "gov": "yes",
+      "risk": "cybersecurity"
+    },
+    {
+      "i": 347,
+      "n": "AI Act compliance inquiries/litigation.",
+      "risk": "regulatory"
+    },
+    {
+      "i": 348,
+      "n": "Actual AI/chatbot and youth-related lawsuits.",
+      "risk": "regulatory|safety"
+    },
+    {
+      "i": 349,
+      "n": "AI training data acquisition litigation; claims are not actual adoption verification.",
+      "risk": "intellectual_property|regulatory"
+    },
+    {
+      "i": 350,
+      "n": "AI model training fair-use litigation outcome is a legal result, not a realized numerical application outcome.",
+      "risk": "intellectual_property|regulatory"
+    }
+  ],
+  "changes": {},
+  "contextual_reviews": [
+    {
+      "index": 301,
+      "passage_id": "META_10K_2026-01-29:L204:ae2b6b21170d3682",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 302,
+      "passage_id": "META_10K_2026-01-29:L213:fdd9fe302b9c3a2d",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 303,
+      "passage_id": "META_10K_2026-01-29:L217:2c18d0d26f8dcd4b",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 304,
+      "passage_id": "META_10K_2026-01-29:L219:fa37ed33ac47be7f",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 305,
+      "passage_id": "META_10K_2026-01-29:L221:73fbb6165d3202a0",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 306,
+      "passage_id": "META_10K_2026-01-29:L227:9766616528bc92b5",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 307,
+      "passage_id": "META_10K_2026-01-29:L240:46c96cc46be4d060",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 308,
+      "passage_id": "META_10K_2026-01-29:L253:bfe2a4acb9436818",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 309,
+      "passage_id": "META_10K_2026-01-29:L329:d11ab35bd3d9be52",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 310,
+      "passage_id": "META_10K_2026-01-29:L391:584434a305b28aa0",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 311,
+      "passage_id": "META_10K_2026-01-29:L443:1918d066d68af2f4",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 312,
+      "passage_id": "META_10K_2026-01-29:L477:59ccabefb99bd5d1",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 313,
+      "passage_id": "META_10K_2026-01-29:L484:b206209dd3d8909a",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 314,
+      "passage_id": "META_10K_2026-01-29:L486:c0c7f73fa897c22c",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 315,
+      "passage_id": "META_10K_2026-01-29:L488:2363c8684df3b1b9",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 316,
+      "passage_id": "META_10K_2026-01-29:L490:ed322a4d8e2f45fe",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 317,
+      "passage_id": "META_10K_2026-01-29:L492:9c37b56137edf6ee",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 318,
+      "passage_id": "META_10K_2026-01-29:L494:0af872cf4684024c",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 319,
+      "passage_id": "META_10K_2026-01-29:L496:0a8f96ef77697ea4",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 320,
+      "passage_id": "META_10K_2026-01-29:L499:48ad5c92e7856f4e",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 321,
+      "passage_id": "META_10K_2026-01-29:L507:9c232efb1eafd2d6",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 322,
+      "passage_id": "META_10K_2026-01-29:L514:63a34c59f6544a24",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 323,
+      "passage_id": "META_10K_2026-01-29:L531:c131e1e29a370b47",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 324,
+      "passage_id": "META_10K_2026-01-29:L609:c245177f21ee2dfc",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 325,
+      "passage_id": "META_10K_2026-01-29:L638:0b1c972e877c1c95",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 326,
+      "passage_id": "META_10K_2026-01-29:L667:21ae1419714179ff",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 327,
+      "passage_id": "META_10K_2026-01-29:L669:417b5f0d3ddd17b2",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 328,
+      "passage_id": "META_10K_2026-01-29:L671:331b937b4d0d013c",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 329,
+      "passage_id": "META_10K_2026-01-29:L680:d05c6c9ccae02e2e",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 330,
+      "passage_id": "META_10K_2026-01-29:L703:e814cb6d46204518",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 331,
+      "passage_id": "META_10K_2026-01-29:L706:37b819980d0e4ee5",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 332,
+      "passage_id": "META_10K_2026-01-29:L777:97c57427cc1427a2",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 333,
+      "passage_id": "META_10K_2026-01-29:L826:5a8538500bfd54a2",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 334,
+      "passage_id": "META_10K_2026-01-29:L854:add11774e35a1996",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 335,
+      "passage_id": "META_10K_2026-01-29:L856:e4841c165a4db26f",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 336,
+      "passage_id": "META_10K_2026-01-29:L878:077e83e7ba00fa9f",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 337,
+      "passage_id": "META_10K_2026-01-29:L892:d6835da72dd67df7",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 338,
+      "passage_id": "META_10K_2026-01-29:L905:bb9b355334af3549",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 339,
+      "passage_id": "META_10K_2026-01-29:L924:479fe94f29883bdc",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 340,
+      "passage_id": "META_10K_2026-01-29:L927:42d687f2a01b8c14",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 341,
+      "passage_id": "META_10K_2026-01-29:L937:296896ad966638ff",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 342,
+      "passage_id": "META_10K_2026-01-29:L946:45bc9c2e07561450",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 343,
+      "passage_id": "META_10K_2026-01-29:L950:7debe33bfea06929",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 344,
+      "passage_id": "META_10K_2026-01-29:L954:fb7b1d274778a631",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 345,
+      "passage_id": "META_10K_2026-01-29:L959:9591fb98283ff1f1",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 346,
+      "passage_id": "META_10K_2026-01-29:L1044:b4af72f69ed333a1",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 347,
+      "passage_id": "META_10K_2026-01-29:L1074:ac5029569119baa9",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 348,
+      "passage_id": "META_10K_2026-01-29:L1125:62a4046c9b13bb8a",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 349,
+      "passage_id": "META_10K_2026-01-29:L1133:8eafb0e2e81b9bc1",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 350,
+      "passage_id": "META_10K_2026-01-29:L1136:b25d760a9c251eaa",
+      "decision": "fresh contextual judgments"
+    }
+  ]
+}

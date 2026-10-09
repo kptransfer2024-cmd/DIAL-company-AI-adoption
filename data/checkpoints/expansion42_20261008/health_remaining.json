@@ -1,0 +1,50 @@
+[
+  {
+    "i": 701,
+    "n": "AI-enabled tools among IT dependencies; no independently identified current task.",
+    "risk": "operational|cybersecurity",
+    "scope": "internal_operations"
+  },
+  {
+    "i": 702,
+    "n": "AI-enabled tools expressly integrated into internal/R&D/commercial operations; pooled IT processes do not resolve individual AI applications.",
+    "st": 4,
+    "scope": "internal_operations|research_and_development",
+    "use": "AI-enabled tools integrated across business; workflow boundaries unresolved",
+    "sp": 2,
+    "risk": "cybersecurity",
+    "conf": "medium",
+    "review": "yes"
+  },
+  {
+    "i": 703,
+    "n": "AI-enabled attackers and autonomous attack campaigns create focal cyber exposure.",
+    "risk": "cybersecurity"
+  },
+  {
+    "i": 704,
+    "n": "AI adoption, output errors and regulation risks with explicit established staff guardrails/training; current AI use unspecified, governance retained without additional deployment count.",
+    "gov": "yes",
+    "risk": "model_quality|cybersecurity|privacy|regulatory",
+    "sp": 3
+  },
+  {
+    "i": 705,
+    "n": "Explicit current AI application in human-data efforts and generative biology to discover/design drugs; one R&D drug-design task suite. Candidate drug uncertainty is not an AI pilot report.",
+    "st": 4,
+    "scope": "research_and_development",
+    "uc": "drug_discovery_design",
+    "use": "AI human-data and generative-biology drug discovery/design",
+    "sp": 3,
+    "risk": "operational",
+    "inv": "yes",
+    "conf": "medium",
+    "review": "yes"
+  },
+  {
+    "i": 706,
+    "n": "Actual AI Governance Council establishes guardrails and staff training for safe third-party adoption; tools mentioned without task-level deployment evidence.",
+    "gov": "yes",
+    "sp": 3
+  }
+]

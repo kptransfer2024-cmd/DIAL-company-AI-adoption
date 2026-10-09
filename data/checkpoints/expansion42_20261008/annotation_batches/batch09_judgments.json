@@ -1,0 +1,693 @@
+{
+  "start": 401,
+  "end": 451,
+  "new_judgments": [
+    {
+      "i": 407,
+      "n": "Current Oracle cloud applications incorporate AI automation and analytics; product provision with task/product boundaries unresolved.",
+      "st": 4,
+      "scope": "customer_facing_product",
+      "use": "Oracle cloud AI automation and analytics suite; application boundaries unresolved",
+      "sp": 3
+    },
+    {
+      "i": 401,
+      "n": "AI systems/malicious-party cyber risk and potentially inadequate controls; no concrete current defense application.",
+      "risk": "cybersecurity|misuse",
+      "tmp": "hypothetical"
+    },
+    {
+      "i": 402,
+      "n": "AI privacy compliance requirements; general compliance programs do not independently identify AI-specific controls.",
+      "risk": "regulatory|privacy"
+    },
+    {
+      "i": 403,
+      "n": "Industry AI/LLM prevalence bullet needs surrounding risk context; no focal implementation.",
+      "r": "context_only",
+      "firm": "no",
+      "actor": "industry"
+    },
+    {
+      "i": 404,
+      "n": "AI healthcare regulatory exposure.",
+      "risk": "regulatory"
+    },
+    {
+      "i": 405,
+      "n": "AI announcements may affect stock-price volatility.",
+      "risk": "financial",
+      "tmp": "hypothetical"
+    },
+    {
+      "i": 406,
+      "n": "Malicious GenAI misinformation could influence focal stock valuation.",
+      "risk": "misuse|financial|reputational",
+      "tmp": "hypothetical"
+    },
+    {
+      "i": 408,
+      "n": "Accounting business description of AI-enhanced portfolio, no independent identifiable application.",
+      "scope": "customer_facing_product"
+    },
+    {
+      "i": 409,
+      "n": "Initiated restructuring includes AI operational integration; broad current implementation corroborated in parent 399, but function identities unresolved. Costs are restructuring expenses rather than application outcomes.",
+      "st": 4,
+      "scope": "internal_operations",
+      "use": "Internal AI operational integration; functions unspecified",
+      "inv": "yes",
+      "sp": 2,
+      "conf": "medium",
+      "review": "yes",
+      "attr": "shared_drivers"
+    },
+    {
+      "i": 410,
+      "n": "Current AI-powered workflow application suite is offered; individual tasks/product identities unresolved in this overview.",
+      "st": 4,
+      "scope": "customer_facing_product",
+      "use": "AI enterprise workflow application suite; task boundaries unresolved",
+      "sp": 2
+    },
+    {
+      "i": 411,
+      "n": "Focal solutions help customers govern AI and optimize workflows, but no particular AI-operated application is described here.",
+      "scope": "customer_facing_product",
+      "gov": "yes"
+    },
+    {
+      "i": 412,
+      "n": "AI market positioning and customer-informed platform development; continuation provides governance context, not a specific deployed task.",
+      "st": 1,
+      "strategy": "yes",
+      "o": "competitive_positioning",
+      "sp": 2
+    },
+    {
+      "i": 413,
+      "n": "Continuation: security/governance requirements for AI automation, no independent implemented task.",
+      "scope": "customer_facing_product",
+      "gov": "yes"
+    },
+    {
+      "i": 414,
+      "n": "Platform orchestrates action after AI generates information; supporting infrastructure is not itself proof of AI execution.",
+      "scope": "infrastructure_or_platform"
+    },
+    {
+      "i": 415,
+      "n": "AI workflow integration differentiation supports explicit strategic positioning; concrete application not identified.",
+      "st": 1,
+      "strategy": "yes",
+      "o": "competitive_positioning",
+      "sp": 2
+    },
+    {
+      "i": 416,
+      "n": "AI competitor comparison and workflow infrastructure positioning; no specific focal deployment.",
+      "st": 1,
+      "strategy": "yes",
+      "o": "competitive_positioning",
+      "sp": 2
+    },
+    {
+      "i": 417,
+      "n": "Explicit corporate strategy of controlled/governed AI business outcomes.",
+      "st": 1,
+      "strategy": "yes",
+      "o": "responsible_ai|customer_experience",
+      "sp": 2
+    },
+    {
+      "i": 418,
+      "n": "Data/workflow platform provides AI foundation; readiness does not establish an AI-operated task.",
+      "scope": "infrastructure_or_platform"
+    },
+    {
+      "i": 419,
+      "n": "Now Assist currently offers natural-language agent creation and workflow orchestration; provider availability does not prove every customer uses agents.",
+      "q": "AI. Our Platform",
+      "end": "technical expertise.",
+      "st": 4,
+      "scope": "customer_facing_product",
+      "uc": "agent_orchestration",
+      "use": "Now Assist AI agent creation and orchestration",
+      "sp": 3,
+      "tech": "genai"
+    },
+    {
+      "i": 419,
+      "n": "Explicit regular model evaluations, human oversight and governance guardrails; controls are not an actual application pilot.",
+      "gov": "yes",
+      "scope": "customer_facing_product",
+      "q": "AI. Our Platform",
+      "sp": 3
+    },
+    {
+      "i": 420,
+      "n": "Currently described AI-enabled data-layer contextual insights; conditional capability is product provision, with tool boundary coarse.",
+      "st": 4,
+      "scope": "customer_facing_product",
+      "uc": "data_layer_insights",
+      "use": "Workflow Data Fabric AI contextual insights",
+      "sp": 3,
+      "conf": "medium",
+      "review": "yes"
+    },
+    {
+      "i": 421,
+      "n": "Currently offered agents coordinate onboarding IT/payroll/compliance workflows; an example of vendor product capability, not a verified customer rollout.",
+      "q": "Workflows.",
+      "end": "multiple departments.",
+      "st": 4,
+      "scope": "customer_facing_product",
+      "uc": "onboarding_agents",
+      "use": "AI employee onboarding workflow coordination",
+      "sp": 3
+    },
+    {
+      "i": 421,
+      "n": "Moveworks technology explicitly integrated in current platform automates service requests and search.",
+      "q": "Additionally,",
+      "st": 4,
+      "scope": "customer_facing_product",
+      "uc": "moveworks_assistant",
+      "use": "Moveworks conversational service and enterprise search assistance",
+      "sp": 3
+    },
+    {
+      "i": 422,
+      "n": "Broad AI portfolio cross-reference; no independently specified application.",
+      "scope": "customer_facing_product"
+    },
+    {
+      "i": 423,
+      "n": "Current AI-powered low-code development offering; same Creator application described later.",
+      "st": 4,
+      "scope": "customer_facing_product",
+      "uc": "creator_ai",
+      "use": "Now Assist Creator AI application and code development",
+      "sp": 3
+    },
+    {
+      "i": 424,
+      "n": "Customer energy-company portal example corroborates vendor Now Assist service application deployment; actor is vendor for provision, not internal adoption.",
+      "st": 4,
+      "scope": "customer_facing_product",
+      "uc": "itsm_assist",
+      "use": "Now Assist IT service incident assistance",
+      "sp": 4,
+      "conf": "medium",
+      "review": "yes"
+    },
+    {
+      "i": 424,
+      "n": "Customer reports portal savings of thousands of hours. Customer-scope outcome retained separately; no Stage 5 focal internal application inferred, and imprecise period/baseline require review.",
+      "actor": "customer",
+      "firm": "no",
+      "scope": "customer_adoption_claim",
+      "outcome": "yes",
+      "attr": "explicit_application",
+      "metric": "Thousands of working hours saved; no reference period or baseline",
+      "sp": 4,
+      "conf": "medium",
+      "review": "yes"
+    },
+    {
+      "i": 425,
+      "n": "Currently described named product/module offers the specified AI task. Capability wording describes available vendor product, not independently verified internal customer adoption; repeated module claims share one application ID.",
+      "st": 4,
+      "scope": "customer_facing_product",
+      "uc": "asset_management",
+      "use": "AI asset-management compliance and fulfillment",
+      "sp": 3,
+      "gov": "no"
+    },
+    {
+      "i": 426,
+      "n": "Currently described named product/module offers the specified AI task. Capability wording describes available vendor product, not independently verified internal customer adoption; repeated module claims share one application ID.",
+      "st": 4,
+      "scope": "customer_facing_product",
+      "uc": "itom_assist",
+      "use": "Now Assist IT operations diagnostic assistance",
+      "sp": 3,
+      "gov": "no"
+    },
+    {
+      "i": 427,
+      "n": "Currently described named product/module offers the specified AI task. Capability wording describes available vendor product, not independently verified internal customer adoption; repeated module claims share one application ID.",
+      "st": 4,
+      "scope": "customer_facing_product",
+      "uc": "itsm_assist",
+      "use": "Now Assist IT service incident assistance",
+      "sp": 3,
+      "gov": "no"
+    },
+    {
+      "i": 429,
+      "n": "Currently described named product/module offers the specified AI task. Capability wording describes available vendor product, not independently verified internal customer adoption; repeated module claims share one application ID.",
+      "st": 4,
+      "scope": "customer_facing_product",
+      "uc": "risk_management",
+      "use": "Now Assist risk-assessment and control assistance",
+      "sp": 3,
+      "gov": "no"
+    },
+    {
+      "i": 430,
+      "n": "Currently described named product/module offers the specified AI task. Capability wording describes available vendor product, not independently verified internal customer adoption; repeated module claims share one application ID.",
+      "st": 4,
+      "scope": "customer_facing_product",
+      "uc": "security_operations",
+      "use": "Now Assist security incident and vulnerability assistance",
+      "sp": 3,
+      "gov": "no"
+    },
+    {
+      "i": 431,
+      "n": "Currently described named product/module offers the specified AI task. Capability wording describes available vendor product, not independently verified internal customer adoption; repeated module claims share one application ID.",
+      "st": 4,
+      "scope": "customer_facing_product",
+      "uc": "portfolio_management",
+      "use": "Now Assist strategic portfolio intake analysis",
+      "sp": 3,
+      "gov": "no"
+    },
+    {
+      "i": 432,
+      "n": "Currently described named product/module offers the specified AI task. Capability wording describes available vendor product, not independently verified internal customer adoption; repeated module claims share one application ID.",
+      "st": 4,
+      "scope": "customer_facing_product",
+      "uc": "customer_service",
+      "use": "Now Assist customer service case assistance",
+      "sp": 3,
+      "gov": "no"
+    },
+    {
+      "i": 433,
+      "n": "Currently described named product/module offers the specified AI task. Capability wording describes available vendor product, not independently verified internal customer adoption; repeated module claims share one application ID.",
+      "st": 4,
+      "scope": "customer_facing_product",
+      "uc": "field_service",
+      "use": "Now Assist field-service documentation and tasks",
+      "sp": 3,
+      "gov": "no"
+    },
+    {
+      "i": 434,
+      "n": "Currently described named product/module offers the specified AI task. Capability wording describes available vendor product, not independently verified internal customer adoption; repeated module claims share one application ID.",
+      "st": 4,
+      "scope": "customer_facing_product",
+      "uc": "sales_orders",
+      "use": "Now Assist sales and order process assistance",
+      "sp": 3,
+      "gov": "no"
+    },
+    {
+      "i": 436,
+      "n": "Currently described named product/module offers the specified AI task. Capability wording describes available vendor product, not independently verified internal customer adoption; repeated module claims share one application ID.",
+      "st": 4,
+      "scope": "customer_facing_product",
+      "uc": "hr_service",
+      "use": "Now Assist HR case and conversational assistance",
+      "sp": 3,
+      "gov": "no"
+    },
+    {
+      "i": 437,
+      "n": "Currently described named product/module offers the specified AI task. Capability wording describes available vendor product, not independently verified internal customer adoption; repeated module claims share one application ID.",
+      "st": 4,
+      "scope": "customer_facing_product",
+      "uc": "legal_contracts",
+      "use": "Now Assist legal contract review and administration",
+      "sp": 3,
+      "gov": "no"
+    },
+    {
+      "i": 438,
+      "n": "Currently described named product/module offers the specified AI task. Capability wording describes available vendor product, not independently verified internal customer adoption; repeated module claims share one application ID.",
+      "st": 4,
+      "scope": "customer_facing_product",
+      "uc": "procurement",
+      "use": "Now Assist sourcing and procurement assistance",
+      "sp": 3,
+      "gov": "no"
+    },
+    {
+      "i": 439,
+      "n": "Currently described named product/module offers the specified AI task. Capability wording describes available vendor product, not independently verified internal customer adoption; repeated module claims share one application ID.",
+      "st": 4,
+      "scope": "customer_facing_product",
+      "uc": "workplace_service",
+      "use": "Now Assist workplace booking and service assistance",
+      "sp": 3,
+      "gov": "no"
+    },
+    {
+      "i": 441,
+      "n": "Currently described named product/module offers the specified AI task. Capability wording describes available vendor product, not independently verified internal customer adoption; repeated module claims share one application ID.",
+      "st": 4,
+      "scope": "customer_facing_product",
+      "uc": "creator_ai",
+      "use": "Now Assist Creator AI application and code development",
+      "sp": 3,
+      "gov": "no"
+    },
+    {
+      "i": 442,
+      "n": "Currently described named product/module offers the specified AI task. Capability wording describes available vendor product, not independently verified internal customer adoption; repeated module claims share one application ID.",
+      "st": 4,
+      "scope": "customer_facing_product",
+      "uc": "creator_ai",
+      "use": "Now Assist Creator AI application and code development",
+      "sp": 3,
+      "gov": "yes"
+    },
+    {
+      "i": 443,
+      "n": "Currently described named product/module offers the specified AI task. Capability wording describes available vendor product, not independently verified internal customer adoption; repeated module claims share one application ID.",
+      "st": 4,
+      "scope": "customer_facing_product",
+      "uc": "privacy_security",
+      "use": "Now Assist data classification and protective workflows",
+      "sp": 3,
+      "gov": "yes"
+    },
+    {
+      "i": 446,
+      "n": "Currently described named product/module offers the specified AI task. Capability wording describes available vendor product, not independently verified internal customer adoption; repeated module claims share one application ID.",
+      "st": 4,
+      "scope": "customer_facing_product",
+      "uc": "impact_recommendations",
+      "use": "ServiceNow Impact AI product-adoption recommendations",
+      "sp": 3,
+      "gov": "no"
+    },
+    {
+      "i": 428,
+      "n": "AI Control Tower monitors governance metrics; no explicit AI mechanism underlying the dashboard itself. Retain AI governance evidence without deployment stage.",
+      "gov": "yes",
+      "scope": "customer_facing_product"
+    },
+    {
+      "i": 435,
+      "n": "Industry solutions can be enhanced by AI; no concrete AI task for these industry products.",
+      "scope": "customer_facing_product"
+    },
+    {
+      "i": 440,
+      "n": "AI-ready data fabric supports AI agents; supporting data foundation is not a separate AI application.",
+      "scope": "infrastructure_or_platform"
+    },
+    {
+      "i": 444,
+      "n": "AI-ready data fabric supports AI agents; supporting data foundation is not a separate AI application.",
+      "scope": "infrastructure_or_platform"
+    },
+    {
+      "i": 445,
+      "n": "AI-ready data fabric supports AI agents; supporting data foundation is not a separate AI application.",
+      "scope": "infrastructure_or_platform"
+    },
+    {
+      "i": 447,
+      "n": "AI consumption pricing and service credits; pricing metadata does not establish a distinct current application.",
+      "scope": "customer_facing_product"
+    },
+    {
+      "i": 448,
+      "n": "Actual AI technology-provider partnerships; relationships alone do not establish deployment.",
+      "scope": "partnership_or_investment",
+      "partner": "yes"
+    },
+    {
+      "i": 449,
+      "n": "Engineers co-build agentic solutions with customers; no actual testing/production status or particular task specified.",
+      "scope": "research_and_development",
+      "partner": "yes",
+      "conf": "medium",
+      "review": "yes"
+    },
+    {
+      "i": 450,
+      "n": "Current and intended AI R&D investment, not an application experiment.",
+      "scope": "research_and_development",
+      "inv": "yes",
+      "f": "yes"
+    }
+  ],
+  "changes": {},
+  "contextual_reviews": [
+    {
+      "index": 401,
+      "passage_id": "ORCL_10K_2026-06-22:L668:5cebcb69e7d22113",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 402,
+      "passage_id": "ORCL_10K_2026-06-22:L677:6c0bb801e9176568",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 403,
+      "passage_id": "ORCL_10K_2026-06-22:L689:e5e6b99341c8bb80",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 404,
+      "passage_id": "ORCL_10K_2026-06-22:L766:e872cdce0257d571",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 405,
+      "passage_id": "ORCL_10K_2026-06-22:L819:281671d805c88106",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 406,
+      "passage_id": "ORCL_10K_2026-06-22:L822:461d95cfc28c916c",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 407,
+      "passage_id": "ORCL_10K_2026-06-22:L929:3d0ab93e2d61f40b",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 408,
+      "passage_id": "ORCL_10K_2026-06-22:L1888:0c8d197489689f8f",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 409,
+      "passage_id": "ORCL_10K_2026-06-22:L2267:2f6937c7afee0baf",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 410,
+      "passage_id": "NOW_10K_2026-01-29:L135:df646202835ece28",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 411,
+      "passage_id": "NOW_10K_2026-01-29:L137:4df8420d5261b96e",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 412,
+      "passage_id": "NOW_10K_2026-01-29:L139:12cbf0294b6a0951",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 413,
+      "passage_id": "NOW_10K_2026-01-29:L146:58927a96241732a3",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 414,
+      "passage_id": "NOW_10K_2026-01-29:L148:868c523c9853de24",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 415,
+      "passage_id": "NOW_10K_2026-01-29:L150:90de60f3e5e8f715",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 416,
+      "passage_id": "NOW_10K_2026-01-29:L152:04ac89b6e7b6aaeb",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 417,
+      "passage_id": "NOW_10K_2026-01-29:L154:eb26f91fc7c8c7e9",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 418,
+      "passage_id": "NOW_10K_2026-01-29:L161:adfe071655f4e49b",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 419,
+      "passage_id": "NOW_10K_2026-01-29:L163:a8130f7b8dc7ce4c",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 420,
+      "passage_id": "NOW_10K_2026-01-29:L165:a5ad6e0e70e5e6b6",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 421,
+      "passage_id": "NOW_10K_2026-01-29:L167:e4b073dab1214178",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 422,
+      "passage_id": "NOW_10K_2026-01-29:L169:7cfa773cee9aa199",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 423,
+      "passage_id": "NOW_10K_2026-01-29:L180:543ebd4f4ff81a77",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 424,
+      "passage_id": "NOW_10K_2026-01-29:L188:6eeb902cc482360c",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 425,
+      "passage_id": "NOW_10K_2026-01-29:L194:433754923e806dec",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 426,
+      "passage_id": "NOW_10K_2026-01-29:L205:e9ddd07da2b50126",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 427,
+      "passage_id": "NOW_10K_2026-01-29:L211:3a17f695287d25c7",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 428,
+      "passage_id": "NOW_10K_2026-01-29:L221:81582347cf141740",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 429,
+      "passage_id": "NOW_10K_2026-01-29:L226:9e7d20450d15a869",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 430,
+      "passage_id": "NOW_10K_2026-01-29:L232:8857419e9e39d08a",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 431,
+      "passage_id": "NOW_10K_2026-01-29:L238:2be5e201715be156",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 432,
+      "passage_id": "NOW_10K_2026-01-29:L251:60396c9b497f67c2",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 433,
+      "passage_id": "NOW_10K_2026-01-29:L260:012ac0c77d29eb04",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 434,
+      "passage_id": "NOW_10K_2026-01-29:L266:81ae171c54537c67",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 435,
+      "passage_id": "NOW_10K_2026-01-29:L275:10e35568bb4a8a40",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 436,
+      "passage_id": "NOW_10K_2026-01-29:L294:775a9f7a78f072b7",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 437,
+      "passage_id": "NOW_10K_2026-01-29:L305:ff7ede2c7d860359",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 438,
+      "passage_id": "NOW_10K_2026-01-29:L311:e98e943c556a88a1",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 439,
+      "passage_id": "NOW_10K_2026-01-29:L317:b3944eae9ae78f96",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 440,
+      "passage_id": "NOW_10K_2026-01-29:L322:ae394022cd940ca1",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 441,
+      "passage_id": "NOW_10K_2026-01-29:L326:d83b783dffd24656",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 442,
+      "passage_id": "NOW_10K_2026-01-29:L336:7db047f6e1a7bce9",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 443,
+      "passage_id": "NOW_10K_2026-01-29:L347:e7be651514baab54",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 444,
+      "passage_id": "NOW_10K_2026-01-29:L351:11bcad6dbac7ff7c",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 445,
+      "passage_id": "NOW_10K_2026-01-29:L355:bce5d80381172d8e",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 446,
+      "passage_id": "NOW_10K_2026-01-29:L372:f40896b673df0712",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 447,
+      "passage_id": "NOW_10K_2026-01-29:L385:6e52d577fa5a5166",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 448,
+      "passage_id": "NOW_10K_2026-01-29:L395:f47c269090a9d36d",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 449,
+      "passage_id": "NOW_10K_2026-01-29:L420:7e764cecf5537552",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 450,
+      "passage_id": "NOW_10K_2026-01-29:L422:ccfb4655e5ab3151",
+      "decision": "fresh contextual judgments"
+    }
+  ]
+}

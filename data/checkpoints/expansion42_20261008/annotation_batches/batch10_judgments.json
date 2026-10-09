@@ -1,0 +1,443 @@
+{
+  "start": 451,
+  "end": 501,
+  "new_judgments": [
+    {
+      "i": 473,
+      "n": "Current AI-powered workflow application suite is offered; individual tasks/product identities unresolved in this overview.",
+      "st": 4,
+      "scope": "customer_facing_product",
+      "use": "AI enterprise workflow application suite; task boundaries unresolved",
+      "sp": 2
+    },
+    {
+      "i": 474,
+      "n": "Current AI-powered workflow application suite is offered; individual tasks/product identities unresolved in this overview.",
+      "st": 4,
+      "scope": "customer_facing_product",
+      "use": "AI enterprise workflow application suite; task boundaries unresolved",
+      "sp": 2
+    },
+    {
+      "i": 451,
+      "n": "AI competitors in focal competition list.",
+      "risk": "competitive"
+    },
+    {
+      "i": 452,
+      "n": "Explicit defining-AI-software-company strategic ambition.",
+      "st": 1,
+      "strategy": "yes",
+      "o": "competitive_positioning",
+      "sp": 1
+    },
+    {
+      "i": 453,
+      "n": "Explicit current use of AI in focal talent management; task domain identifiable, finer workflow unspecified.",
+      "st": 4,
+      "scope": "internal_operations",
+      "uc": "talent_management",
+      "use": "Internal AI talent management",
+      "sp": 2,
+      "conf": "medium",
+      "review": "yes",
+      "o": "efficiency"
+    },
+    {
+      "i": 454,
+      "n": "2025 launched AI-powered learning hub is currently free and available to employees/customers/partners. One application has mixed internal/product access scope; internal use itself is not asserted.",
+      "st": 4,
+      "scope": "customer_facing_product",
+      "uc": "university_learning",
+      "use": "ServiceNow University AI-powered professional learning",
+      "sp": 4
+    },
+    {
+      "i": 455,
+      "n": "AI offering operational/ethical/legal exposure summary.",
+      "risk": "operational|regulatory",
+      "tmp": "hypothetical"
+    },
+    {
+      "i": 456,
+      "n": "ML/AI data regulation and sovereignty constraints.",
+      "risk": "regulatory|privacy"
+    },
+    {
+      "i": 457,
+      "n": "AI-native competition and technological change.",
+      "risk": "competitive"
+    },
+    {
+      "i": 458,
+      "n": "AI vendors and integration/data-access competitors may disrupt offerings.",
+      "risk": "competitive|third_party"
+    },
+    {
+      "i": 459,
+      "n": "AI innovation may disrupt staffing and enterprise software markets.",
+      "risk": "competitive|workforce",
+      "tmp": "hypothetical"
+    },
+    {
+      "i": 460,
+      "n": "Normative need to deliver scalable AI products within execution-risk context; no explicit intended application.",
+      "risk": "competitive",
+      "tmp": "hypothetical"
+    },
+    {
+      "i": 461,
+      "n": "AI risk list continuation; no strategy/deployment evidence.",
+      "risk": "operational",
+      "tmp": "hypothetical"
+    },
+    {
+      "i": 462,
+      "n": "Repeated AI offering legal and operational exposure heading.",
+      "risk": "operational|regulatory",
+      "tmp": "hypothetical"
+    },
+    {
+      "i": 463,
+      "n": "Actual broad customer-facing/internal AI integration is asserted, but mixed scope and tasks prevent distinct application counting.",
+      "st": 4,
+      "scope": "customer_facing_product|internal_operations",
+      "use": "Mixed internal/product AI integration; task boundaries unspecified",
+      "sp": 2,
+      "conf": "medium",
+      "review": "yes",
+      "risk": "financial"
+    },
+    {
+      "i": 464,
+      "n": "Third-party hardware/software, IP and competition exposure for AI products.",
+      "risk": "third_party|intellectual_property|competitive|financial"
+    },
+    {
+      "i": 465,
+      "n": "AI Act and other regulation may alter data handling and product availability.",
+      "risk": "regulatory|privacy"
+    },
+    {
+      "i": 466,
+      "n": "AI intellectual-property, biased-output and social concerns; internal/product use mentioned without additional concrete task.",
+      "risk": "intellectual_property|privacy|model_quality|bias|reputational",
+      "tmp": "hypothetical"
+    },
+    {
+      "i": 467,
+      "n": "Threat actors may exploit AI for sophisticated attacks.",
+      "risk": "cybersecurity",
+      "tmp": "hypothetical"
+    },
+    {
+      "i": 468,
+      "n": "AI-generated code increases exploitation risk; continuation retained, no actual coding task use established.",
+      "risk": "cybersecurity",
+      "tmp": "hypothetical"
+    },
+    {
+      "i": 469,
+      "n": "AI Platform brand occurs in ordinary security configuration guidance; no AI-specific operating/control claim.",
+      "r": "context_only",
+      "firm": "no",
+      "tmp": "unclear"
+    },
+    {
+      "i": 470,
+      "n": "AI/ML personnel recruitment competition.",
+      "risk": "workforce"
+    },
+    {
+      "i": 471,
+      "n": "AI implementation creates information-system capacity expansion needs; no task-specific deployment.",
+      "risk": "capacity",
+      "scope": "infrastructure_or_platform"
+    },
+    {
+      "i": 472,
+      "n": "AI intellectual-property ownership, licenses and privacy claims.",
+      "risk": "intellectual_property|privacy"
+    },
+    {
+      "i": 475,
+      "n": "Genesys AI-software minority investment; purchase value is not AI adoption.",
+      "scope": "partnership_or_investment",
+      "inv": "yes"
+    },
+    {
+      "i": 476,
+      "n": "Logik AI CPQ acquisition; acquisition alone does not assert current integrated AI application deployment.",
+      "scope": "partnership_or_investment",
+      "inv": "yes"
+    },
+    {
+      "i": 477,
+      "n": "Intended AI data context improvement via acquisition; supporting data structure not itself an AI use task.",
+      "scope": "partnership_or_investment",
+      "inv": "yes",
+      "tmp": "planned",
+      "f": "yes"
+    },
+    {
+      "i": 478,
+      "n": "Historical AI platform acquisition; no current deployment assertion.",
+      "scope": "partnership_or_investment",
+      "inv": "yes",
+      "tmp": "historical"
+    }
+  ],
+  "changes": {},
+  "contextual_reviews": [
+    {
+      "index": 451,
+      "passage_id": "NOW_10K_2026-01-29:L439:e22db853545c4cc4",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 452,
+      "passage_id": "NOW_10K_2026-01-29:L460:99cedcf3ae8e6aad",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 453,
+      "passage_id": "NOW_10K_2026-01-29:L478:43004a2654619698",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 454,
+      "passage_id": "NOW_10K_2026-01-29:L486:4336eb5f3b08a1ef",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 455,
+      "passage_id": "NOW_10K_2026-01-29:L535:49abb3c2de89303b",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 456,
+      "passage_id": "NOW_10K_2026-01-29:L598:51758e5dc7f776ae",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 457,
+      "passage_id": "NOW_10K_2026-01-29:L613:5ecc52e17dbf0d59",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 458,
+      "passage_id": "NOW_10K_2026-01-29:L615:9c74aaf6f0c2edce",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 459,
+      "passage_id": "NOW_10K_2026-01-29:L624:2023c9ed79acbc07",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 460,
+      "passage_id": "NOW_10K_2026-01-29:L630:a7d4d2ac85326307",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 461,
+      "passage_id": "NOW_10K_2026-01-29:L677:a77f083517d8025d",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 462,
+      "passage_id": "NOW_10K_2026-01-29:L683:13965652a264760e",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 463,
+      "passage_id": "NOW_10K_2026-01-29:L685:973d06e4ae5a990e",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 464,
+      "passage_id": "NOW_10K_2026-01-29:L687:a176166678409f7e",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 465,
+      "passage_id": "NOW_10K_2026-01-29:L689:32bee8da061d6d0d",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 466,
+      "passage_id": "NOW_10K_2026-01-29:L691:1f56116abf276cce",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 467,
+      "passage_id": "NOW_10K_2026-01-29:L777:7c4851f1031a1bb7",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 468,
+      "passage_id": "NOW_10K_2026-01-29:L781:5c2882e6e6c50d2b",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 469,
+      "passage_id": "NOW_10K_2026-01-29:L788:f4c73c5f905b8d59",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 470,
+      "passage_id": "NOW_10K_2026-01-29:L805:cfc08c863be6794c",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 471,
+      "passage_id": "NOW_10K_2026-01-29:L824:8f43739129eb2bf5",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 472,
+      "passage_id": "NOW_10K_2026-01-29:L843:d4c9cdb96ec60d01",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 473,
+      "passage_id": "NOW_10K_2026-01-29:L1197:5d11f478d1c1f91e",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 474,
+      "passage_id": "NOW_10K_2026-01-29:L1973:577bcd03bd0e7d73",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 475,
+      "passage_id": "NOW_10K_2026-01-29:L2229:08bae9d4a200b6ff",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 476,
+      "passage_id": "NOW_10K_2026-01-29:L2330:49e9fe77e66dcb18",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 477,
+      "passage_id": "NOW_10K_2026-01-29:L2341:4b4499034b7f13ca",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 478,
+      "passage_id": "NOW_10K_2026-01-29:L2357:3ac0acac48522da5",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 479,
+      "passage_id": "WMT_10K_2026-03-13:L169:8225c34eeb938ddc",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 480,
+      "passage_id": "WMT_10K_2026-03-13:L214:892bdc2896d30a81",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 481,
+      "passage_id": "WMT_10K_2026-03-13:L216:e537e4354733e4be",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 482,
+      "passage_id": "WMT_10K_2026-03-13:L294:5d8f27273431651b",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 483,
+      "passage_id": "WMT_10K_2026-03-13:L338:6f327b75d3bc6810",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 484,
+      "passage_id": "WMT_10K_2026-03-13:L342:abcb81bff0afb7ae",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 485,
+      "passage_id": "WMT_10K_2026-03-13:L374:fb58726cf0041f83",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 486,
+      "passage_id": "WMT_10K_2026-03-13:L399:c7d23fbb400b962f",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 487,
+      "passage_id": "WMT_10K_2026-03-13:L401:82db40d98dad46a7",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 488,
+      "passage_id": "WMT_10K_2026-03-13:L407:8c064d659d6c7372",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 489,
+      "passage_id": "WMT_10K_2026-03-13:L409:ac659111151e0535",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 490,
+      "passage_id": "WMT_10K_2026-03-13:L413:18ec55deb1943cda",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 491,
+      "passage_id": "WMT_10K_2026-03-13:L481:0fe55dff29186fc1",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 492,
+      "passage_id": "WMT_10K_2026-03-13:L483:0bbbd4390c22b2c4",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 493,
+      "passage_id": "WMT_10K_2026-03-13:L491:e336b623f1aa861a",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 494,
+      "passage_id": "WMT_10K_2026-03-13:L501:e3ce099057024c13",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 495,
+      "passage_id": "WMT_10K_2026-03-13:L513:2346f0de715e75f7",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 496,
+      "passage_id": "WMT_10K_2026-03-13:L589:86b664b92649d82d",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 497,
+      "passage_id": "WMT_10K_2026-03-13:L597:981a77ca3dc0e327",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 498,
+      "passage_id": "TGT_10K_2026-03-11:L332:48b81307df1e0772",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 499,
+      "passage_id": "TGT_10K_2026-03-11:L336:eeb1a37861935b70",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 500,
+      "passage_id": "TGT_10K_2026-03-11:L340:28ffddd736987c8c",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    }
+  ]
+}

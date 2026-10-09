@@ -1,0 +1,266 @@
+{
+  "start": 151,
+  "end": 201,
+  "new_judgments": [],
+  "changes": {
+    "CRM_claim_314242800dbd376f0cd5": {
+      "adoption_stage": "NA",
+      "operational_stage": "NA",
+      "stage_eligible": "no",
+      "is_strategy_claim": "no",
+      "annotation_rationale": "Technology-future discussion in marketing events does not specify a focal-firm AI objective or intended AI application; retain education evidence without a stage."
+    }
+  },
+  "contextual_reviews": [
+    {
+      "index": 151,
+      "passage_id": "ADBE_10K_2026-01-15:L578:5d0f5f60ae899349",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 152,
+      "passage_id": "ADBE_10K_2026-01-15:L597:6421860c98a38fb5",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 153,
+      "passage_id": "ADBE_10K_2026-01-15:L632:85fe7e40ad605215",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 154,
+      "passage_id": "ADBE_10K_2026-01-15:L647:09efc8abbf87b075",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 155,
+      "passage_id": "ADBE_10K_2026-01-15:L660:d3852504737e86f8",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 156,
+      "passage_id": "ADBE_10K_2026-01-15:L665:7c9ad5da2c40ba66",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 157,
+      "passage_id": "ADBE_10K_2026-01-15:L854:2288e61a4e33a8b6",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 158,
+      "passage_id": "ADBE_10K_2026-01-15:L858:f8bd5c5cf198175f",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 159,
+      "passage_id": "ADBE_10K_2026-01-15:L866:de4e303470e648f5",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 160,
+      "passage_id": "ADBE_10K_2026-01-15:L877:40c49e6f02eafd56",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 161,
+      "passage_id": "ADBE_10K_2026-01-15:L879:8e5cb46bef11c4a5",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 162,
+      "passage_id": "ADBE_10K_2026-01-15:L883:bac36baa2dc77eec",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 163,
+      "passage_id": "ADBE_10K_2026-01-15:L1047:7ef3fa824ac01946",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 164,
+      "passage_id": "ADBE_10K_2026-01-15:L1105:c60a159a0e0e2586",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 165,
+      "passage_id": "CRM_10K_2026-03-02:L147:a3d92873d80191ed",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 166,
+      "passage_id": "CRM_10K_2026-03-02:L162:928435518117a2bf",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 167,
+      "passage_id": "CRM_10K_2026-03-02:L164:139063d26818e19c",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 168,
+      "passage_id": "CRM_10K_2026-03-02:L166:3a4b585521a5a92d",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 169,
+      "passage_id": "CRM_10K_2026-03-02:L168:2811652e38b955fe",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 170,
+      "passage_id": "CRM_10K_2026-03-02:L170:f78e5cef918df1b7",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 171,
+      "passage_id": "CRM_10K_2026-03-02:L172:50df0de5524f39c7",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 172,
+      "passage_id": "CRM_10K_2026-03-02:L174:c81e01f3aeab97ed",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 173,
+      "passage_id": "CRM_10K_2026-03-02:L177:5f5ab0346b1b4845",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 174,
+      "passage_id": "CRM_10K_2026-03-02:L181:4d035215ca95b286",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 175,
+      "passage_id": "CRM_10K_2026-03-02:L183:672743b6a3fd9c79",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 176,
+      "passage_id": "CRM_10K_2026-03-02:L187:c7a5e54b2acfec4a",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 177,
+      "passage_id": "CRM_10K_2026-03-02:L189:ecdb7cfbaf99febb",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 178,
+      "passage_id": "CRM_10K_2026-03-02:L195:e5483533029fb113",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 179,
+      "passage_id": "CRM_10K_2026-03-02:L198:5ec90109d4f32e6d",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 180,
+      "passage_id": "CRM_10K_2026-03-02:L204:dc42b85097e071ec",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 181,
+      "passage_id": "CRM_10K_2026-03-02:L210:bc17d61627e5957f",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 182,
+      "passage_id": "CRM_10K_2026-03-02:L212:6a0f739afe3a075e",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 183,
+      "passage_id": "CRM_10K_2026-03-02:L216:5d001f9d6623bd70",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 184,
+      "passage_id": "CRM_10K_2026-03-02:L243:0e4f5ca8d232754f",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 185,
+      "passage_id": "CRM_10K_2026-03-02:L261:6f10e647b9f82c0b",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 186,
+      "passage_id": "CRM_10K_2026-03-02:L265:bc31d5d7973b8e2d",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 187,
+      "passage_id": "CRM_10K_2026-03-02:L270:5238b3732340987c",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 188,
+      "passage_id": "CRM_10K_2026-03-02:L280:c55e1615e6d7f0f6",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 189,
+      "passage_id": "CRM_10K_2026-03-02:L296:acc624794c819405",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 190,
+      "passage_id": "CRM_10K_2026-03-02:L327:8a2310bb6a1a738f",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 191,
+      "passage_id": "CRM_10K_2026-03-02:L395:d1f047b6ed6a7a65",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 192,
+      "passage_id": "CRM_10K_2026-03-02:L401:3a79c4f247794de8",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 193,
+      "passage_id": "CRM_10K_2026-03-02:L454:8a0e3bede8834e10",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 194,
+      "passage_id": "CRM_10K_2026-03-02:L464:c1c579d44316f7e3",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 195,
+      "passage_id": "CRM_10K_2026-03-02:L470:6ccc567baaf5bde3",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 196,
+      "passage_id": "CRM_10K_2026-03-02:L492:b41759c0c0a8a8bb",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 197,
+      "passage_id": "CRM_10K_2026-03-02:L494:4db898e686e9bddd",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 198,
+      "passage_id": "CRM_10K_2026-03-02:L537:f4a54990f33fad13",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 199,
+      "passage_id": "CRM_10K_2026-03-02:L541:fc7441ff384fc971",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 200,
+      "passage_id": "CRM_10K_2026-03-02:L570:a1ba23daf03491ec",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    }
+  ]
+}

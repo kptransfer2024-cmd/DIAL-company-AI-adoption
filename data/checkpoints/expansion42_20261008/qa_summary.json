@@ -1,0 +1,43 @@
+{
+  "status": "passed",
+  "companies": 42,
+  "sectors": 6,
+  "filings": 42,
+  "candidate_passages": 770,
+  "full_records": 844,
+  "core_claims": 276,
+  "stages": {
+    "1": 79,
+    "NA": 568,
+    "4": 181,
+    "2": 15,
+    "3": 1
+  },
+  "stage_na_percent": 67.29857819905213,
+  "distinct_applications": 109,
+  "deployed_applications": 98,
+  "internal_deployed": 10,
+  "customer_facing_deployed": 83,
+  "other_deployed": 5,
+  "scope_overlap": 0,
+  "firms_reporting_deployment": 29,
+  "firms_without_qualifying_stage": 8,
+  "needs_human_review": 131,
+  "human_validated": 0,
+  "stage_na_reasons": {
+    "screening_or_context": 36,
+    "insufficient_strategy_or_application_status": 106,
+    "ambiguous_evidence": 13,
+    "risk_or_governance_without_qualifying_stage": 351,
+    "non_focal_actor_or_evidence": 59,
+    "historical_without_current_confirmation": 3
+  },
+  "checks": [
+    "SEC ticker/CIK identity, XBRL form/CIK/period, latest original annual selection and cutoff",
+    "Primary HTML/text integrity, complete primary documents, hashes, source URLs",
+    "Exact extraction regeneration, all 393 existing parent IDs and all old lexical metrics preserved",
+    "Complete candidate coverage, unique claims, exact quotes, stage eligibility and actor/time safeguards",
+    "Full/core correspondence, NA archive retention, deduplicated IDs, full-archive risk/governance metrics",
+    "42 complete firm rows including semantic zeros, unchanged protocol and verified eight-file pilot backup"
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "start": 751,
+  "end": 770,
+  "new_judgments": [
+    {
+      "i": 755,
+      "n": "Competitor AI development may disadvantage firm and require investment; conditional response is not committed adoption.",
+      "actor": "competitor",
+      "firm": "no",
+      "tmp": "hypothetical",
+      "risk": "competitive"
+    },
+    {
+      "i": 756,
+      "n": "AI-capability growth increases cyber-threat risk; sentence continues in next source parent.",
+      "risk": "cybersecurity",
+      "tmp": "hypothetical"
+    },
+    {
+      "i": 757,
+      "n": "Explicit current AI-based tools strengthen cyber defenses; business support generic, cybersecurity is the one identified task. Risk caveat does not undo deployment.",
+      "q": "While the Company uses",
+      "end": "cyber threats.",
+      "st": 4,
+      "scope": "internal_operations",
+      "uc": "cyber_defense",
+      "use": "AI-assisted cybersecurity defenses",
+      "sp": 3,
+      "risk": "cybersecurity",
+      "gov": "yes"
+    },
+    {
+      "i": 758,
+      "n": "AI-enabled identity fraud/phishing threatens firm; potential additional security expenditure does not demonstrate AI deployment.",
+      "actor": "third_party",
+      "firm": "no",
+      "risk": "cybersecurity|financial",
+      "tmp": "hypothetical"
+    },
+    {
+      "i": 759,
+      "n": "Currently offered platforms use AI/ML for reservoir planning and drilling/completion/production decision workflows; grouped as one disclosed task suite, no invented component boundaries.",
+      "st": 4,
+      "scope": "customer_facing_product",
+      "uc": "reservoir_workflows",
+      "use": "AI reservoir-development and operational workflow planning",
+      "sp": 3,
+      "o": "product_and_service_innovation"
+    },
+    {
+      "i": 760,
+      "n": "Licensed seismic datasets currently refreshed/reprocessed with AI imaging; identifiable data-imaging workflow rather than hypothetical benefit.",
+      "st": 4,
+      "scope": "customer_facing_product",
+      "uc": "seismic_imaging",
+      "use": "AI-assisted seismic dataset imaging and reprocessing",
+      "sp": 3
+    },
+    {
+      "i": 761,
+      "n": "Current digital offering underpinned by agentic AI orchestration; repeats operational workflow suite, not additional application for branding.",
+      "st": 4,
+      "scope": "customer_facing_product",
+      "uc": "reservoir_workflows",
+      "use": "AI reservoir-development and operational workflow planning",
+      "sp": 3
+    },
+    {
+      "i": 762,
+      "n": "Current digital services use embedded AI for automated insights; tasks/product boundaries unresolved so not counted as a distinct resolved application.",
+      "st": 4,
+      "scope": "customer_facing_product",
+      "use": "Embedded AI insights in core services; task boundaries unspecified",
+      "sp": 2
+    },
+    {
+      "i": 763,
+      "n": "AI-driven data-center demand is market growth context; equipment supply alone is not AI adoption.",
+      "r": "context_only",
+      "firm": "no",
+      "actor": "industry",
+      "scope": "infrastructure_or_platform"
+    },
+    {
+      "i": 764,
+      "n": "AI dependencies and AI-enabled attackers create cybersecurity exposure; no identified installed AI cybersecurity control.",
+      "risk": "cybersecurity|third_party"
+    },
+    {
+      "i": 765,
+      "n": "ML process patent protection limitations; no identifiable implementation claim.",
+      "risk": "intellectual_property"
+    },
+    {
+      "i": 766,
+      "n": "Historical increased AI deployment, without independently linked current task/scope; current offerings elsewhere receive their own stage labels.",
+      "tmp": "historical",
+      "use": "AI deployment expansion; tasks unspecified",
+      "conf": "medium",
+      "review": "yes"
+    },
+    {
+      "i": 767,
+      "n": "Historical Lumi platform launch plus other digital milestones; digital-wide revenue growth not attributable to AI application outcome, and no explicit ongoing AI task evidence in this statement.",
+      "tmp": "historical",
+      "scope": "customer_facing_product",
+      "use": "Lumi data/AI platform launch; ongoing AI task linkage unresolved",
+      "outcome": "no",
+      "conf": "medium",
+      "review": "yes"
+    },
+    {
+      "i": 768,
+      "n": "AI technology pace affects commercial R&D timing/costs; generic risk without focal AI application.",
+      "risk": "competitive|operational|financial",
+      "tmp": "hypothetical"
+    },
+    {
+      "i": 769,
+      "n": "Generative AI intensifies cyberattacks and disruption exposure.",
+      "risk": "cybersecurity",
+      "actor": "third_party",
+      "firm": "no"
+    }
+  ],
+  "changes": {},
+  "contextual_reviews": [
+    {
+      "index": 751,
+      "passage_id": "CVX_10K_2026-02-24:L743:ed961f62cbfa1aca",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 752,
+      "passage_id": "CVX_10K_2026-02-24:L781:db256fd1841be56f",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 753,
+      "passage_id": "CVX_10K_2026-02-24:L991:a6f43a1483419005",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 754,
+      "passage_id": "COP_10K_2026-02-17:L902:55b3e43f53a152b0",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 755,
+      "passage_id": "OXY_10K_2026-02-18:L542:44bfb18ccd7a79c3",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 756,
+      "passage_id": "OXY_10K_2026-02-18:L612:34470d1add1e2740",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 757,
+      "passage_id": "OXY_10K_2026-02-18:L618:b0ed73ce4d87320e",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 758,
+      "passage_id": "EOG_10K_2026-02-24:L678:23028df029c40f5c",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 759,
+      "passage_id": "SLB_10K_2026-01-23:L147:a234233c08849baf",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 760,
+      "passage_id": "SLB_10K_2026-01-23:L151:7c68998669200387",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 761,
+      "passage_id": "SLB_10K_2026-01-23:L225:ccd0e590ba84c737",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 762,
+      "passage_id": "SLB_10K_2026-01-23:L227:75140b6aeed6f01f",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 763,
+      "passage_id": "SLB_10K_2026-01-23:L237:dc512ffae279faed",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 764,
+      "passage_id": "SLB_10K_2026-01-23:L421:69303e9fdb697623",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 765,
+      "passage_id": "SLB_10K_2026-01-23:L439:293ddaf6838fe8fd",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 766,
+      "passage_id": "SLB_10K_2026-01-23:L548:2f46b472210e2d17",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 767,
+      "passage_id": "SLB_10K_2026-01-23:L750:1cd6e1a033098666",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 768,
+      "passage_id": "PSX_10K_2026-02-20:L804:c379f92ae44d3168",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 769,
+      "passage_id": "PSX_10K_2026-02-20:L922:f2f7d7e0d31a5964",
+      "decision": "fresh contextual judgments"
+    }
+  ]
+}

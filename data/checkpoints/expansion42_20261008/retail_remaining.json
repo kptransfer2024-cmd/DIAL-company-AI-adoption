@@ -1,0 +1,112 @@
+[
+  {
+    "i": 551,
+    "n": "Implementation of GenAI pilot programs in internal and customer-facing systems is explicitly reported; actual pilots, with particular task/product identities unresolved.",
+    "q": "Additionally, the rapid evolution",
+    "st": 3,
+    "scope": "internal_operations|customer_facing_product",
+    "use": "GenAI pilots in internal and customer-facing systems; tasks unspecified",
+    "sp": 2,
+    "risk": "cybersecurity",
+    "tech": "genai",
+    "conf": "medium",
+    "review": "yes"
+  },
+  {
+    "i": 552,
+    "n": "Growing AI/ML use creates algorithm/data/regulatory risks; no new task-specific deployment.",
+    "risk": "model_quality|regulatory"
+  },
+  {
+    "i": 553,
+    "n": "Explicit AI three-pillar corporate direction.",
+    "q": "We have developed",
+    "end": "how we work.",
+    "st": 1,
+    "strategy": "yes",
+    "o": "efficiency|customer_experience",
+    "sp": 2
+  },
+  {
+    "i": 553,
+    "n": "Current AI solutions facilitate personalized customer interactions; separate from associate-facing tools but exact tool linkage requires review.",
+    "q": "We use AI-powered solutions",
+    "end": "faster fulfillment.",
+    "st": 4,
+    "scope": "customer_facing_product",
+    "uc": "customer_interactions",
+    "use": "AI personalized customer interaction assistance",
+    "sp": 3,
+    "conf": "medium",
+    "review": "yes"
+  },
+  {
+    "i": 553,
+    "n": "Current AI design-assistance platforms are explicitly used.",
+    "q": "We use AI-powered solutions",
+    "end": "faster fulfillment.",
+    "st": 4,
+    "scope": "customer_facing_product",
+    "uc": "design_assistance",
+    "use": "AI customer design assistance",
+    "sp": 3
+  },
+  {
+    "i": 553,
+    "n": "Current AI forecasting/sourcing/inventory/fulfillment tools are a disclosed supply-chain suite; do not infer one independent application for each verb.",
+    "q": "We use AI-powered solutions",
+    "end": "faster fulfillment.",
+    "st": 4,
+    "scope": "internal_operations",
+    "uc": "supply_chain_planning",
+    "use": "AI supply-chain forecasting inventory and fulfillment suite",
+    "sp": 3
+  },
+  {
+    "i": 553,
+    "n": "Investment and future AI compliance/output failure exposure; no realized quantified benefit.",
+    "q": "We face risk",
+    "risk": "competitive|regulatory|model_quality|privacy|operational",
+    "inv": "yes",
+    "f": "yes",
+    "tmp": "hypothetical"
+  },
+  {
+    "i": 554,
+    "n": "Actual AI cybersecurity strategy and Governance Committee; strategic responsible-AI direction and governance, no AI-operated control tool deployment.",
+    "st": 1,
+    "strategy": "yes",
+    "o": "responsible_ai|security",
+    "gov": "yes",
+    "sp": 3
+  },
+  {
+    "i": 555,
+    "n": "Hypothetical agentic-shopping disintermediation and margin risk.",
+    "risk": "competitive|financial",
+    "tmp": "hypothetical"
+  },
+  {
+    "i": 556,
+    "n": "Focal firm explicitly currently utilizes AI/ML across business; tasks unspecified, no distinct use-case ID invented.",
+    "st": 4,
+    "scope": "unclear_or_other",
+    "use": "Broad AI/ML business utilization; tasks unspecified",
+    "risk": "competitive|regulatory",
+    "sp": 2,
+    "conf": "medium",
+    "review": "yes"
+  },
+  {
+    "i": 557,
+    "n": "Possible future AI investments/safeguards are conditional, not actual controls or concrete intended applications.",
+    "risk": "regulatory|cybersecurity|privacy",
+    "tmp": "hypothetical"
+  },
+  {
+    "i": 558,
+    "n": "AI adoption may increase cyber exposure; ordinary security procedures are not AI-specific governance.",
+    "risk": "cybersecurity",
+    "tmp": "hypothetical"
+  }
+]

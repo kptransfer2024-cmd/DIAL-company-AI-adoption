@@ -1,0 +1,657 @@
+{
+  "start": 351,
+  "end": 401,
+  "new_judgments": [
+    {
+      "i": 354,
+      "n": "Current ML models estimate unique people and match accounts for DAP; repeated metric computation is one internal application. Error margins describe measurement uncertainty, not realized AI benefit.",
+      "st": 4,
+      "scope": "internal_operations",
+      "uc": "dap_account_matching",
+      "use": "ML account matching and unique-user metric estimation",
+      "sp": 4,
+      "tech": "traditional_ml",
+      "risk": "model_quality"
+    },
+    {
+      "i": 351,
+      "n": "Current AI advertising delivery/targeting/measurement investment, consistent with previously described operational advertising tools.",
+      "st": 4,
+      "scope": "customer_facing_product",
+      "uc": "advertising_optimization",
+      "use": "AI advertising delivery targeting and measurement",
+      "sp": 3,
+      "inv": "yes",
+      "conf": "medium",
+      "review": "yes"
+    },
+    {
+      "i": 352,
+      "n": "Current AI discovery engine has improved engagement/monetization qualitatively; no numerical attribution for Stage 5.",
+      "st": 4,
+      "scope": "customer_facing_product",
+      "uc": "content_recommendation",
+      "use": "AI content ranking and discovery recommendation",
+      "sp": 3
+    },
+    {
+      "i": 353,
+      "n": "AI investment for content/advertising development with expected infrastructure increase; no new application.",
+      "inv": "yes",
+      "scope": "infrastructure_or_platform",
+      "f": "yes"
+    },
+    {
+      "i": 355,
+      "n": "Current AI-glasses delivery/sales corroborate Meta AI product provision. Reality Labs revenue changes include offsetting Quest sales and do not quantify the AI application effect.",
+      "st": 4,
+      "scope": "customer_facing_product",
+      "uc": "meta_ai_assistant",
+      "use": "Meta AI conversational and content assistant across surfaces",
+      "sp": 3,
+      "attr": "NA"
+    },
+    {
+      "i": 356,
+      "n": "Current AI-glasses delivery/sales corroborate Meta AI product provision. Reality Labs revenue changes include offsetting Quest sales and do not quantify the AI application effect.",
+      "st": 4,
+      "scope": "customer_facing_product",
+      "uc": "meta_ai_assistant",
+      "use": "Meta AI conversational and content assistant across surfaces",
+      "sp": 3,
+      "attr": "shared_drivers"
+    },
+    {
+      "i": 360,
+      "n": "Current AI-glasses delivery/sales corroborate Meta AI product provision. Reality Labs revenue changes include offsetting Quest sales and do not quantify the AI application effect.",
+      "st": 4,
+      "scope": "customer_facing_product",
+      "uc": "meta_ai_assistant",
+      "use": "Meta AI conversational and content assistant across surfaces",
+      "sp": 3,
+      "attr": "NA"
+    },
+    {
+      "i": 357,
+      "n": "R&D expense increase includes AI initiatives; expenditure is not a realized operational benefit.",
+      "inv": "yes",
+      "scope": "research_and_development",
+      "attr": "shared_drivers"
+    },
+    {
+      "i": 358,
+      "n": "Forecast AI/core-business capital expenditure range; no realized outcome or concrete application plan.",
+      "inv": "yes",
+      "scope": "infrastructure_or_platform",
+      "tmp": "planned",
+      "f": "yes",
+      "sp": 4
+    },
+    {
+      "i": 359,
+      "n": "Financing capacity and intended AI investment; no distinct implementation claim.",
+      "inv": "yes",
+      "f": "yes",
+      "scope": "infrastructure_or_platform"
+    },
+    {
+      "i": 361,
+      "n": "Asset definition: servers support AI efforts; not identifiable application adoption.",
+      "scope": "infrastructure_or_platform",
+      "inv": "yes"
+    },
+    {
+      "i": 362,
+      "n": "Minority Scale AI investment; dollar purchase value does not establish AI implementation or benefit.",
+      "scope": "partnership_or_investment",
+      "inv": "yes"
+    },
+    {
+      "i": 363,
+      "n": "Data-center co-development arrangement for future AI capacity; partnership investment, no operational AI task.",
+      "scope": "partnership_or_investment",
+      "inv": "yes",
+      "partner": "yes",
+      "tmp": "planned",
+      "f": "yes"
+    },
+    {
+      "i": 364,
+      "n": "Acquisition goodwill attributed partly to AI efforts; expected synergies are not realized application outcomes.",
+      "scope": "partnership_or_investment",
+      "inv": "yes",
+      "attr": "shared_drivers"
+    },
+    {
+      "i": 365,
+      "n": "Repeated AI/chatbot-related litigation, read with continuation.",
+      "risk": "regulatory|safety"
+    },
+    {
+      "i": 366,
+      "n": "Repeated AI training data litigation and fair-use ruling, not application outcomes.",
+      "risk": "intellectual_property|regulatory"
+    },
+    {
+      "i": 367,
+      "n": "Current Oracle cloud applications incorporate AI automation and analytics; product provision with task/product boundaries unresolved.",
+      "st": 4,
+      "scope": "customer_facing_product",
+      "use": "Oracle cloud AI automation and analytics suite; application boundaries unresolved",
+      "sp": 3
+    },
+    {
+      "i": 368,
+      "n": "Current Oracle cloud applications incorporate AI automation and analytics; product provision with task/product boundaries unresolved.",
+      "st": 4,
+      "scope": "customer_facing_product",
+      "use": "Oracle cloud AI automation and analytics suite; application boundaries unresolved",
+      "sp": 3
+    },
+    {
+      "i": 372,
+      "n": "Current Oracle cloud applications incorporate AI automation and analytics; product provision with task/product boundaries unresolved.",
+      "st": 4,
+      "scope": "customer_facing_product",
+      "use": "Oracle cloud AI automation and analytics suite; application boundaries unresolved",
+      "sp": 3
+    },
+    {
+      "i": 369,
+      "n": "Software-license catalogue with AI Database name alone; no AI task or actual deployment assertion.",
+      "scope": "customer_facing_product"
+    },
+    {
+      "i": 370,
+      "n": "Explicit AI incorporation direction for lean processes and innovation; internal OCA use is not specifically asserted to use AI.",
+      "st": 1,
+      "strategy": "yes",
+      "o": "efficiency|innovation",
+      "inv": "yes",
+      "sp": 2
+    },
+    {
+      "i": 371,
+      "n": "AI cloud business expansion strategy; cloud revenue shares are mixed product metrics, not attributable AI outcomes.",
+      "st": 1,
+      "strategy": "yes",
+      "o": "revenue_growth",
+      "sp": 2,
+      "attr": "shared_drivers"
+    },
+    {
+      "i": 373,
+      "n": "Database/infrastructure catalogue or deployment options; AI product name/workload support alone does not establish a distinct AI-operated task. Operational database AI is separately evidenced in parents 382–383.",
+      "scope": "infrastructure_or_platform",
+      "conf": "medium",
+      "review": "yes"
+    },
+    {
+      "i": 374,
+      "n": "Database/infrastructure catalogue or deployment options; AI product name/workload support alone does not establish a distinct AI-operated task. Operational database AI is separately evidenced in parents 382–383.",
+      "scope": "infrastructure_or_platform",
+      "conf": "medium",
+      "review": "yes"
+    },
+    {
+      "i": 378,
+      "n": "Database/infrastructure catalogue or deployment options; AI product name/workload support alone does not establish a distinct AI-operated task. Operational database AI is separately evidenced in parents 382–383.",
+      "scope": "infrastructure_or_platform",
+      "conf": "medium",
+      "review": "yes"
+    },
+    {
+      "i": 379,
+      "n": "Database/infrastructure catalogue or deployment options; AI product name/workload support alone does not establish a distinct AI-operated task. Operational database AI is separately evidenced in parents 382–383.",
+      "scope": "infrastructure_or_platform",
+      "conf": "medium",
+      "review": "yes"
+    },
+    {
+      "i": 385,
+      "n": "Database/infrastructure catalogue or deployment options; AI product name/workload support alone does not establish a distinct AI-operated task. Operational database AI is separately evidenced in parents 382–383.",
+      "scope": "infrastructure_or_platform",
+      "conf": "medium",
+      "review": "yes"
+    },
+    {
+      "i": 387,
+      "n": "Database/infrastructure catalogue or deployment options; AI product name/workload support alone does not establish a distinct AI-operated task. Operational database AI is separately evidenced in parents 382–383.",
+      "scope": "infrastructure_or_platform",
+      "conf": "medium",
+      "review": "yes"
+    },
+    {
+      "i": 388,
+      "n": "Database/infrastructure catalogue or deployment options; AI product name/workload support alone does not establish a distinct AI-operated task. Operational database AI is separately evidenced in parents 382–383.",
+      "scope": "infrastructure_or_platform",
+      "conf": "medium",
+      "review": "yes"
+    },
+    {
+      "i": 389,
+      "n": "Database/infrastructure catalogue or deployment options; AI product name/workload support alone does not establish a distinct AI-operated task. Operational database AI is separately evidenced in parents 382–383.",
+      "scope": "infrastructure_or_platform",
+      "conf": "medium",
+      "review": "yes"
+    },
+    {
+      "i": 375,
+      "n": "OCI currently supplies AI training/inference infrastructure and hosted database offerings; same compute application as detailed compute disclosure.",
+      "st": 4,
+      "scope": "infrastructure_or_platform",
+      "uc": "oci_ai_compute",
+      "use": "OCI AI training and inference compute",
+      "sp": 3,
+      "inv": "yes"
+    },
+    {
+      "i": 376,
+      "n": "OCI currently offers AI predictive application services; examples describe vendor-supported applications, not confirmed customer production use. Suite-level application avoids inferred deployments for every example.",
+      "st": 4,
+      "scope": "customer_facing_product",
+      "uc": "oci_ai_prediction",
+      "use": "OCI embedded predictive AI services",
+      "sp": 3,
+      "conf": "medium",
+      "review": "yes"
+    },
+    {
+      "i": 377,
+      "n": "Current OCI GPU/bare-metal compute provision for AI training/inference.",
+      "st": 4,
+      "scope": "infrastructure_or_platform",
+      "uc": "oci_ai_compute",
+      "use": "OCI AI training and inference compute",
+      "sp": 3
+    },
+    {
+      "i": 380,
+      "n": "Sovereign-cloud AI provision addresses regulatory environments; concrete AI application not identified.",
+      "scope": "infrastructure_or_platform"
+    },
+    {
+      "i": 381,
+      "n": "AI Database heading alone has no evidence statement.",
+      "r": "context_only",
+      "firm": "no",
+      "tmp": "unclear"
+    },
+    {
+      "i": 382,
+      "n": "Currently offered Autonomous AI Database uses ML for routine database optimization, diagnostics and threat remediation; availability corroborated by next parent.",
+      "st": 4,
+      "scope": "customer_facing_product",
+      "uc": "autonomous_database",
+      "use": "Autonomous AI Database operational optimization and diagnostics",
+      "sp": 3,
+      "tech": "traditional_ml"
+    },
+    {
+      "i": 383,
+      "n": "Explicit current availability of Autonomous AI Database; same database application.",
+      "st": 4,
+      "scope": "customer_facing_product",
+      "uc": "autonomous_database",
+      "use": "Autonomous AI Database operational optimization and diagnostics",
+      "sp": 4
+    },
+    {
+      "i": 383,
+      "n": "Currently included APEX AI Assistant in low-code development service; identified product task.",
+      "q": "Oracle Autonomous AI Database includes",
+      "end": "cloud-native applications.",
+      "st": 4,
+      "scope": "customer_facing_product",
+      "uc": "apex_assistant",
+      "use": "APEX AI-assisted application development",
+      "sp": 3
+    },
+    {
+      "i": 384,
+      "n": "Currently offered database ML/AI analytics capabilities; one analytics task group distinct from administration.",
+      "st": 4,
+      "scope": "customer_facing_product",
+      "uc": "database_analytics",
+      "use": "Autonomous AI Database analytics",
+      "sp": 3
+    },
+    {
+      "i": 386,
+      "n": "Recent database releases explicitly offer AI vector search, Select AI and agent factory; one enterprise-data GenAI product function group.",
+      "st": 4,
+      "scope": "customer_facing_product",
+      "uc": "database_genai",
+      "use": "Oracle AI Database enterprise-data GenAI search and agents",
+      "sp": 3,
+      "tech": "genai"
+    },
+    {
+      "i": 390,
+      "n": "AI employee learning topics and aggregate all-topic training hours; no explicit AI strategic objective or AI tool use.",
+      "scope": "internal_operations"
+    },
+    {
+      "i": 391,
+      "n": "Forward-looking topic listing of AI development/access ability, without substantive intended action.",
+      "r": "context_only",
+      "firm": "no",
+      "tmp": "unclear"
+    },
+    {
+      "i": 392,
+      "n": "AI product operation failure risk.",
+      "risk": "model_quality|financial|reputational",
+      "tmp": "hypothetical"
+    },
+    {
+      "i": 393,
+      "n": "AI growth strategy and resource investment with product performance, partner and monetization uncertainty; no distinct deployment identified.",
+      "st": 1,
+      "strategy": "yes",
+      "o": "revenue_growth",
+      "inv": "yes",
+      "risk": "competitive|financial|third_party|model_quality",
+      "sp": 2
+    },
+    {
+      "i": 394,
+      "n": "Continuation of AI investment shortfall competitive risk.",
+      "risk": "competitive",
+      "tmp": "hypothetical"
+    },
+    {
+      "i": 395,
+      "n": "AI bias, training data, privacy, rights and output quality risks; hypothetical frameworks are not established controls.",
+      "risk": "bias|privacy|intellectual_property|model_quality|reputational",
+      "tmp": "hypothetical"
+    },
+    {
+      "i": 396,
+      "n": "AI regulatory restrictions, localization and compliance uncertainty.",
+      "risk": "regulatory",
+      "tmp": "hypothetical"
+    },
+    {
+      "i": 397,
+      "n": "AI compute energy demand and data-center supplier/financing constraints.",
+      "scope": "infrastructure_or_platform",
+      "risk": "capacity|financial|third_party"
+    },
+    {
+      "i": 398,
+      "n": "AI accelerator supply competition, excess inventory and failure risks.",
+      "scope": "infrastructure_or_platform",
+      "risk": "capacity|financial|third_party"
+    },
+    {
+      "i": 399,
+      "n": "AI adoption/deployment across operations has already reduced workforce; current implementation asserted but tasks unspecified, no numerical outcome.",
+      "st": 4,
+      "scope": "internal_operations",
+      "use": "Internal AI operational integration; functions unspecified",
+      "risk": "workforce",
+      "sp": 2,
+      "conf": "medium",
+      "review": "yes"
+    },
+    {
+      "i": 400,
+      "n": "AI personnel competition and potential reskilling failures.",
+      "risk": "workforce"
+    }
+  ],
+  "changes": {},
+  "contextual_reviews": [
+    {
+      "index": 351,
+      "passage_id": "META_10K_2026-01-29:L1256:a6a610b71c53eb1e",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 352,
+      "passage_id": "META_10K_2026-01-29:L1266:2817fc275579d987",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 353,
+      "passage_id": "META_10K_2026-01-29:L1273:fbe379e2e30954b0",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 354,
+      "passage_id": "META_10K_2026-01-29:L1297:3d17081822f128b8",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 355,
+      "passage_id": "META_10K_2026-01-29:L1375:52e8767a15479ea4",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 356,
+      "passage_id": "META_10K_2026-01-29:L1461:136d8ceb5c9af37d",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 357,
+      "passage_id": "META_10K_2026-01-29:L1494:b4fd570010cacf66",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 358,
+      "passage_id": "META_10K_2026-01-29:L1609:c9d8a8c5df30c68e",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 359,
+      "passage_id": "META_10K_2026-01-29:L1645:4a4199e1fb77c1fb",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 360,
+      "passage_id": "META_10K_2026-01-29:L2072:7802514c858e0ff3",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 361,
+      "passage_id": "META_10K_2026-01-29:L2179:163b464e1da28555",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 362,
+      "passage_id": "META_10K_2026-01-29:L2426:3cae5494749741a3",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 363,
+      "passage_id": "META_10K_2026-01-29:L2430:c12adf8ca786ca94",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 364,
+      "passage_id": "META_10K_2026-01-29:L2530:b19cae676170b716",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 365,
+      "passage_id": "META_10K_2026-01-29:L2690:db3f86e7d1996500",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 366,
+      "passage_id": "META_10K_2026-01-29:L2701:c3db584eb4d42fd3",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 367,
+      "passage_id": "ORCL_10K_2026-06-22:L137:ec3a5042fb06aa59",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 368,
+      "passage_id": "ORCL_10K_2026-06-22:L139:aa1a993ec84ec74e",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 369,
+      "passage_id": "ORCL_10K_2026-06-22:L153:1756bd05a6d7b78b",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 370,
+      "passage_id": "ORCL_10K_2026-06-22:L162:1e692ae730cdf96a",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 371,
+      "passage_id": "ORCL_10K_2026-06-22:L172:2bd66ad7cd22291a",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 372,
+      "passage_id": "ORCL_10K_2026-06-22:L204:67fa6729ce48ca20",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 373,
+      "passage_id": "ORCL_10K_2026-06-22:L212:cd31448bd1558c02",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 374,
+      "passage_id": "ORCL_10K_2026-06-22:L217:e58e7237964523cf",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 375,
+      "passage_id": "ORCL_10K_2026-06-22:L221:70ce35611ba5956a",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 376,
+      "passage_id": "ORCL_10K_2026-06-22:L223:1248ac39453718dd",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 377,
+      "passage_id": "ORCL_10K_2026-06-22:L225:c491b2cbe4bdb81d",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 378,
+      "passage_id": "ORCL_10K_2026-06-22:L232:557564b4e0c95781",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 379,
+      "passage_id": "ORCL_10K_2026-06-22:L234:de12c10f7b1a7b0b",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 380,
+      "passage_id": "ORCL_10K_2026-06-22:L238:4a8cfe6617152f87",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 381,
+      "passage_id": "ORCL_10K_2026-06-22:L244:9af88809581c93a7",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 382,
+      "passage_id": "ORCL_10K_2026-06-22:L246:f8984b4f9d8fe13d",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 383,
+      "passage_id": "ORCL_10K_2026-06-22:L248:1c9f0c3ea47a3ec7",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 384,
+      "passage_id": "ORCL_10K_2026-06-22:L250:95bb18928e29c1a9",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 385,
+      "passage_id": "ORCL_10K_2026-06-22:L255:e90e5bcceee9ce1b",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 386,
+      "passage_id": "ORCL_10K_2026-06-22:L257:120d67039266e428",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 387,
+      "passage_id": "ORCL_10K_2026-06-22:L261:90d852c1bbbc04c2",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 388,
+      "passage_id": "ORCL_10K_2026-06-22:L269:fb2ed0f56a0c7d11",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 389,
+      "passage_id": "ORCL_10K_2026-06-22:L272:b1e5ee5810f7a3d3",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 390,
+      "passage_id": "ORCL_10K_2026-06-22:L338:bab966921cb35293",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 391,
+      "passage_id": "ORCL_10K_2026-06-22:L366:8a26e45adf5d975c",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 392,
+      "passage_id": "ORCL_10K_2026-06-22:L438:1b63bbf55dd4c23a",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 393,
+      "passage_id": "ORCL_10K_2026-06-22:L548:0bdd990074685899",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 394,
+      "passage_id": "ORCL_10K_2026-06-22:L551:9441360757810586",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 395,
+      "passage_id": "ORCL_10K_2026-06-22:L553:ba78439a8493bc99",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 396,
+      "passage_id": "ORCL_10K_2026-06-22:L555:d1735369fc5fa61d",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 397,
+      "passage_id": "ORCL_10K_2026-06-22:L568:2a045c5ff95aeb90",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 398,
+      "passage_id": "ORCL_10K_2026-06-22:L577:e83192ebffc8c809",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 399,
+      "passage_id": "ORCL_10K_2026-06-22:L597:06fc67af7814d39a",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 400,
+      "passage_id": "ORCL_10K_2026-06-22:L601:a6483beba8c6e0fe",
+      "decision": "fresh contextual judgments"
+    }
+  ]
+}

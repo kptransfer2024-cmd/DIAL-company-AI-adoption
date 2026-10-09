@@ -1,0 +1,410 @@
+{
+  "start": 201,
+  "end": 251,
+  "new_judgments": [
+    {
+      "i": 237,
+      "n": "Continuing AI-first corporate direction, without a concrete application.",
+      "st": 1,
+      "strategy": "yes",
+      "o": "innovation|competitive_positioning",
+      "sp": 1
+    },
+    {
+      "i": 238,
+      "n": "Centralized frontier-model R&D organizational resources; no actual pilot or distinct deployment.",
+      "scope": "research_and_development",
+      "inv": "yes"
+    },
+    {
+      "i": 239,
+      "n": "Section heading alone has no independently interpretable claim.",
+      "r": "context_only",
+      "firm": "no",
+      "actor": "industry",
+      "tmp": "unclear"
+    },
+    {
+      "i": 240,
+      "n": "Explicit full-stack responsible AI strategic objective; no concrete intended task.",
+      "st": 1,
+      "strategy": "yes",
+      "o": "innovation|responsible_ai",
+      "tmp": "planned",
+      "f": "yes",
+      "sp": 2
+    },
+    {
+      "i": 241,
+      "n": "Currently offered TPU/GPU AI compute infrastructure; provider scope rather than internal workflow adoption.",
+      "st": 4,
+      "scope": "infrastructure_or_platform",
+      "uc": "ai_compute",
+      "use": "Google Cloud AI training and serving compute",
+      "sp": 4,
+      "inv": "yes"
+    },
+    {
+      "i": 242,
+      "n": "Gemini 3 currently integrates multimodal reasoning into Search and Gemini app; model-level product evidence.",
+      "st": 4,
+      "scope": "customer_facing_product",
+      "uc": "gemini_model",
+      "use": "Gemini multimodal reasoning model provision",
+      "sp": 3,
+      "tech": "genai"
+    },
+    {
+      "i": 243,
+      "n": "Current cross-product Gemini integration; reported user/product counts are deployment scale, not realized outcomes.",
+      "st": 4,
+      "scope": "customer_facing_product",
+      "use": "Gemini integration across product portfolio; distinct tasks unspecified",
+      "sp": 4,
+      "tech": "genai"
+    },
+    {
+      "i": 244,
+      "n": "Responsible AI principles and explicit corporate development direction.",
+      "st": 1,
+      "strategy": "yes",
+      "o": "responsible_ai",
+      "gov": "yes",
+      "sp": 1
+    },
+    {
+      "i": 245,
+      "n": "Current paid autonomous Waymo ride-hailing in multiple cities; AI context established by parent.",
+      "q": "In Other Bets,",
+      "end": "in multiple cities.",
+      "st": 4,
+      "scope": "customer_facing_product",
+      "uc": "waymo_rides",
+      "use": "Waymo autonomous paid ride-hailing",
+      "sp": 4
+    },
+    {
+      "i": 245,
+      "n": "Isomorphic Labs reports applying AI to drug development; present R&D workflow use, with experimental boundaries unclear.",
+      "q": "Isomorphic Labs",
+      "end": "new medicines.",
+      "st": 4,
+      "scope": "research_and_development",
+      "uc": "isomorphic_drug_discovery",
+      "use": "Isomorphic Labs AI drug discovery",
+      "sp": 3,
+      "conf": "medium",
+      "review": "yes"
+    },
+    {
+      "i": 245,
+      "n": "Explicit long-term AI product investment direction does not specify an intended application.",
+      "q": "We continue to look",
+      "st": 1,
+      "strategy": "yes",
+      "o": "innovation",
+      "inv": "yes",
+      "f": "yes",
+      "tmp": "planned"
+    },
+    {
+      "i": 246,
+      "n": "Search currently provides AI Overviews and AI Mode responses using Gemini; combined search task avoids feature double counting.",
+      "st": 4,
+      "scope": "customer_facing_product",
+      "uc": "search_ai",
+      "use": "Google Search AI responses and reasoning",
+      "sp": 3,
+      "tech": "genai"
+    },
+    {
+      "i": 247,
+      "n": "Current Pixel device family expresses AI/software/hardware offering, but individual AI tasks not disclosed.",
+      "st": 1,
+      "strategy": "yes",
+      "o": "innovation|customer_experience",
+      "scope": "customer_facing_product",
+      "sp": 2
+    },
+    {
+      "i": 248,
+      "n": "Currently named advertising AI product suite finds conversion opportunities; suite counted once at disclosed task granularity.",
+      "st": 4,
+      "scope": "customer_facing_product",
+      "uc": "advertising_optimization",
+      "use": "Demand Gen / Performance Max / Product Studio advertising AI suite",
+      "sp": 3
+    },
+    {
+      "i": 249,
+      "n": "Currently offered AI accelerator and software infrastructure; same Cloud compute application as earlier disclosure.",
+      "st": 4,
+      "scope": "infrastructure_or_platform",
+      "uc": "ai_compute",
+      "use": "Google Cloud AI training and serving compute",
+      "sp": 3
+    },
+    {
+      "i": 250,
+      "n": "Vertex AI currently delivers a managed custom model and agent development platform; 200 models is scale.",
+      "st": 4,
+      "scope": "customer_facing_product",
+      "uc": "vertex_ai",
+      "use": "Vertex AI custom model and agent development",
+      "sp": 4
+    }
+  ],
+  "changes": {},
+  "contextual_reviews": [
+    {
+      "index": 201,
+      "passage_id": "CRM_10K_2026-03-02:L601:2658341df166da30",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 202,
+      "passage_id": "CRM_10K_2026-03-02:L607:8f0f79f86d07c9a4",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 203,
+      "passage_id": "CRM_10K_2026-03-02:L634:d902678f9cf8f71b",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 204,
+      "passage_id": "CRM_10K_2026-03-02:L638:f1eba903246ca280",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 205,
+      "passage_id": "CRM_10K_2026-03-02:L640:730e6994d6693321",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 206,
+      "passage_id": "CRM_10K_2026-03-02:L655:5e2ae23bd33c1f20",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 207,
+      "passage_id": "CRM_10K_2026-03-02:L661:bd4e7b71d46cd7e2",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 208,
+      "passage_id": "CRM_10K_2026-03-02:L670:88994f5b7ac172c4",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 209,
+      "passage_id": "CRM_10K_2026-03-02:L672:3ef6790e2bd93be1",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 210,
+      "passage_id": "CRM_10K_2026-03-02:L674:49da9e75b643773b",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 211,
+      "passage_id": "CRM_10K_2026-03-02:L676:eaa8eaa93e22a92c",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 212,
+      "passage_id": "CRM_10K_2026-03-02:L678:81d50edc175477d7",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 213,
+      "passage_id": "CRM_10K_2026-03-02:L680:fdfeaad13e92c6ed",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 214,
+      "passage_id": "CRM_10K_2026-03-02:L682:a9415ca7091b441b",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 215,
+      "passage_id": "CRM_10K_2026-03-02:L685:9d95b1e38a7fac52",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 216,
+      "passage_id": "CRM_10K_2026-03-02:L687:f1535c557a6d4833",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 217,
+      "passage_id": "CRM_10K_2026-03-02:L695:2b28398a8f662e7d",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 218,
+      "passage_id": "CRM_10K_2026-03-02:L699:1ffdd9166900b51c",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 219,
+      "passage_id": "CRM_10K_2026-03-02:L712:86be79fa90bd78ac",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 220,
+      "passage_id": "CRM_10K_2026-03-02:L716:5a5faeb5d8d1536d",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 221,
+      "passage_id": "CRM_10K_2026-03-02:L723:3a1c3a4fae47d93d",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 222,
+      "passage_id": "CRM_10K_2026-03-02:L744:bf30fc3ca9693480",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 223,
+      "passage_id": "CRM_10K_2026-03-02:L757:5cef557eaba1edc3",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 224,
+      "passage_id": "CRM_10K_2026-03-02:L824:e0cea31a90387eb8",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 225,
+      "passage_id": "CRM_10K_2026-03-02:L861:03455142746dacfd",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 226,
+      "passage_id": "CRM_10K_2026-03-02:L1050:d15d929ab87aa222",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 227,
+      "passage_id": "CRM_10K_2026-03-02:L1073:eb2127f0edd769c3",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 228,
+      "passage_id": "CRM_10K_2026-03-02:L1075:46181b02c54ca58c",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 229,
+      "passage_id": "CRM_10K_2026-03-02:L1314:db3627a54e8183f5",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 230,
+      "passage_id": "CRM_10K_2026-03-02:L1332:8ac59b3b1550f1a5",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 231,
+      "passage_id": "CRM_10K_2026-03-02:L1336:c8e72117ac3eebd3",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 232,
+      "passage_id": "CRM_10K_2026-03-02:L1340:d172d1dd591c2f49",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 233,
+      "passage_id": "CRM_10K_2026-03-02:L1355:78c9fa88d222a97a",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 234,
+      "passage_id": "CRM_10K_2026-03-02:L1909:ca3b3180eb25c7ff",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 235,
+      "passage_id": "CRM_10K_2026-03-02:L2502:2240511fc1c95b3b",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 236,
+      "passage_id": "CRM_10K_2026-03-02:L2506:79c2f7259670f04a",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 237,
+      "passage_id": "GOOGL_10K_2026-02-05:L169:3892131e7cf7e0bf",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 238,
+      "passage_id": "GOOGL_10K_2026-02-05:L171:66a3432c3561fc72",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 239,
+      "passage_id": "GOOGL_10K_2026-02-05:L183:424a68977446123f",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 240,
+      "passage_id": "GOOGL_10K_2026-02-05:L185:b2d0e2995127da00",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 241,
+      "passage_id": "GOOGL_10K_2026-02-05:L187:292e0da95d3acac6",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 242,
+      "passage_id": "GOOGL_10K_2026-02-05:L189:0e0f2143dafa9766",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 243,
+      "passage_id": "GOOGL_10K_2026-02-05:L191:7ffd92f65e80e667",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 244,
+      "passage_id": "GOOGL_10K_2026-02-05:L193:9ba1267281163e7f",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 245,
+      "passage_id": "GOOGL_10K_2026-02-05:L199:3c9075a82688c9fe",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 246,
+      "passage_id": "GOOGL_10K_2026-02-05:L219:428b5b903fd434bf",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 247,
+      "passage_id": "GOOGL_10K_2026-02-05:L223:1c3afb8a52cd770f",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 248,
+      "passage_id": "GOOGL_10K_2026-02-05:L227:2d187b85fe8c829b",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 249,
+      "passage_id": "GOOGL_10K_2026-02-05:L253:62510b19b8724554",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 250,
+      "passage_id": "GOOGL_10K_2026-02-05:L255:e69b60eb468dd67e",
+      "decision": "fresh contextual judgments"
+    }
+  ]
+}

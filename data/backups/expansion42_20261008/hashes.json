@@ -1,0 +1,13 @@
+{
+  "README.md": "d50593130e8c5ef083d4848aa960e03b8e6da0367c90dc8e3fe6605fe88ab4c6",
+  "AI_Annotation_First_Pass_Report.md": "6ffd11621a05e5ab2944a55c0dce8eec48fd4800107d29b1479fa7e7cc349b7d",
+  "document_metrics.ipynb": "43c88334a73778ddf07187ba7a263f57295e5c869248ceb82faf37819f71eddf",
+  "Protocol.md": "6174872d08cb8a3c43c92c810d362aca90a9d78070c60fe8ac358635a2d99f40",
+  "data/sources_downloaded.csv": "f8efd80c5439fb8463f08d7f86a4f4d5c81dd1022f41ac90c6f09da5f38708f6",
+  "data/ai_passages.csv": "9d15741f8e238651116f94b5df11c2a0883c704fa6459d440ff8cad197301591",
+  "data/document_metrics.csv": "62d3eb9d903cf46f5d456f7331f2e77850554c3a95e8a2ab1f116e1f997e3615",
+  "data/ai_annotations.csv": "26bc0fac1970ec3d4588ac271e6bc9b0c9b6cfe923f2654d6ab7945c10415fd5",
+  "src_code/1_download.py": "7525dff98627a0762ab9e56d82e1aecd39b7cb8dde37d2c7165f6205ba425001",
+  "src_code/2_extract_ai.py": "8fac1e70540c935b88ab839414a8502f6c4dc6549ba555d8c8661e9da3220b60",
+  "src_code/3_document_metrics.py": "ca0b5d859645b4a8404c3942c72db39dc210966a2524926d3b9c0965240279a9"
+}

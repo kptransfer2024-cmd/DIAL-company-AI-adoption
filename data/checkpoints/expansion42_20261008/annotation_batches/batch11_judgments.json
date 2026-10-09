@@ -1,0 +1,536 @@
+{
+  "start": 501,
+  "end": 551,
+  "new_judgments": [
+    {
+      "i": 513,
+      "n": "AWS currently offers generic AI/ML services; preserve provider scope distinct from retail, but no identifiable application task in this catalogue.",
+      "scope": "infrastructure_or_platform"
+    },
+    {
+      "i": 533,
+      "n": "AWS currently offers generic AI/ML services; preserve provider scope distinct from retail, but no identifiable application task in this catalogue.",
+      "scope": "infrastructure_or_platform"
+    },
+    {
+      "i": 514,
+      "n": "AI shopping and infrastructure competitors create focal competitive exposure.",
+      "risk": "competitive"
+    },
+    {
+      "i": 515,
+      "n": "AI/ML technical personnel competition.",
+      "risk": "workforce"
+    },
+    {
+      "i": 516,
+      "n": "AI Fund in a director biography is a proper-name match, not focal-firm AI evidence.",
+      "r": "irrelevant",
+      "firm": "no",
+      "actor": "other",
+      "tmp": "unclear"
+    },
+    {
+      "i": 517,
+      "n": "AI and ML increase competitive entry and comparison shopping.",
+      "risk": "competitive"
+    },
+    {
+      "i": 518,
+      "n": "AI development/adoption investments may fail to deliver benefits; neither particular task nor actual current deployed status specified.",
+      "inv": "yes",
+      "risk": "financial",
+      "tmp": "hypothetical"
+    },
+    {
+      "i": 519,
+      "n": "Focal/customer AI development creates infringement exposure.",
+      "risk": "intellectual_property"
+    },
+    {
+      "i": 520,
+      "n": "Explicit present adopting and utilizing AI/ML in expanding operations; deployment asserted broadly, scope/tasks unresolved rather than inferred retail-only.",
+      "st": 4,
+      "scope": "unclear_or_other",
+      "use": "Broad AI/ML utilization across operations; tasks and scope unspecified",
+      "sp": 2,
+      "risk": "operational",
+      "conf": "medium",
+      "review": "yes"
+    },
+    {
+      "i": 521,
+      "n": "AI/ML usage-rate changes listed as business exposure, not focal intended application.",
+      "risk": "financial",
+      "tmp": "hypothetical"
+    },
+    {
+      "i": 522,
+      "n": "Public perceptions of AI development/use create reputation exposure.",
+      "risk": "reputational",
+      "tmp": "hypothetical"
+    },
+    {
+      "i": 523,
+      "n": "Actual third-party AI-technology dependency and potential AI-enabled cyber breaches; functions pooled, no concrete AI task disclosed.",
+      "risk": "cybersecurity|third_party"
+    },
+    {
+      "i": 524,
+      "n": "Repeated AI/ML skilled-personnel recruitment risk.",
+      "risk": "workforce"
+    },
+    {
+      "i": 525,
+      "n": "Limited semiconductor/GPU suppliers constrain AI infrastructure.",
+      "scope": "infrastructure_or_platform",
+      "risk": "capacity|third_party"
+    },
+    {
+      "i": 526,
+      "n": "AI technology trends in stock/business risk list; no implementation assertion.",
+      "risk": "financial",
+      "tmp": "hypothetical"
+    },
+    {
+      "i": 527,
+      "n": "AI service laws and enforcement exposure.",
+      "risk": "regulatory"
+    },
+    {
+      "i": 528,
+      "n": "Actual and threatened proceedings cover AI technologies/services.",
+      "risk": "regulatory"
+    },
+    {
+      "i": 529,
+      "n": "Explicit current processes oversee cybersecurity risks of third-party AI technologies; retain governance evidence with NA adoption stage.",
+      "gov": "yes",
+      "risk": "cybersecurity|third_party",
+      "sp": 3
+    },
+    {
+      "i": 530,
+      "n": "Explicit AI/ML investment direction for customer experience, efficiency and growth, with AWS provider scope preserved; generic services/autonomous-vehicle development do not establish distinct AI deployment here.",
+      "st": 1,
+      "strategy": "yes",
+      "o": "efficiency|customer_experience",
+      "inv": "yes",
+      "scope": "infrastructure_or_platform",
+      "sp": 2,
+      "f": "yes"
+    },
+    {
+      "i": 531,
+      "n": "AI initiatives and adoption uncertainty affect mixed operating results; intended extra investments are resources, not application outcomes.",
+      "inv": "yes",
+      "risk": "financial",
+      "f": "yes"
+    },
+    {
+      "i": 532,
+      "n": "Technology/infrastructure expense and future AI investment; foreign-exchange expense is unrelated to AI outcomes.",
+      "inv": "yes",
+      "scope": "infrastructure_or_platform",
+      "f": "yes"
+    },
+    {
+      "i": 534,
+      "n": "AI/ML development prompts server useful-life accounting change; resulting depreciation/net-income numbers are accounting effects, not attributable AI application benefits.",
+      "scope": "infrastructure_or_platform",
+      "attr": "ai_general",
+      "sp": 4
+    },
+    {
+      "i": 535,
+      "n": "Abbreviation glossary defines AI; no substantive focal evidence.",
+      "r": "context_only",
+      "firm": "no",
+      "tmp": "unclear"
+    },
+    {
+      "i": 536,
+      "n": "AI-enabled competition and comparison shopping.",
+      "risk": "competitive"
+    },
+    {
+      "i": 537,
+      "n": "Focal firm explicitly currently leverages AI for online search/recommendations/chat.",
+      "q": "In addition, we are leveraging",
+      "end": "materials lists and quotes.",
+      "st": 4,
+      "scope": "customer_facing_product",
+      "uc": "shopping_search",
+      "use": "AI shopping search and recommendation features",
+      "sp": 3
+    },
+    {
+      "i": 537,
+      "n": "Magic Apron explicitly currently offered for product/project inquiries; supports customers and associates, internal associate use itself not separately asserted.",
+      "q": "In addition, we are leveraging",
+      "end": "materials lists and quotes.",
+      "st": 4,
+      "scope": "customer_facing_product",
+      "uc": "magic_apron",
+      "use": "Magic Apron product and project inquiry assistance",
+      "sp": 3
+    },
+    {
+      "i": 537,
+      "n": "Currently offered Blueprint Takeoffs and Material List Builder generate project materials/quotes; one disclosed task suite rather than inferred independent underlying models.",
+      "q": "In addition, we are leveraging",
+      "end": "materials lists and quotes.",
+      "st": 4,
+      "scope": "customer_facing_product",
+      "uc": "project_materials",
+      "use": "AI project materials-list and quote generation",
+      "sp": 3
+    },
+    {
+      "i": 538,
+      "n": "Current ship-from-best-location initiative leverages ML to route orders to fulfillment nodes; speed objectives are not realized numerical benefits.",
+      "q": "Our 'ship from best location'",
+      "end": "optimal fulfillment node.",
+      "st": 4,
+      "scope": "internal_operations",
+      "uc": "fulfillment_routing",
+      "use": "ML order-to-fulfillment-node routing",
+      "sp": 3,
+      "tech": "traditional_ml"
+    },
+    {
+      "i": 539,
+      "n": "Repeated AI competitive entry disclosure.",
+      "risk": "competitive"
+    },
+    {
+      "i": 540,
+      "n": "AI/data privacy regulation constrains customer personalization data.",
+      "risk": "regulatory|privacy"
+    },
+    {
+      "i": 541,
+      "n": "Third-party generative/agentic shopping shifts could disrupt retail channels.",
+      "risk": "competitive",
+      "tmp": "hypothetical"
+    },
+    {
+      "i": 542,
+      "n": "AI initiative implementation costs, disruption and uncertain returns; no actual experiment asserted.",
+      "inv": "yes",
+      "risk": "operational|financial",
+      "tmp": "hypothetical"
+    },
+    {
+      "i": 543,
+      "n": "Broad technology investments include AI testing/development/deployment lifecycle; no particular actual pilot or routine application established in this list.",
+      "scope": "research_and_development",
+      "inv": "yes",
+      "risk": "operational|cybersecurity|financial",
+      "conf": "medium",
+      "review": "yes"
+    },
+    {
+      "i": 544,
+      "n": "Normative response to customer needs includes AI tools; broad customer experience direction rather than a concrete intended task.",
+      "st": 1,
+      "strategy": "yes",
+      "o": "customer_experience",
+      "scope": "customer_facing_product",
+      "risk": "operational",
+      "sp": 2
+    },
+    {
+      "i": 545,
+      "n": "AI can enable malicious actors and novel attacks.",
+      "risk": "cybersecurity",
+      "tmp": "hypothetical"
+    },
+    {
+      "i": 546,
+      "n": "Evolving AI/privacy rules raise costs and enforcement exposure.",
+      "risk": "regulatory|privacy"
+    },
+    {
+      "i": 547,
+      "n": "Threat actors use AI for payment fraud.",
+      "risk": "cybersecurity|financial",
+      "tmp": "hypothetical"
+    },
+    {
+      "i": 548,
+      "n": "AI/ML technological change affects retail competition.",
+      "risk": "competitive"
+    },
+    {
+      "i": 549,
+      "n": "Continued implementation of advanced AI customer-service tools for sales associates; current routine support, not merely a planned introduction.",
+      "st": 4,
+      "scope": "internal_operations",
+      "uc": "associate_customer_service",
+      "use": "AI sales-associate customer service assistance",
+      "sp": 3,
+      "conf": "medium",
+      "review": "yes"
+    },
+    {
+      "i": 550,
+      "n": "Competitor AI/ML utilization may disadvantage focal retailer.",
+      "risk": "competitive",
+      "tmp": "hypothetical"
+    }
+  ],
+  "changes": {},
+  "contextual_reviews": [
+    {
+      "index": 501,
+      "passage_id": "TGT_10K_2026-03-11:L354:2b6c743f6d28806a",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 502,
+      "passage_id": "TGT_10K_2026-03-11:L392:115fbfda0734a428",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 503,
+      "passage_id": "TGT_10K_2026-03-11:L416:fbc8e0f81670c2d7",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 504,
+      "passage_id": "TGT_10K_2026-03-11:L444:c334f6ffb6fc4d22",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 505,
+      "passage_id": "TGT_10K_2026-03-11:L470:5761d19cfe5ec55e",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 506,
+      "passage_id": "TGT_10K_2026-03-11:L686:14b8d9ba05cd0e9b",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 507,
+      "passage_id": "TGT_10K_2026-03-11:L692:e678cf72305d8ce3",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 508,
+      "passage_id": "COST_10K_2026-10-07:L313:8deef50aa49c0e75",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 509,
+      "passage_id": "COST_10K_2026-10-07:L317:221cda69cb79941a",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 510,
+      "passage_id": "COST_10K_2026-10-07:L322:31999f8b5c0dcb25",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 511,
+      "passage_id": "COST_10K_2026-10-07:L356:aadc04e7fc4f0729",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 512,
+      "passage_id": "COST_10K_2026-10-07:L400:927d65f9e3858470",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 513,
+      "passage_id": "AMZN_10K_2026-02-06:L165:c6813fa3ce49de6a",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 514,
+      "passage_id": "AMZN_10K_2026-02-06:L178:72a51ca158267a55",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 515,
+      "passage_id": "AMZN_10K_2026-02-06:L190:1568e5efa017a492",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 516,
+      "passage_id": "AMZN_10K_2026-02-06:L232:fb345d103ae5bebc",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 517,
+      "passage_id": "AMZN_10K_2026-02-06:L258:9bb4dbdb0c554f90",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 518,
+      "passage_id": "AMZN_10K_2026-02-06:L265:ea0e15f61da4c12f",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 519,
+      "passage_id": "AMZN_10K_2026-02-06:L331:3e95e41aff055113",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 520,
+      "passage_id": "AMZN_10K_2026-02-06:L343:4ed0cbfc85215b70",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 521,
+      "passage_id": "AMZN_10K_2026-02-06:L362:20e35f1cc34ca21d",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 522,
+      "passage_id": "AMZN_10K_2026-02-06:L378:5b9bb532d04d9ace",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 523,
+      "passage_id": "AMZN_10K_2026-02-06:L413:640a6c162f92616a",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 524,
+      "passage_id": "AMZN_10K_2026-02-06:L424:99c14bf437d4a30f",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 525,
+      "passage_id": "AMZN_10K_2026-02-06:L432:105444c8c90cbc40",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 526,
+      "passage_id": "AMZN_10K_2026-02-06:L504:02411be97a149bfd",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 527,
+      "passage_id": "AMZN_10K_2026-02-06:L527:6351e8423b221c1d",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 528,
+      "passage_id": "AMZN_10K_2026-02-06:L531:4f146e57e71c3756",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 529,
+      "passage_id": "AMZN_10K_2026-02-06:L565:29f5622d65fd36b9",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 530,
+      "passage_id": "AMZN_10K_2026-02-06:L667:a8f01c48912bd8d6",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 531,
+      "passage_id": "AMZN_10K_2026-02-06:L740:08952af14572c6b1",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 532,
+      "passage_id": "AMZN_10K_2026-02-06:L834:c62fbe69d6398b33",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 533,
+      "passage_id": "AMZN_10K_2026-02-06:L1254:f70b3e399b8e4e89",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 534,
+      "passage_id": "AMZN_10K_2026-02-06:L1266:5e9e9b3e74c978db",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 535,
+      "passage_id": "HD_10K_2026-03-18:L113:96a647c88ec1f660",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 536,
+      "passage_id": "HD_10K_2026-03-18:L263:3cff1f69a2db41c5",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 537,
+      "passage_id": "HD_10K_2026-03-18:L281:e8139b931cb0452b",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 538,
+      "passage_id": "HD_10K_2026-03-18:L307:6fa0dbc98a6a0624",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 539,
+      "passage_id": "HD_10K_2026-03-18:L403:d1a99f51c5ef0388",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 540,
+      "passage_id": "HD_10K_2026-03-18:L415:9cd7fe698449b1f5",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 541,
+      "passage_id": "HD_10K_2026-03-18:L417:c4358a941ef6ed1a",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 542,
+      "passage_id": "HD_10K_2026-03-18:L431:450f829e90be3b8e",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 543,
+      "passage_id": "HD_10K_2026-03-18:L453:5d85abe16e1f31cb",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 544,
+      "passage_id": "HD_10K_2026-03-18:L461:f29c32744e407149",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 545,
+      "passage_id": "HD_10K_2026-03-18:L483:b2b3b940b82a26b1",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 546,
+      "passage_id": "HD_10K_2026-03-18:L493:606d4987de23cbf0",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 547,
+      "passage_id": "HD_10K_2026-03-18:L511:bff858a4203fe537",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 548,
+      "passage_id": "LOW_10K_2026-03-23:L167:c1d649370f106308",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 549,
+      "passage_id": "LOW_10K_2026-03-23:L175:4e53ae09232eca3b",
+      "decision": "fresh contextual judgments"
+    },
+    {
+      "index": 550,
+      "passage_id": "LOW_10K_2026-03-23:L354:5aee084b409a52de",
+      "decision": "fresh contextual judgments"
+    }
+  ]
+}

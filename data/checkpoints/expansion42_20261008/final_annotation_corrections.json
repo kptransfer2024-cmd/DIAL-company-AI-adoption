@@ -1,0 +1,46 @@
+[
+  {
+    "previous_claim_id": "GOOGL_claim_b08923bceedf97878117",
+    "claim_id": "GOOGL_claim_5208fc09268fbe3e637e",
+    "reason": "Start-only evidence anchor expanded to complete remaining parent context; judgment unchanged."
+  },
+  {
+    "previous_claim_id": "META_claim_17a46547d8a02ae04d53",
+    "claim_id": "META_claim_795e061fc1717a97962c",
+    "reason": "Start-only evidence anchor expanded to complete remaining parent context; judgment unchanged."
+  },
+  {
+    "previous_claim_id": "NOW_claim_da98abce2303d685e862",
+    "claim_id": "NOW_claim_77c32ebd6ed5e8fdefad",
+    "reason": "Start-only evidence anchor expanded to complete remaining parent context; judgment unchanged."
+  },
+  {
+    "previous_claim_id": "NOW_claim_c5931e87d5b4e9496a87",
+    "claim_id": "NOW_claim_4115b583b079c6ec3720",
+    "reason": "Start-only evidence anchor expanded to complete remaining parent context; judgment unchanged."
+  },
+  {
+    "previous_claim_id": "LOW_claim_6f0e1be9f2b4450298f2",
+    "claim_id": "LOW_claim_f3f645a399ba4d2d82aa",
+    "reason": "Start-only evidence anchor expanded to complete remaining parent context; judgment unchanged."
+  },
+  {
+    "previous_claim_id": "LOW_claim_fcde8d59b96b662c9d51",
+    "claim_id": "LOW_claim_12163814689f9e50ce15",
+    "reason": "Start-only evidence anchor expanded to complete remaining parent context; judgment unchanged."
+  },
+  {
+    "previous_claim_id": "GS_claim_0b3680b0c758dee193e4",
+    "claim_id": "GS_claim_c6fd31f3e1ea559cc0b9",
+    "reason": "Start-only evidence anchor expanded to complete remaining parent context; judgment unchanged."
+  },
+  {
+    "previous_claim_id": "BMY_claim_25b09613f6989bc25a0b",
+    "claim_id": "BMY_claim_17d2864bb57512f156c6",
+    "reason": "Start-only evidence anchor expanded to complete remaining parent context; judgment unchanged."
+  },
+  {
+    "claim_id": "DE_claim_5eb61ee2255a5576b6f5",
+    "reason": "Rechecked explicit current ML product use against full parent; NA corrected to Stage 4, without resolving agricultural application IDs."
+  }
+]

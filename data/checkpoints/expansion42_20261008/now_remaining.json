@@ -1,0 +1,186 @@
+[
+  {
+    "i": 473,
+    "n": "Current AI-powered workflow application suite is offered; individual tasks/product identities unresolved in this overview.",
+    "st": 4,
+    "scope": "customer_facing_product",
+    "use": "AI enterprise workflow application suite; task boundaries unresolved",
+    "sp": 2
+  },
+  {
+    "i": 474,
+    "n": "Current AI-powered workflow application suite is offered; individual tasks/product identities unresolved in this overview.",
+    "st": 4,
+    "scope": "customer_facing_product",
+    "use": "AI enterprise workflow application suite; task boundaries unresolved",
+    "sp": 2
+  },
+  {
+    "i": 451,
+    "n": "AI competitors in focal competition list.",
+    "risk": "competitive"
+  },
+  {
+    "i": 452,
+    "n": "Explicit defining-AI-software-company strategic ambition.",
+    "st": 1,
+    "strategy": "yes",
+    "o": "competitive_positioning",
+    "sp": 1
+  },
+  {
+    "i": 453,
+    "n": "Explicit current use of AI in focal talent management; task domain identifiable, finer workflow unspecified.",
+    "st": 4,
+    "scope": "internal_operations",
+    "uc": "talent_management",
+    "use": "Internal AI talent management",
+    "sp": 2,
+    "conf": "medium",
+    "review": "yes",
+    "o": "efficiency"
+  },
+  {
+    "i": 454,
+    "n": "2025 launched AI-powered learning hub is currently free and available to employees/customers/partners. One application has mixed internal/product access scope; internal use itself is not asserted.",
+    "st": 4,
+    "scope": "customer_facing_product",
+    "uc": "university_learning",
+    "use": "ServiceNow University AI-powered professional learning",
+    "sp": 4
+  },
+  {
+    "i": 455,
+    "n": "AI offering operational/ethical/legal exposure summary.",
+    "risk": "operational|regulatory",
+    "tmp": "hypothetical"
+  },
+  {
+    "i": 456,
+    "n": "ML/AI data regulation and sovereignty constraints.",
+    "risk": "regulatory|privacy"
+  },
+  {
+    "i": 457,
+    "n": "AI-native competition and technological change.",
+    "risk": "competitive"
+  },
+  {
+    "i": 458,
+    "n": "AI vendors and integration/data-access competitors may disrupt offerings.",
+    "risk": "competitive|third_party"
+  },
+  {
+    "i": 459,
+    "n": "AI innovation may disrupt staffing and enterprise software markets.",
+    "risk": "competitive|workforce",
+    "tmp": "hypothetical"
+  },
+  {
+    "i": 460,
+    "n": "Normative need to deliver scalable AI products within execution-risk context; no explicit intended application.",
+    "risk": "competitive",
+    "tmp": "hypothetical"
+  },
+  {
+    "i": 461,
+    "n": "AI risk list continuation; no strategy/deployment evidence.",
+    "risk": "operational",
+    "tmp": "hypothetical"
+  },
+  {
+    "i": 462,
+    "n": "Repeated AI offering legal and operational exposure heading.",
+    "risk": "operational|regulatory",
+    "tmp": "hypothetical"
+  },
+  {
+    "i": 463,
+    "n": "Actual broad customer-facing/internal AI integration is asserted, but mixed scope and tasks prevent distinct application counting.",
+    "st": 4,
+    "scope": "customer_facing_product|internal_operations",
+    "use": "Mixed internal/product AI integration; task boundaries unspecified",
+    "sp": 2,
+    "conf": "medium",
+    "review": "yes",
+    "risk": "financial"
+  },
+  {
+    "i": 464,
+    "n": "Third-party hardware/software, IP and competition exposure for AI products.",
+    "risk": "third_party|intellectual_property|competitive|financial"
+  },
+  {
+    "i": 465,
+    "n": "AI Act and other regulation may alter data handling and product availability.",
+    "risk": "regulatory|privacy"
+  },
+  {
+    "i": 466,
+    "n": "AI intellectual-property, biased-output and social concerns; internal/product use mentioned without additional concrete task.",
+    "risk": "intellectual_property|privacy|model_quality|bias|reputational",
+    "tmp": "hypothetical"
+  },
+  {
+    "i": 467,
+    "n": "Threat actors may exploit AI for sophisticated attacks.",
+    "risk": "cybersecurity",
+    "tmp": "hypothetical"
+  },
+  {
+    "i": 468,
+    "n": "AI-generated code increases exploitation risk; continuation retained, no actual coding task use established.",
+    "risk": "cybersecurity",
+    "tmp": "hypothetical"
+  },
+  {
+    "i": 469,
+    "n": "AI Platform brand occurs in ordinary security configuration guidance; no AI-specific operating/control claim.",
+    "r": "context_only",
+    "firm": "no",
+    "tmp": "unclear"
+  },
+  {
+    "i": 470,
+    "n": "AI/ML personnel recruitment competition.",
+    "risk": "workforce"
+  },
+  {
+    "i": 471,
+    "n": "AI implementation creates information-system capacity expansion needs; no task-specific deployment.",
+    "risk": "capacity",
+    "scope": "infrastructure_or_platform"
+  },
+  {
+    "i": 472,
+    "n": "AI intellectual-property ownership, licenses and privacy claims.",
+    "risk": "intellectual_property|privacy"
+  },
+  {
+    "i": 475,
+    "n": "Genesys AI-software minority investment; purchase value is not AI adoption.",
+    "scope": "partnership_or_investment",
+    "inv": "yes"
+  },
+  {
+    "i": 476,
+    "n": "Logik AI CPQ acquisition; acquisition alone does not assert current integrated AI application deployment.",
+    "scope": "partnership_or_investment",
+    "inv": "yes"
+  },
+  {
+    "i": 477,
+    "n": "Intended AI data context improvement via acquisition; supporting data structure not itself an AI use task.",
+    "scope": "partnership_or_investment",
+    "inv": "yes",
+    "tmp": "planned",
+    "f": "yes"
+  },
+  {
+    "i": 478,
+    "n": "Historical AI platform acquisition; no current deployment assertion.",
+    "scope": "partnership_or_investment",
+    "inv": "yes",
+    "tmp": "historical"
+  }
+]

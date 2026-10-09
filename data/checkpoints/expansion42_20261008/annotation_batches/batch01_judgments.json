@@ -1,0 +1,258 @@
+{
+  "start": 0,
+  "end": 50,
+  "new_judgments": [],
+  "changes": {},
+  "contextual_reviews": [
+    {
+      "index": 0,
+      "passage_id": "MSFT_10K_2026-07-29:L124:cba32c2084f48265",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 1,
+      "passage_id": "MSFT_10K_2026-07-29:L126:099f2984aec36957",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 2,
+      "passage_id": "MSFT_10K_2026-07-29:L128:8b82d7c71beec676",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 3,
+      "passage_id": "MSFT_10K_2026-07-29:L130:592d60126f389ab5",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 4,
+      "passage_id": "MSFT_10K_2026-07-29:L136:3567704567ee96bb",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 5,
+      "passage_id": "MSFT_10K_2026-07-29:L140:9790d3d1baf5589e",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 6,
+      "passage_id": "MSFT_10K_2026-07-29:L148:ed3dd9a75c893f81",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 7,
+      "passage_id": "MSFT_10K_2026-07-29:L156:3310c0a71d25ae3a",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 8,
+      "passage_id": "MSFT_10K_2026-07-29:L162:6eb024ff8d49dbe1",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 9,
+      "passage_id": "MSFT_10K_2026-07-29:L170:e9073322437f5a93",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 10,
+      "passage_id": "MSFT_10K_2026-07-29:L172:6e3b3ebd567585ee",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 11,
+      "passage_id": "MSFT_10K_2026-07-29:L174:dfc503abd104e41e",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 12,
+      "passage_id": "MSFT_10K_2026-07-29:L176:c3ce6c456733964d",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 13,
+      "passage_id": "MSFT_10K_2026-07-29:L180:979f13f8233a221a",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 14,
+      "passage_id": "MSFT_10K_2026-07-29:L204:067e83934a3d544b",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 15,
+      "passage_id": "MSFT_10K_2026-07-29:L214:7e1f9194201b448f",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 16,
+      "passage_id": "MSFT_10K_2026-07-29:L218:3bdeced2087163e5",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 17,
+      "passage_id": "MSFT_10K_2026-07-29:L226:2f2a64b3e3376048",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 18,
+      "passage_id": "MSFT_10K_2026-07-29:L230:d07b453384419b15",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 19,
+      "passage_id": "MSFT_10K_2026-07-29:L234:0f4d30d5ea7451c5",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 20,
+      "passage_id": "MSFT_10K_2026-07-29:L248:77e2d4c192c96aa0",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 21,
+      "passage_id": "MSFT_10K_2026-07-29:L258:0a8fdfb83d29df0d",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 22,
+      "passage_id": "MSFT_10K_2026-07-29:L260:f76ff6ada6fd8bf9",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 23,
+      "passage_id": "MSFT_10K_2026-07-29:L264:0d4cc6822c8f08c2",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 24,
+      "passage_id": "MSFT_10K_2026-07-29:L268:4c53c48f77a5b097",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 25,
+      "passage_id": "MSFT_10K_2026-07-29:L272:56aca2c5670d617c",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 26,
+      "passage_id": "MSFT_10K_2026-07-29:L296:3b2e86614e06d86d",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 27,
+      "passage_id": "MSFT_10K_2026-07-29:L306:cb3b1915a634aa8e",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 28,
+      "passage_id": "MSFT_10K_2026-07-29:L320:508881888689d8e4",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 29,
+      "passage_id": "MSFT_10K_2026-07-29:L336:653bf2b2224606eb",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 30,
+      "passage_id": "MSFT_10K_2026-07-29:L360:4393b07ea63d5b22",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 31,
+      "passage_id": "MSFT_10K_2026-07-29:L362:6488cf7989fdd46c",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 32,
+      "passage_id": "MSFT_10K_2026-07-29:L372:1c04a8805f44b6f0",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 33,
+      "passage_id": "MSFT_10K_2026-07-29:L376:f83b74407e8e436a",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 34,
+      "passage_id": "MSFT_10K_2026-07-29:L481:585a0684b5523237",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 35,
+      "passage_id": "MSFT_10K_2026-07-29:L497:3db293159948e972",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 36,
+      "passage_id": "MSFT_10K_2026-07-29:L505:be6ecedcf6a6170b",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 37,
+      "passage_id": "MSFT_10K_2026-07-29:L509:1708ad816c5487b5",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 38,
+      "passage_id": "MSFT_10K_2026-07-29:L515:d2797cfc7d5cee08",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 39,
+      "passage_id": "MSFT_10K_2026-07-29:L517:e14af7c166776879",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 40,
+      "passage_id": "MSFT_10K_2026-07-29:L519:cd782d383f96b5ed",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 41,
+      "passage_id": "MSFT_10K_2026-07-29:L521:5e88d42548da59b4",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 42,
+      "passage_id": "MSFT_10K_2026-07-29:L523:c02117237ba64029",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 43,
+      "passage_id": "MSFT_10K_2026-07-29:L525:7f911f07d848f195",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 44,
+      "passage_id": "MSFT_10K_2026-07-29:L527:9a14a9f5404fc736",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 45,
+      "passage_id": "MSFT_10K_2026-07-29:L529:c089aaf32ba412f2",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 46,
+      "passage_id": "MSFT_10K_2026-07-29:L531:c1daa05c6c0c0db3",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 47,
+      "passage_id": "MSFT_10K_2026-07-29:L533:81bd6782b07e912a",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 48,
+      "passage_id": "MSFT_10K_2026-07-29:L537:9566ff0b9d71caf0",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    },
+    {
+      "index": 49,
+      "passage_id": "MSFT_10K_2026-07-29:L545:90963dbbab842407",
+      "decision": "prior claims rechecked against AI-bearing sentences and adjacent source context; retained unless changed explicitly"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "i": 407,
+    "n": "Current Oracle cloud applications incorporate AI automation and analytics; product provision with task/product boundaries unresolved.",
+    "st": 4,
+    "scope": "customer_facing_product",
+    "use": "Oracle cloud AI automation and analytics suite; application boundaries unresolved",
+    "sp": 3
+  },
+  {
+    "i": 401,
+    "n": "AI systems/malicious-party cyber risk and potentially inadequate controls; no concrete current defense application.",
+    "risk": "cybersecurity|misuse",
+    "tmp": "hypothetical"
+  },
+  {
+    "i": 402,
+    "n": "AI privacy compliance requirements; general compliance programs do not independently identify AI-specific controls.",
+    "risk": "regulatory|privacy"
+  },
+  {
+    "i": 403,
+    "n": "Industry AI/LLM prevalence bullet needs surrounding risk context; no focal implementation.",
+    "r": "context_only",
+    "firm": "no",
+    "actor": "industry"
+  },
+  {
+    "i": 404,
+    "n": "AI healthcare regulatory exposure.",
+    "risk": "regulatory"
+  },
+  {
+    "i": 405,
+    "n": "AI announcements may affect stock-price volatility.",
+    "risk": "financial",
+    "tmp": "hypothetical"
+  },
+  {
+    "i": 406,
+    "n": "Malicious GenAI misinformation could influence focal stock valuation.",
+    "risk": "misuse|financial|reputational",
+    "tmp": "hypothetical"
+  },
+  {
+    "i": 408,
+    "n": "Accounting business description of AI-enhanced portfolio, no independent identifiable application.",
+    "scope": "customer_facing_product"
+  },
+  {
+    "i": 409,
+    "n": "Initiated restructuring includes AI operational integration; broad current implementation corroborated in parent 399, but function identities unresolved. Costs are restructuring expenses rather than application outcomes.",
+    "st": 4,
+    "scope": "internal_operations",
+    "use": "Internal AI operational integration; functions unspecified",
+    "inv": "yes",
+    "sp": 2,
+    "conf": "medium",
+    "review": "yes",
+    "attr": "shared_drivers"
+  }
+]
